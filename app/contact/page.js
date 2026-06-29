@@ -1,0 +1,69 @@
+'use client';
+
+import { useState } from 'react';
+import { Send } from 'lucide-react';
+
+export default function ContactPage() {
+  const [submitted, setSubmitted] = useState(false);
+  const [form, setForm] = useState({ name: '', email: '', message: '' });
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    const subject = encodeURIComponent(`BrainKhela Contact from ${form.name}`);
+    const body = encodeURIComponent(`নাম: ${form.name}\nইমেইল: ${form.email}\n\n${form.message}`);
+    window.location.href = `mailto:contact@brainkhela.com?subject=${subject}&body=${body}`;
+    setSubmitted(true);
+  };
+
+  return (
+    <div className="py-12 px-4 max-w-lg mx-auto">
+      <h1 className="text-3xl font-bold text-primary mb-6 text-center">যোগাযোগ</h1>
+
+      {submitted ? (
+        <div className="card text-center">
+          <p className="text-success font-semibold text-lg mb-2">✓ বার্তা পাঠানো হয়েছে!</p>
+          <p className="text-gray-500 text-sm">আপনার ইমেইল ক্লায়েন্ট খুলে যাবে। সেখান থেকে পাঠান।</p>
+          <button onClick={() => setSubmitted(false)} className="btn-secondary mt-4 text-sm py-2">
+            আবার পাঠাও
+          </button>
+        </div>
+      ) : (
+        <form onSubmit={handleSubmit} className="card space-y-4">
+          <div>
+            <label className="block text-sm font-medium text-gray-700 mb-1">নাম</label>
+            <input
+              type="text"
+              required
+              value={form.name}
+              onChange={(e) => setForm({ ...form, name: e.target.value })}
+              className="w-full border border-gray-200 rounded-lg px-4 py-2 focus:border-primary focus:outline-none"
+            />
+          </div>
+          <div>
+            <label className="block text-sm font-medium text-gray-700 mb-1">ইমেইল</label>
+            <input
+              type="email"
+              required
+              value={form.email}
+              onChange={(e) => setForm({ ...form, email: e.target.value })}
+              className="w-full border border-gray-200 rounded-lg px-4 py-2 focus:border-primary focus:outline-none"
+            />
+          </div>
+          <div>
+            <label className="block text-sm font-medium text-gray-700 mb-1">বার্তা</label>
+            <textarea
+              required
+              rows={5}
+              value={form.message}
+              onChange={(e) => setForm({ ...form, message: e.target.value })}
+              className="w-full border border-gray-200 rounded-lg px-4 py-2 focus:border-primary focus:outline-none resize-none"
+            />
+          </div>
+          <button type="submit" className="btn-primary w-full flex items-center justify-center gap-2">
+            <Send size={18} /> পাঠাও
+          </button>
+        </form>
+      )}
+    </div>
+  );
+}

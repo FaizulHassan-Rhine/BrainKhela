@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-gray-50 text-gray-900 font-bangla antialiased;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-primary hover:bg-purple-700 text-white font-semibold py-3 px-6 rounded-lg transition-colors duration-200;
+  }
+  .btn-secondary {
+    @apply bg-white hover:bg-gray-50 text-primary border-2 border-primary font-semibold py-3 px-6 rounded-lg transition-colors duration-200;
+  }
+  .card {
+    @apply bg-white rounded-xl shadow-sm border border-gray-100 p-6;
+  }
+  .quiz-option {
+    @apply w-full text-left p-4 rounded-xl border-2 border-gray-200 hover:border-primary hover:bg-purple-50 transition-all duration-200 cursor-pointer;
+  }
+  .quiz-option-correct {
+    @apply border-success bg-green-50 text-green-800;
+  }
+  .quiz-option-wrong {
+    @apply border-error bg-red-50 text-red-800;
+  }
+}
