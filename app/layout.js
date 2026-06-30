@@ -1,6 +1,7 @@
-import { Hind_Siliguri } from 'next/font/google';
+import { Hind_Siliguri, Noto_Sans_Bengali } from 'next/font/google';
 import Script from 'next/script';
 import './globals.css';
+import AppProviders from '@/components/providers/AppProviders';
 import Navbar from '@/components/layout/Navbar';
 import Footer from '@/components/layout/Footer';
 import { GA_MEASUREMENT_ID, ADSENSE_CLIENT } from '@/lib/constants';
@@ -9,6 +10,12 @@ const hindSiliguri = Hind_Siliguri({
   subsets: ['bengali', 'latin'],
   weight: ['400', '500', '600', '700'],
   variable: '--font-hind-siliguri',
+});
+
+const notoBengali = Noto_Sans_Bengali({
+  subsets: ['bengali'],
+  weight: ['500', '600', '700'],
+  variable: '--font-noto-bengali',
 });
 
 export const metadata = {
@@ -32,9 +39,10 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="bn" className={hindSiliguri.variable}>
-      <body className="min-h-screen flex flex-col font-bangla">
+    <html lang="bn" className={`${hindSiliguri.variable} ${notoBengali.variable}`}>
+      <head>
         <Script
+          async
           src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
           strategy="afterInteractive"
         />
@@ -46,15 +54,19 @@ export default function RootLayout({ children }) {
             gtag('config', '${GA_MEASUREMENT_ID}');
           `}
         </Script>
+      </head>
+      <body className="min-h-screen flex flex-col font-bangla">
         <Script
           async
           src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`}
           crossOrigin="anonymous"
           strategy="afterInteractive"
         />
-        <Navbar />
-        <main className="flex-1">{children}</main>
-        <Footer />
+        <AppProviders>
+          <Navbar />
+          <main className="flex-1">{children}</main>
+          <Footer />
+        </AppProviders>
       </body>
     </html>
   );

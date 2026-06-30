@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'HSC অ্যাকাউন্টিং MCQ',
-  description: 'HSC হিসাববিজ্ঞান MCQ প্র্যাকটিস — অধ্যায়ভিত্তিক প্রশ্ন ও সূত্র হিন্ট।',
+  title: 'HSC MCQ প্র্যাকটিস',
+  description: 'HSC বিষয়ভিত্তিক ১০০০+ বাংলা-ইংরেজি দ্বিভাষিক MCQ প্র্যাকটিস।',
 };
 
 export default function HSCLayout({ children }) {

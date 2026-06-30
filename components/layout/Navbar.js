@@ -4,11 +4,14 @@ import { useState } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { Menu, X } from 'lucide-react';
-import { NAV_LINKS } from '@/lib/constants';
+import { NAV_LINK_KEYS } from '@/lib/translations';
+import { useLanguage } from '@/components/providers/LanguageProvider';
+import LanguageToggle from '@/components/ui/LanguageToggle';
 
 export default function Navbar() {
   const [open, setOpen] = useState(false);
   const pathname = usePathname();
+  const { t } = useLanguage();
 
   const isActive = (href) => {
     if (href === '/') return pathname === '/';
@@ -16,7 +19,7 @@ export default function Navbar() {
   };
 
   return (
-    <nav className="sticky top-0 z-40 bg-white border-b border-gray-200 shadow-sm">
+    <nav className="sticky top-0 z-40 bg-cream-light/95 backdrop-blur-md border-b border-accent shadow-card">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <Link href="/" className="flex items-center gap-2 font-bold text-xl text-primary">
@@ -24,45 +27,49 @@ export default function Navbar() {
             <span>BrainKhela</span>
           </Link>
 
-          <div className="hidden md:flex items-center gap-1">
-            {NAV_LINKS.map((link) => (
+          <div className="hidden md:flex items-center gap-2">
+            {NAV_LINK_KEYS.map((link) => (
               <Link
                 key={link.href}
                 href={link.href}
                 className={`px-3 py-2 rounded-lg text-sm font-medium transition-colors ${
                   isActive(link.href)
-                    ? 'bg-purple-100 text-primary'
-                    : 'text-gray-600 hover:text-primary hover:bg-gray-50'
+                    ? 'bg-surface text-primary'
+                    : 'text-muted-foreground hover:text-primary hover:bg-surface/60'
                 }`}
               >
-                {link.label}
+                {t(link.key)}
               </Link>
             ))}
+            <LanguageToggle />
           </div>
 
-          <button
-            className="md:hidden p-2 rounded-lg hover:bg-gray-100"
-            onClick={() => setOpen(!open)}
-            aria-label="মেনু"
-          >
-            {open ? <X size={24} /> : <Menu size={24} />}
-          </button>
+          <div className="flex md:hidden items-center gap-2">
+            <LanguageToggle />
+            <button
+              className="p-2 rounded-lg hover:bg-gray-100"
+              onClick={() => setOpen(!open)}
+              aria-label={t('nav.menu')}
+            >
+              {open ? <X size={24} /> : <Menu size={24} />}
+            </button>
+          </div>
         </div>
       </div>
 
       {open && (
-        <div className="md:hidden border-t border-gray-200 bg-white">
+        <div className="md:hidden border-t border-accent bg-cream-light">
           <div className="px-4 py-3 space-y-1">
-            {NAV_LINKS.map((link) => (
+            {NAV_LINK_KEYS.map((link) => (
               <Link
                 key={link.href}
                 href={link.href}
                 onClick={() => setOpen(false)}
                 className={`block px-3 py-2 rounded-lg text-sm font-medium ${
-                  isActive(link.href) ? 'bg-purple-100 text-primary' : 'text-gray-600'
+                  isActive(link.href) ? 'bg-surface text-primary' : 'text-muted-foreground'
                 }`}
               >
-                {link.label}
+                {t(link.key)}
               </Link>
             ))}
           </div>

@@ -1,0 +1,1443 @@
+{
+  "title": {
+    "bn": "ব্রেইন গেম তালিকা ও ডেটাসেট",
+    "en": "Brain Game List & Datasets"
+  },
+  "total_games": 50,
+  "categories": [
+    "memory",
+    "logic",
+    "math",
+    "word",
+    "reaction"
+  ],
+  "games": [
+    {
+      "id": "g01",
+      "name": {
+        "bn": "মেমোরি কার্ড (ইমোজি)",
+        "en": "Memory Card (Emoji)"
+      },
+      "description": {
+        "bn": "একই ইমোজি জোড়া খুঁজে বের করো",
+        "en": "Find matching emoji pairs"
+      },
+      "category": "memory",
+      "dataset": {
+        "icons": [
+          "🐶",
+          "🐱",
+          "🐰",
+          "🦊",
+          "🐻",
+          "🐼",
+          "🦁",
+          "🐯",
+          "🐸",
+          "🐵",
+          "🦄",
+          "🐷",
+          "🐔",
+          "🐧",
+          "🐦",
+          "🦋"
+        ],
+        "grid_sizes": [
+          12,
+          16,
+          20,
+          24
+        ],
+        "note": "icons কে pair করে শাফল করতে হবে"
+      }
+    },
+    {
+      "id": "g02",
+      "name": {
+        "bn": "মেমোরি কার্ড (সংখ্যা)",
+        "en": "Memory Card (Numbers)"
+      },
+      "description": {
+        "bn": "একই সংখ্যার জোড়া মিলাও",
+        "en": "Match pairs of identical numbers"
+      },
+      "category": "memory",
+      "dataset": {
+        "numbers": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "grid_sizes": [
+          12,
+          16,
+          20
+        ]
+      }
+    },
+    {
+      "id": "g03",
+      "name": {
+        "bn": "মেমোরি কার্ড (রঙ)",
+        "en": "Memory Card (Colors)"
+      },
+      "description": {
+        "bn": "একই রঙের কার্ড জোড়া খুঁজে বের করো",
+        "en": "Find matching color card pairs"
+      },
+      "category": "memory",
+      "dataset": {
+        "colors_bn": [
+          "লাল",
+          "নীল",
+          "সবুজ",
+          "হলুদ",
+          "কমলা",
+          "বেগুনি",
+          "গোলাপি",
+          "কালো",
+          "সাদা",
+          "ধূসর"
+        ],
+        "colors_en": [
+          "Red",
+          "Blue",
+          "Green",
+          "Yellow",
+          "Orange",
+          "Purple",
+          "Pink",
+          "Black",
+          "White",
+          "Gray"
+        ],
+        "hex": [
+          "#e74c3c",
+          "#3498db",
+          "#2ecc71",
+          "#f1c40f",
+          "#e67e22",
+          "#9b59b6",
+          "#fd79a8",
+          "#2d3436",
+          "#dfe6e9",
+          "#636e72"
+        ]
+      }
+    },
+    {
+      "id": "g04",
+      "name": {
+        "bn": "সংখ্যা মনে রাখা (Number Memory)",
+        "en": "Number Memory"
+      },
+      "description": {
+        "bn": "স্ক্রিনে দেখানো সংখ্যাটি মনে রাখো এবং পরে টাইপ করো",
+        "en": "Memorize the number shown and type it back after it disappears"
+      },
+      "category": "memory",
+      "dataset": {
+        "levels": [
+          {
+            "digits": 3,
+            "display_ms": 2000
+          },
+          {
+            "digits": 4,
+            "display_ms": 2500
+          },
+          {
+            "digits": 5,
+            "display_ms": 3000
+          },
+          {
+            "digits": 6,
+            "display_ms": 3500
+          },
+          {
+            "digits": 7,
+            "display_ms": 4000
+          },
+          {
+            "digits": 8,
+            "display_ms": 4500
+          }
+        ],
+        "sample_numbers": [
+          "482",
+          "9173",
+          "58210",
+          "647391",
+          "2058173",
+          "91748206"
+        ]
+      }
+    },
+    {
+      "id": "g05",
+      "name": {
+        "bn": "শব্দ মনে রাখা (Word Memory)",
+        "en": "Word Memory"
+      },
+      "description": {
+        "bn": "কয়েকটি শব্দ দেখানো হবে, পরে সেগুলো মনে করে লিখতে হবে",
+        "en": "A list of words is shown, recall and type them after they disappear"
+      },
+      "category": "memory",
+      "dataset": {
+        "word_lists_bn": [
+          [
+            "আম",
+            "কলা",
+            "নদী",
+            "পাহাড়",
+            "আকাশ"
+          ],
+          [
+            "বই",
+            "কলম",
+            "স্কুল",
+            "বন্ধু",
+            "শিক্ষক"
+          ]
+        ],
+        "word_lists_en": [
+          [
+            "Apple",
+            "River",
+            "Mountain",
+            "Sky",
+            "Tree"
+          ],
+          [
+            "Book",
+            "Pen",
+            "School",
+            "Friend",
+            "Teacher"
+          ]
+        ],
+        "display_ms": 3000
+      }
+    },
+    {
+      "id": "g06",
+      "name": {
+        "bn": "সিকোয়েন্স মনে রাখা (Simon Says)",
+        "en": "Simon Sequence"
+      },
+      "description": {
+        "bn": "রঙিন বাটনের ক্রম দেখে সেটি পুনরাবৃত্তি করো",
+        "en": "Watch the sequence of colored buttons and repeat it"
+      },
+      "category": "memory",
+      "dataset": {
+        "buttons_bn": [
+          "লাল",
+          "নীল",
+          "সবুজ",
+          "হলুদ"
+        ],
+        "buttons_en": [
+          "Red",
+          "Blue",
+          "Green",
+          "Yellow"
+        ],
+        "colors_hex": [
+          "#e74c3c",
+          "#3498db",
+          "#2ecc71",
+          "#f1c40f"
+        ],
+        "start_length": 3,
+        "max_length": 20
+      }
+    },
+    {
+      "id": "g07",
+      "name": {
+        "bn": "ছবির অবস্থান মনে রাখা (Spot the Position)",
+        "en": "Position Memory"
+      },
+      "description": {
+        "bn": "গ্রিডে কোন কোন ঘর হাইলাইট হয়েছিল মনে রাখো",
+        "en": "Remember which grid cells were highlighted"
+      },
+      "category": "memory",
+      "dataset": {
+        "grid_size": "5x5",
+        "highlight_counts": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "display_ms": 2000
+      }
+    },
+    {
+      "id": "g08",
+      "name": {
+        "bn": "মুখ-নাম মনে রাখা (Face-Name Match)",
+        "en": "Face-Name Match"
+      },
+      "description": {
+        "bn": "একটি কার্টুন মুখ ও নাম দেখানো হবে, পরে সঠিক নাম বেছে নিতে হবে",
+        "en": "A cartoon face and name are shown; later pick the correct matching name"
+      },
+      "category": "memory",
+      "dataset": {
+        "names_bn": [
+          "রাহুল",
+          "সুমি",
+          "করিম",
+          "নাসরিন",
+          "তানভীর",
+          "রিয়া"
+        ],
+        "names_en": [
+          "Rahul",
+          "Sumi",
+          "Karim",
+          "Nasrin",
+          "Tanvir",
+          "Riya"
+        ],
+        "avatars": [
+          "👦",
+          "👧",
+          "👨",
+          "👩",
+          "🧑",
+          "👱‍♀️"
+        ]
+      }
+    },
+    {
+      "id": "g09",
+      "name": {
+        "bn": "গল্প মনে রাখা (Story Recall)",
+        "en": "Story Recall"
+      },
+      "description": {
+        "bn": "একটি ছোট গল্প পড়ে কয়েকটি প্রশ্নের উত্তর দাও",
+        "en": "Read a short story then answer recall questions"
+      },
+      "category": "memory",
+      "dataset": {
+        "stories": [
+          {
+            "text_bn": "রহিম প্রতিদিন সকালে বাজারে যায় এবং তিনটি আম কেনে।",
+            "text_en": "Rahim goes to the market every morning and buys three mangoes.",
+            "questions": [
+              {
+                "q_bn": "রহিম কী কেনে?",
+                "q_en": "What does Rahim buy?",
+                "answer_bn": "আম",
+                "answer_en": "Mangoes"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "g10",
+      "name": {
+        "bn": "কার্ড সিকোয়েন্স (n-back)",
+        "en": "N-Back Memory"
+      },
+      "description": {
+        "bn": "n ধাপ আগের আইটেমের সাথে বর্তমান আইটেম মিলে কিনা বলো",
+        "en": "Decide if the current item matches the one n steps earlier"
+      },
+      "category": "memory",
+      "dataset": {
+        "n_levels": [
+          1,
+          2,
+          3
+        ],
+        "item_pool": [
+          "🔴",
+          "🔵",
+          "🟢",
+          "🟡",
+          "🟣"
+        ],
+        "sequence_length": 20
+      }
+    },
+    {
+      "id": "g11",
+      "name": {
+        "bn": "সংখ্যা প্যাটার্ন (Number Pattern)",
+        "en": "Number Pattern"
+      },
+      "description": {
+        "bn": "ধারাটি দেখে পরবর্তী সংখ্যা বের করো",
+        "en": "Find the next number in the series"
+      },
+      "category": "logic",
+      "dataset": {
+        "series": [
+          {
+            "sequence": [
+              2,
+              4,
+              6,
+              8
+            ],
+            "answer": 10
+          },
+          {
+            "sequence": [
+              1,
+              1,
+              2,
+              3,
+              5
+            ],
+            "answer": 8
+          },
+          {
+            "sequence": [
+              5,
+              10,
+              20,
+              40
+            ],
+            "answer": 80
+          },
+          {
+            "sequence": [
+              100,
+              90,
+              80,
+              70
+            ],
+            "answer": 60
+          },
+          {
+            "sequence": [
+              3,
+              9,
+              27,
+              81
+            ],
+            "answer": 243
+          }
+        ]
+      }
+    },
+    {
+      "id": "g12",
+      "name": {
+        "bn": "আকৃতি প্যাটার্ন (Shape Pattern)",
+        "en": "Shape Pattern"
+      },
+      "description": {
+        "bn": "আকৃতির ক্রম দেখে পরের আকৃতি বের করো",
+        "en": "Determine the next shape in the pattern"
+      },
+      "category": "logic",
+      "dataset": {
+        "shapes": [
+          "🔺",
+          "🔵",
+          "🔺",
+          "🔵",
+          "🔺"
+        ],
+        "answer": "🔵",
+        "shape_pool": [
+          "🔺",
+          "🔵",
+          "🟩",
+          "⭐",
+          "⬛",
+          "🔶"
+        ]
+      }
+    },
+    {
+      "id": "g13",
+      "name": {
+        "bn": "বিজোড় খুঁজে বের করো (Odd One Out)",
+        "en": "Odd One Out"
+      },
+      "description": {
+        "bn": "চারটির মধ্যে যেটি ভিন্ন সেটি বেছে নাও",
+        "en": "Pick the item that doesn't belong"
+      },
+      "category": "logic",
+      "dataset": {
+        "sets": [
+          {
+            "items_bn": [
+              "আপেল",
+              "কলা",
+              "গাজর",
+              "আম"
+            ],
+            "items_en": [
+              "Apple",
+              "Banana",
+              "Carrot",
+              "Mango"
+            ],
+            "odd_index": 2
+          },
+          {
+            "items_bn": [
+              "কুকুর",
+              "বিড়াল",
+              "গরু",
+              "চেয়ার"
+            ],
+            "items_en": [
+              "Dog",
+              "Cat",
+              "Cow",
+              "Chair"
+            ],
+            "odd_index": 3
+          }
+        ]
+      }
+    },
+    {
+      "id": "g14",
+      "name": {
+        "bn": "যুক্তি ধাঁধা (Logic Puzzle)",
+        "en": "Logic Puzzle"
+      },
+      "description": {
+        "bn": "ছোট যুক্তিভিত্তিক প্রশ্নের সমাধান করো",
+        "en": "Solve short logical reasoning puzzles"
+      },
+      "category": "logic",
+      "dataset": {
+        "puzzles": [
+          {
+            "q_bn": "যদি সব ফুল লাল হয় এবং গোলাপ একটি ফুল হয়, তাহলে গোলাপ কী রঙের?",
+            "q_en": "If all flowers are red and a rose is a flower, what color is the rose?",
+            "answer_bn": "লাল",
+            "answer_en": "Red"
+          }
+        ]
+      }
+    },
+    {
+      "id": "g15",
+      "name": {
+        "bn": "মেট্রিক্স ধাঁধা (Matrix Reasoning)",
+        "en": "Matrix Reasoning"
+      },
+      "description": {
+        "bn": "৩x৩ গ্রিডের অনুপস্থিত অংশ বের করো",
+        "en": "Find the missing piece in a 3x3 grid pattern"
+      },
+      "category": "logic",
+      "dataset": {
+        "grid_example": [
+          [
+            "🔴",
+            "🔵",
+            "🔴"
+          ],
+          [
+            "🔵",
+            "🔴",
+            "🔵"
+          ],
+          [
+            "🔴",
+            "🔵",
+            "?"
+          ]
+        ],
+        "answer": "🔴"
+      }
+    },
+    {
+      "id": "g16",
+      "name": {
+        "bn": "কোডিং-ডিকোডিং (Code Cracking)",
+        "en": "Code Cracking"
+      },
+      "description": {
+        "bn": "অক্ষরের কোড অনুযায়ী শব্দ ডিকোড করো",
+        "en": "Decode words using a letter-shift cipher"
+      },
+      "category": "logic",
+      "dataset": {
+        "cipher_examples": [
+          {
+            "code": "BCD",
+            "shift": 1,
+            "answer_bn": "কখগ-উদাহরণ",
+            "answer_en": "ABC"
+          }
+        ],
+        "rule": "each letter shifted by N in alphabet"
+      }
+    },
+    {
+      "id": "g17",
+      "name": {
+        "bn": "যুক্তিসংগত ক্রম (Logical Sequence)",
+        "en": "Logical Sequence"
+      },
+      "description": {
+        "bn": "ঘটনার সঠিক ক্রম সাজাও",
+        "en": "Arrange events in the correct logical order"
+      },
+      "category": "logic",
+      "dataset": {
+        "sequences": [
+          {
+            "items_bn": [
+              "বীজ বপন",
+              "গাছ গজানো",
+              "ফুল ফোটা",
+              "ফল ধরা"
+            ],
+            "items_en": [
+              "Plant seed",
+              "Sprout grows",
+              "Flower blooms",
+              "Fruit forms"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "g18",
+      "name": {
+        "bn": "সিলোজিজম (Syllogism)",
+        "en": "Syllogism"
+      },
+      "description": {
+        "bn": "দুটি বাক্য থেকে সঠিক সিদ্ধান্ত বের করো",
+        "en": "Determine if a conclusion logically follows from two statements"
+      },
+      "category": "logic",
+      "dataset": {
+        "items": [
+          {
+            "premise1_bn": "সব পাখি ওড়ে",
+            "premise2_bn": "ময়না একটি পাখি",
+            "conclusion_bn": "ময়না ওড়ে",
+            "premise1_en": "All birds fly",
+            "premise2_en": "Myna is a bird",
+            "conclusion_en": "Myna flies",
+            "valid": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "g19",
+      "name": {
+        "bn": "শেপ সর্টিং (Shape Sorting)",
+        "en": "Shape Sorting"
+      },
+      "description": {
+        "bn": "আকৃতিগুলোকে সঠিক গ্রুপে সাজাও",
+        "en": "Sort shapes into the correct groups by attribute"
+      },
+      "category": "logic",
+      "dataset": {
+        "attributes": [
+          "color",
+          "size",
+          "sides"
+        ],
+        "shape_pool": [
+          "🔺",
+          "🔵",
+          "🟩",
+          "⭐"
+        ]
+      }
+    },
+    {
+      "id": "g20",
+      "name": {
+        "bn": "ধাঁধা টাইলস (Sliding Puzzle)",
+        "en": "Sliding Puzzle"
+      },
+      "description": {
+        "bn": "টাইল সরিয়ে ছবিটি সঠিকভাবে সাজাও",
+        "en": "Slide tiles to arrange the image correctly"
+      },
+      "category": "logic",
+      "dataset": {
+        "grid_sizes": [
+          "3x3",
+          "4x4"
+        ],
+        "images": [
+          "sample1.png",
+          "sample2.png"
+        ]
+      }
+    },
+    {
+      "id": "g21",
+      "name": {
+        "bn": "দ্রুত যোগ (Speed Addition)",
+        "en": "Speed Addition"
+      },
+      "description": {
+        "bn": "সীমিত সময়ের মধ্যে যোগফল বের করো",
+        "en": "Solve addition problems within a time limit"
+      },
+      "category": "math",
+      "dataset": {
+        "sample": [
+          {
+            "a": 12,
+            "b": 7,
+            "answer": 19
+          },
+          {
+            "a": 45,
+            "b": 36,
+            "answer": 81
+          }
+        ],
+        "time_limit_sec": 30
+      }
+    },
+    {
+      "id": "g22",
+      "name": {
+        "bn": "দ্রুত বিয়োগ (Speed Subtraction)",
+        "en": "Speed Subtraction"
+      },
+      "description": {
+        "bn": "সীমিত সময়ে বিয়োগফল বের করো",
+        "en": "Solve subtraction problems within a time limit"
+      },
+      "category": "math",
+      "dataset": {
+        "sample": [
+          {
+            "a": 50,
+            "b": 18,
+            "answer": 32
+          },
+          {
+            "a": 91,
+            "b": 47,
+            "answer": 44
+          }
+        ],
+        "time_limit_sec": 30
+      }
+    },
+    {
+      "id": "g23",
+      "name": {
+        "bn": "নামতা চ্যালেঞ্জ (Times Table Challenge)",
+        "en": "Times Table Challenge"
+      },
+      "description": {
+        "bn": "নামতা মুখস্থ অনুশীলন করো",
+        "en": "Practice multiplication tables under time pressure"
+      },
+      "category": "math",
+      "dataset": {
+        "tables": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "sample": [
+          {
+            "a": 7,
+            "b": 8,
+            "answer": 56
+          }
+        ]
+      }
+    },
+    {
+      "id": "g24",
+      "name": {
+        "bn": "ভগ্নাংশ অনুশীলন (Fraction Practice)",
+        "en": "Fraction Practice"
+      },
+      "description": {
+        "bn": "ভগ্নাংশ যোগ, বিয়োগ ও তুলনা করো",
+        "en": "Add, subtract, and compare fractions"
+      },
+      "category": "math",
+      "dataset": {
+        "sample": [
+          {
+            "frac1": "1/2",
+            "frac2": "1/4",
+            "operation": "add",
+            "answer": "3/4"
+          }
+        ]
+      }
+    },
+    {
+      "id": "g25",
+      "name": {
+        "bn": "শতকরা হিসাব (Percentage Quiz)",
+        "en": "Percentage Quiz"
+      },
+      "description": {
+        "bn": "শতকরা হিসাব সমাধান করো",
+        "en": "Solve percentage based questions"
+      },
+      "category": "math",
+      "dataset": {
+        "sample": [
+          {
+            "q_bn": "১০০ এর ২০% কত?",
+            "q_en": "What is 20% of 100?",
+            "answer": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "g26",
+      "name": {
+        "bn": "মাথা গণনা (Mental Math Sprint)",
+        "en": "Mental Math Sprint"
+      },
+      "description": {
+        "bn": "মুখে মুখে দ্রুত গণিতের সমস্যা সমাধান করো",
+        "en": "Solve chained mental math problems quickly"
+      },
+      "category": "math",
+      "dataset": {
+        "sample": [
+          {
+            "expression": "5 + 3 × 2",
+            "answer": 11
+          }
+        ],
+        "time_limit_sec": 20
+      }
+    },
+    {
+      "id": "g27",
+      "name": {
+        "bn": "সংখ্যা গ্রিড যোগ (Grid Sum)",
+        "en": "Grid Sum"
+      },
+      "description": {
+        "bn": "সারি ও কলামের সংখ্যা যোগ করে নির্দিষ্ট যোগফল বের করো",
+        "en": "Find numbers in a grid that sum to a target value"
+      },
+      "category": "math",
+      "dataset": {
+        "grid_example": [
+          [
+            2,
+            5,
+            3
+          ],
+          [
+            7,
+            1,
+            4
+          ],
+          [
+            6,
+            8,
+            9
+          ]
+        ],
+        "target_sum": 12
+      }
+    },
+    {
+      "id": "g28",
+      "name": {
+        "bn": "জ্যামিতি কুইজ (Geometry Quiz)",
+        "en": "Geometry Quiz"
+      },
+      "description": {
+        "bn": "আকৃতির ক্ষেত্রফল ও পরিধি নির্ণয় করো",
+        "en": "Calculate area and perimeter of basic shapes"
+      },
+      "category": "math",
+      "dataset": {
+        "sample": [
+          {
+            "shape_bn": "আয়তক্ষেত্র",
+            "shape_en": "Rectangle",
+            "length": 5,
+            "width": 3,
+            "area": 15,
+            "perimeter": 16
+          }
+        ]
+      }
+    },
+    {
+      "id": "g29",
+      "name": {
+        "bn": "সংখ্যা অনুমান (Guess the Number)",
+        "en": "Guess the Number"
+      },
+      "description": {
+        "bn": "ইঙ্গিত অনুসরণ করে গোপন সংখ্যা অনুমান করো",
+        "en": "Guess the hidden number using high/low hints"
+      },
+      "category": "math",
+      "dataset": {
+        "range_min": 1,
+        "range_max": 100,
+        "max_attempts": 7
+      }
+    },
+    {
+      "id": "g30",
+      "name": {
+        "bn": "ইকুয়েশন সলভার (Mini Equation Solver)",
+        "en": "Mini Equation Solver"
+      },
+      "description": {
+        "bn": "x এর মান বের করো",
+        "en": "Solve for the value of x"
+      },
+      "category": "math",
+      "dataset": {
+        "sample": [
+          {
+            "equation_bn": "x + 5 = 12",
+            "equation_en": "x + 5 = 12",
+            "answer": 7
+          }
+        ]
+      }
+    },
+    {
+      "id": "g31",
+      "name": {
+        "bn": "শব্দ স্ক্র্যাম্বল (Word Scramble)",
+        "en": "Word Scramble"
+      },
+      "description": {
+        "bn": "এলোমেলো অক্ষর সাজিয়ে সঠিক শব্দ বানাও",
+        "en": "Unscramble letters to form the correct word"
+      },
+      "category": "word",
+      "dataset": {
+        "words_bn": [
+          {
+            "scrambled": "মলক",
+            "answer": "কলম"
+          },
+          {
+            "scrambled": "বুইল",
+            "answer": "বইলু"
+          }
+        ],
+        "words_en": [
+          {
+            "scrambled": "OBOK",
+            "answer": "BOOK"
+          },
+          {
+            "scrambled": "PALE",
+            "answer": "LEAP"
+          }
+        ]
+      }
+    },
+    {
+      "id": "g32",
+      "name": {
+        "bn": "শব্দ অনুসন্ধান (Word Search)",
+        "en": "Word Search"
+      },
+      "description": {
+        "bn": "অক্ষর গ্রিডের মধ্যে লুকানো শব্দ খুঁজে বের করো",
+        "en": "Find hidden words within a letter grid"
+      },
+      "category": "word",
+      "dataset": {
+        "words_bn": [
+          "আম",
+          "বই",
+          "নদী",
+          "পাখি"
+        ],
+        "words_en": [
+          "CAT",
+          "DOG",
+          "SUN",
+          "STAR"
+        ],
+        "grid_size": "10x10"
+      }
+    },
+    {
+      "id": "g33",
+      "name": {
+        "bn": "বিপরীত শব্দ (Antonyms)",
+        "en": "Antonyms"
+      },
+      "description": {
+        "bn": "প্রদত্ত শব্দের বিপরীত শব্দ বেছে নাও",
+        "en": "Choose the antonym of the given word"
+      },
+      "category": "word",
+      "dataset": {
+        "pairs": [
+          {
+            "word_bn": "বড়",
+            "answer_bn": "ছোট",
+            "word_en": "Big",
+            "answer_en": "Small"
+          },
+          {
+            "word_bn": "আলো",
+            "answer_bn": "অন্ধকার",
+            "word_en": "Light",
+            "answer_en": "Dark"
+          }
+        ]
+      }
+    },
+    {
+      "id": "g34",
+      "name": {
+        "bn": "সমার্থক শব্দ (Synonyms)",
+        "en": "Synonyms"
+      },
+      "description": {
+        "bn": "প্রদত্ত শব্দের সমার্থক শব্দ বেছে নাও",
+        "en": "Choose the synonym of the given word"
+      },
+      "category": "word",
+      "dataset": {
+        "pairs": [
+          {
+            "word_bn": "সুন্দর",
+            "answer_bn": "মনোরম",
+            "word_en": "Happy",
+            "answer_en": "Joyful"
+          }
+        ]
+      }
+    },
+    {
+      "id": "g35",
+      "name": {
+        "bn": "শব্দভান্ডার কুইজ (Vocabulary Quiz)",
+        "en": "Vocabulary Quiz"
+      },
+      "description": {
+        "bn": "শব্দের সঠিক অর্থ বেছে নাও",
+        "en": "Choose the correct meaning of the word"
+      },
+      "category": "word",
+      "dataset": {
+        "items": [
+          {
+            "word_bn": "ধৈর্য",
+            "meaning_bn": "সহ্য করার ক্ষমতা",
+            "word_en": "Patience",
+            "meaning_en": "Ability to endure"
+          }
+        ]
+      }
+    },
+    {
+      "id": "g36",
+      "name": {
+        "bn": "বানান পরীক্ষা (Spelling Test)",
+        "en": "Spelling Test"
+      },
+      "description": {
+        "bn": "সঠিক বানানটি বেছে নাও",
+        "en": "Pick the correctly spelled word"
+      },
+      "category": "word",
+      "dataset": {
+        "items": [
+          {
+            "correct_en": "NECESSARY",
+            "wrong_options_en": [
+              "NECCESARY",
+              "NECESARY",
+              "NESSECARY"
+            ]
+          },
+          {
+            "correct_bn": "বিদ্যালয়",
+            "wrong_options_bn": [
+              "বিদ্যালয়ো",
+              "বিদ্ধালয়",
+              "বিদ্যালয়ে"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "g37",
+      "name": {
+        "bn": "বাক্য সম্পূর্ণ করো (Sentence Completion)",
+        "en": "Sentence Completion"
+      },
+      "description": {
+        "bn": "বাক্যের ফাঁকা স্থান সঠিক শব্দ দিয়ে পূরণ করো",
+        "en": "Fill in the blank with the correct word"
+      },
+      "category": "word",
+      "dataset": {
+        "items": [
+          {
+            "sentence_bn": "আকাশ ___ রঙের।",
+            "answer_bn": "নীল",
+            "sentence_en": "The sky is ___ colored.",
+            "answer_en": "blue"
+          }
+        ]
+      }
+    },
+    {
+      "id": "g38",
+      "name": {
+        "bn": "শব্দ শৃঙ্খল (Word Chain)",
+        "en": "Word Chain"
+      },
+      "description": {
+        "bn": "আগের শব্দের শেষ অক্ষর দিয়ে নতুন শব্দ বলো",
+        "en": "Form a new word starting with the last letter of the previous word"
+      },
+      "category": "word",
+      "dataset": {
+        "starter_words_bn": [
+          "আম",
+          "মাছ",
+          "ছাতা"
+        ],
+        "starter_words_en": [
+          "Apple",
+          "Elephant",
+          "Tiger"
+        ]
+      }
+    },
+    {
+      "id": "g39",
+      "name": {
+        "bn": "হ্যাংম্যান (Hangman)",
+        "en": "Hangman"
+      },
+      "description": {
+        "bn": "অক্ষর অনুমান করে শব্দটি খুঁজে বের করো",
+        "en": "Guess letters to reveal the hidden word"
+      },
+      "category": "word",
+      "dataset": {
+        "word_bank_bn": [
+          "বাংলাদেশ",
+          "শিক্ষা",
+          "স্বাধীনতা"
+        ],
+        "word_bank_en": [
+          "FREEDOM",
+          "EDUCATION",
+          "COUNTRY"
+        ]
+      }
+    },
+    {
+      "id": "g40",
+      "name": {
+        "bn": "ধাঁধা শব্দ (Riddles)",
+        "en": "Riddles"
+      },
+      "description": {
+        "bn": "ধাঁধার উত্তর অনুমান করো",
+        "en": "Solve word riddles"
+      },
+      "category": "word",
+      "dataset": {
+        "items": [
+          {
+            "riddle_bn": "আমার দাঁত আছে কিন্তু আমি খাই না, আমি কী?",
+            "answer_bn": "চিরুনি",
+            "riddle_en": "I have teeth but cannot eat. What am I?",
+            "answer_en": "A comb"
+          }
+        ]
+      }
+    },
+    {
+      "id": "g41",
+      "name": {
+        "bn": "প্রতিক্রিয়া সময় (Reaction Time)",
+        "en": "Reaction Time"
+      },
+      "description": {
+        "bn": "রঙ পরিবর্তনের সাথে সাথে যত দ্রুত সম্ভব ক্লিক করো",
+        "en": "Click as fast as possible when the color changes"
+      },
+      "category": "reaction",
+      "dataset": {
+        "trigger_color": "#2ecc71",
+        "wait_color": "#e74c3c",
+        "min_delay_ms": 1000,
+        "max_delay_ms": 4000
+      }
+    },
+    {
+      "id": "g42",
+      "name": {
+        "bn": "স্ট্রুপ টেস্ট (Stroop Test)",
+        "en": "Stroop Test"
+      },
+      "description": {
+        "bn": "শব্দ নয়, রঙের নাম বলো",
+        "en": "Say the color of the text, not the word itself"
+      },
+      "category": "reaction",
+      "dataset": {
+        "items": [
+          {
+            "word_bn": "লাল",
+            "text_color": "#3498db"
+          },
+          {
+            "word_bn": "নীল",
+            "text_color": "#e74c3c"
+          },
+          {
+            "word_en": "RED",
+            "text_color": "#2ecc71"
+          },
+          {
+            "word_en": "GREEN",
+            "text_color": "#f1c40f"
+          }
+        ]
+      }
+    },
+    {
+      "id": "g43",
+      "name": {
+        "bn": "সবুজ বাছাই (Color Selector)",
+        "en": "Color Selector"
+      },
+      "description": {
+        "bn": "নির্দেশিত রঙটি দ্রুত বেছে নাও",
+        "en": "Quickly select the indicated color"
+      },
+      "category": "reaction",
+      "dataset": {
+        "colors_bn": [
+          "লাল",
+          "নীল",
+          "সবুজ",
+          "হলুদ"
+        ],
+        "colors_en": [
+          "Red",
+          "Blue",
+          "Green",
+          "Yellow"
+        ],
+        "hex": [
+          "#e74c3c",
+          "#3498db",
+          "#2ecc71",
+          "#f1c40f"
+        ]
+      }
+    },
+    {
+      "id": "g44",
+      "name": {
+        "bn": "দ্রুত গণনা (Quick Count)",
+        "en": "Quick Count"
+      },
+      "description": {
+        "bn": "স্ক্রিনে কয়েক সেকেন্ডের জন্য দেখানো বস্তুর সংখ্যা গুনে বলো",
+        "en": "Count the number of objects flashed briefly on screen"
+      },
+      "category": "reaction",
+      "dataset": {
+        "object_pool": [
+          "⭐",
+          "🔴",
+          "🔵",
+          "🟢"
+        ],
+        "count_range": [
+          3,
+          15
+        ],
+        "display_ms": 1500
+      }
+    },
+    {
+      "id": "g45",
+      "name": {
+        "bn": "লুকানো বস্তু খুঁজে বের করো (Spot the Difference)",
+        "en": "Spot the Difference"
+      },
+      "description": {
+        "bn": "দুটি ছবির মধ্যে পার্থক্য খুঁজে বের করো",
+        "en": "Find differences between two similar images"
+      },
+      "category": "reaction",
+      "dataset": {
+        "image_pairs": [
+          {
+            "img1": "scene1_a.png",
+            "img2": "scene1_b.png",
+            "diff_count": 5
+          }
+        ]
+      }
+    },
+    {
+      "id": "g46",
+      "name": {
+        "bn": "ফোকাস টেস্ট (Focus Test)",
+        "en": "Focus Test"
+      },
+      "description": {
+        "bn": "নির্দিষ্ট চিহ্ন এলেই ক্লিক করো, অন্যথায় ক্লিক করো না",
+        "en": "Click only when a specific target symbol appears"
+      },
+      "category": "reaction",
+      "dataset": {
+        "target_symbol": "⭐",
+        "distractor_symbols": [
+          "🔵",
+          "🔴",
+          "🟢",
+          "⬛"
+        ],
+        "rounds": 30
+      }
+    },
+    {
+      "id": "g47",
+      "name": {
+        "bn": "দ্রুততম ক্লিক (Whack-a-Mole)",
+        "en": "Whack-a-Mole"
+      },
+      "description": {
+        "bn": "এলোমেলোভাবে আসা বস্তুতে দ্রুত ক্লিক করো",
+        "en": "Click rapidly on randomly appearing targets"
+      },
+      "category": "reaction",
+      "dataset": {
+        "grid_size": "3x3",
+        "appear_interval_ms": [
+          600,
+          1200
+        ],
+        "session_sec": 30
+      }
+    },
+    {
+      "id": "g48",
+      "name": {
+        "bn": "শব্দ-চিহ্ন মিল (Audio Match)",
+        "en": "Audio Match"
+      },
+      "description": {
+        "bn": "শব্দ শুনে সঠিক ছবি বা চিহ্ন বেছে নাও",
+        "en": "Listen to a sound and choose the matching picture"
+      },
+      "category": "reaction",
+      "dataset": {
+        "items": [
+          {
+            "sound": "dog_bark.mp3",
+            "answer_bn": "কুকুর",
+            "answer_en": "Dog"
+          },
+          {
+            "sound": "cat_meow.mp3",
+            "answer_bn": "বিড়াল",
+            "answer_en": "Cat"
+          }
+        ]
+      }
+    },
+    {
+      "id": "g49",
+      "name": {
+        "bn": "ট্র্যাকিং টেস্ট (Multiple Object Tracking)",
+        "en": "Multiple Object Tracking"
+      },
+      "description": {
+        "bn": "নির্দিষ্ট কয়েকটি বস্তু চলাচলের সময় চোখে চোখে রাখো",
+        "en": "Track several moving objects among distractors"
+      },
+      "category": "reaction",
+      "dataset": {
+        "object_count": 5,
+        "distractor_count": 10,
+        "duration_sec": 15
+      }
+    },
+    {
+      "id": "g50",
+      "name": {
+        "bn": "গো/নো-গো টেস্ট (Go/No-Go Test)",
+        "en": "Go/No-Go Test"
+      },
+      "description": {
+        "bn": "সবুজ এলে ক্লিক করো, লাল এলে ক্লিক করো না",
+        "en": "Click on green signals, withhold clicking on red signals"
+      },
+      "category": "reaction",
+      "dataset": {
+        "go_color": "#2ecc71",
+        "nogo_color": "#e74c3c",
+        "go_ratio": 0.7,
+        "rounds": 40
+      }
+    }
+  ]
+}

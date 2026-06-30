@@ -1,0 +1,4824 @@
+{
+  "title": {
+    "bn": "IQ টেস্ট বাংলা ও ইংরেজি",
+    "en": "IQ Test Bangla & English"
+  },
+  "total_questions": 300,
+  "levels": {
+    "easy": {
+      "count": 100,
+      "questions": [
+        {
+          "id": "iq_easy_001",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 4, 5, 6, 7, ?",
+            "en": "Look at the following series and find the next number: 4, 5, 6, 7, ?"
+          },
+          "options": [
+            "9",
+            "7",
+            "10",
+            "8"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_002",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 18, 5, 40, 45",
+            "en": "Which of the following numbers does not belong with the others? 18, 5, 40, 45"
+          },
+          "options": [
+            "18",
+            "5",
+            "40",
+            "45"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_easy_003",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "গাড়ি যেমন রাস্তা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Car relates to Road, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "ঠান্ডা : Cold",
+            "লেখা : Write",
+            "রাস্তা : Road",
+            "গাওয়া : Sing"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_004",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 20 + 10 = ?",
+            "en": "Calculate: 20 + 10 = ?"
+          },
+          "options": [
+            "33",
+            "30",
+            "32",
+            "28"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_005",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 11, 12, 13, 14, ?",
+            "en": "Look at the following series and find the next number: 11, 12, 13, 14, ?"
+          },
+          "options": [
+            "18",
+            "19",
+            "15",
+            "13"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_006",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 16, 4, 5, 8",
+            "en": "Which of the following numbers does not belong with the others? 16, 4, 5, 8"
+          },
+          "options": [
+            "16",
+            "4",
+            "5",
+            "8"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_007",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "জাহাজ যেমন সমুদ্র এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Ship relates to Sea, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "লেখা : Write",
+            "হাসপাতাল : Hospital",
+            "ঠান্ডা : Cold",
+            "সমুদ্র : Sea"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_008",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 11 + 4 = ?",
+            "en": "Calculate: 11 + 4 = ?"
+          },
+          "options": [
+            "16",
+            "18",
+            "12",
+            "15"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_009",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 6, 9, 12, 15, ?",
+            "en": "Look at the following series and find the next number: 6, 9, 12, 15, ?"
+          },
+          "options": [
+            "19",
+            "21",
+            "20",
+            "18"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_010",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 9, 17, 12, 24",
+            "en": "Which of the following numbers does not belong with the others? 9, 17, 12, 24"
+          },
+          "options": [
+            "9",
+            "17",
+            "12",
+            "24"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_011",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "সৈনিক যেমন যুদ্ধ এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Soldier relates to War, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "কাটা : Cut",
+            "পানি : Water",
+            "গরম : Hot",
+            "যুদ্ধ : War"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_012",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 10 + 4 = ?",
+            "en": "Calculate: 10 + 4 = ?"
+          },
+          "options": [
+            "16",
+            "19",
+            "13",
+            "14"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_013",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 5, 8, 11, 14, ?",
+            "en": "Look at the following series and find the next number: 5, 8, 11, 14, ?"
+          },
+          "options": [
+            "16",
+            "17",
+            "18",
+            "19"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_014",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 12, 20, 19, 16",
+            "en": "Which of the following numbers does not belong with the others? 12, 20, 19, 16"
+          },
+          "options": [
+            "12",
+            "20",
+            "19",
+            "16"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_015",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "চোখ যেমন দেখা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Eye relates to See, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "গাওয়া : Sing",
+            "দেখা : See",
+            "লেখা : Write",
+            "যুদ্ধ : War"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_016",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 14 - 14 = ?",
+            "en": "Calculate: 14 - 14 = ?"
+          },
+          "options": [
+            "0",
+            "1",
+            "-3",
+            "-5"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_easy_017",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 4, 7, 10, 13, ?",
+            "en": "Look at the following series and find the next number: 4, 7, 10, 13, ?"
+          },
+          "options": [
+            "15",
+            "20",
+            "21",
+            "16"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_018",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 6, 27, 26, 21",
+            "en": "Which of the following numbers does not belong with the others? 6, 27, 26, 21"
+          },
+          "options": [
+            "6",
+            "27",
+            "26",
+            "21"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_019",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "চোখ যেমন দেখা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Eye relates to See, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "লেখা : Write",
+            "ক্ষেত : Field",
+            "রাজত্ব : Kingdom",
+            "দেখা : See"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_020",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 17 + 2 = ?",
+            "en": "Calculate: 17 + 2 = ?"
+          },
+          "options": [
+            "19",
+            "20",
+            "21",
+            "18"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_easy_021",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 3, 7, 11, 15, ?",
+            "en": "Look at the following series and find the next number: 3, 7, 11, 15, ?"
+          },
+          "options": [
+            "24",
+            "18",
+            "19",
+            "17"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_022",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 27, 12, 18, 23",
+            "en": "Which of the following numbers does not belong with the others? 27, 12, 18, 23"
+          },
+          "options": [
+            "27",
+            "12",
+            "18",
+            "23"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_023",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "শিক্ষক যেমন স্কুল এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Teacher relates to School, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "দিন : Day",
+            "মধু : Honey",
+            "হাসপাতাল : Hospital",
+            "স্কুল : School"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_024",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 20 + 9 = ?",
+            "en": "Calculate: 20 + 9 = ?"
+          },
+          "options": [
+            "28",
+            "26",
+            "29",
+            "24"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_025",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 3, 8, 13, 18, ?",
+            "en": "Look at the following series and find the next number: 3, 8, 13, 18, ?"
+          },
+          "options": [
+            "23",
+            "24",
+            "28",
+            "25"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_easy_026",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 33, 35, 20, 40",
+            "en": "Which of the following numbers does not belong with the others? 33, 35, 20, 40"
+          },
+          "options": [
+            "33",
+            "35",
+            "20",
+            "40"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_easy_027",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "গান যেমন গাওয়া এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Song relates to Sing, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "রান্নাঘর : Kitchen",
+            "তালা : Lock",
+            "মধু : Honey",
+            "গাওয়া : Sing"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_028",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 3 - 14 = ?",
+            "en": "Calculate: 3 - 14 = ?"
+          },
+          "options": [
+            "-12",
+            "-14",
+            "-11",
+            "-6"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_029",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 9, 13, 17, 21, ?",
+            "en": "Look at the following series and find the next number: 9, 13, 17, 21, ?"
+          },
+          "options": [
+            "26",
+            "30",
+            "23",
+            "25"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_030",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 18, 6, 8, 13",
+            "en": "Which of the following numbers does not belong with the others? 18, 6, 8, 13"
+          },
+          "options": [
+            "18",
+            "6",
+            "8",
+            "13"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_031",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "বিচারক যেমন আদালত এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Judge relates to Court, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "ক্ষেত : Field",
+            "শোনা : Hear",
+            "পানি : Water",
+            "আদালত : Court"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_032",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 16 - 11 = ?",
+            "en": "Calculate: 16 - 11 = ?"
+          },
+          "options": [
+            "3",
+            "5",
+            "10",
+            "4"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_033",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 19, 24, 29, 34, ?",
+            "en": "Look at the following series and find the next number: 19, 24, 29, 34, ?"
+          },
+          "options": [
+            "39",
+            "44",
+            "42",
+            "36"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_easy_034",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 27, 18, 6, 13",
+            "en": "Which of the following numbers does not belong with the others? 27, 18, 6, 13"
+          },
+          "options": [
+            "27",
+            "18",
+            "6",
+            "13"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_035",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "জাহাজ যেমন সমুদ্র এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Ship relates to Sea, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "সমুদ্র : Sea",
+            "পড়া : Read",
+            "পানি : Water",
+            "হাসপাতাল : Hospital"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_easy_036",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 10 - 8 = ?",
+            "en": "Calculate: 10 - 8 = ?"
+          },
+          "options": [
+            "1",
+            "5",
+            "3",
+            "2"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_037",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 15, 18, 21, 24, ?",
+            "en": "Look at the following series and find the next number: 15, 18, 21, 24, ?"
+          },
+          "options": [
+            "25",
+            "32",
+            "27",
+            "24"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_038",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 11, 12, 24, 4",
+            "en": "Which of the following numbers does not belong with the others? 11, 12, 24, 4"
+          },
+          "options": [
+            "11",
+            "12",
+            "24",
+            "4"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_easy_039",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "চাবি যেমন তালা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Key relates to Lock, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "আইন : Law",
+            "তালা : Lock",
+            "ঠান্ডা : Cold",
+            "সমুদ্র : Sea"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_040",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 19 + 11 = ?",
+            "en": "Calculate: 19 + 11 = ?"
+          },
+          "options": [
+            "28",
+            "31",
+            "30",
+            "27"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_041",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 9, 12, 15, 18, ?",
+            "en": "Look at the following series and find the next number: 9, 12, 15, 18, ?"
+          },
+          "options": [
+            "22",
+            "24",
+            "21",
+            "23"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_042",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 14, 7, 2, 10",
+            "en": "Which of the following numbers does not belong with the others? 14, 7, 2, 10"
+          },
+          "options": [
+            "14",
+            "7",
+            "2",
+            "10"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_043",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "কান যেমন শোনা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Ear relates to Hear, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "গরম : Hot",
+            "শোনা : Hear",
+            "পা : Foot",
+            "সমুদ্র : Sea"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_044",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 5 + 4 = ?",
+            "en": "Calculate: 5 + 4 = ?"
+          },
+          "options": [
+            "11",
+            "4",
+            "9",
+            "7"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_045",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 10, 13, 16, 19, ?",
+            "en": "Look at the following series and find the next number: 10, 13, 16, 19, ?"
+          },
+          "options": [
+            "23",
+            "25",
+            "22",
+            "19"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_046",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 20, 27, 36, 28",
+            "en": "Which of the following numbers does not belong with the others? 20, 27, 36, 28"
+          },
+          "options": [
+            "20",
+            "27",
+            "36",
+            "28"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_047",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "পাখি যেমন আকাশ এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Bird relates to Sky, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "লেখা : Write",
+            "আকাশ : Sky",
+            "গরম : Hot",
+            "মধু : Honey"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_048",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 10 + 7 = ?",
+            "en": "Calculate: 10 + 7 = ?"
+          },
+          "options": [
+            "12",
+            "22",
+            "17",
+            "20"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_049",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 12, 15, 18, 21, ?",
+            "en": "Look at the following series and find the next number: 12, 15, 18, 21, ?"
+          },
+          "options": [
+            "21",
+            "24",
+            "25",
+            "28"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_050",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 36, 28, 34, 24",
+            "en": "Which of the following numbers does not belong with the others? 36, 28, 34, 24"
+          },
+          "options": [
+            "36",
+            "28",
+            "34",
+            "24"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_051",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "কান যেমন শোনা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Ear relates to Hear, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "পানি : Water",
+            "আকাশ : Sky",
+            "রাত : Night",
+            "শোনা : Hear"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_052",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 13 - 12 = ?",
+            "en": "Calculate: 13 - 12 = ?"
+          },
+          "options": [
+            "-2",
+            "1",
+            "0",
+            "4"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_053",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 1, 6, 11, 16, ?",
+            "en": "Look at the following series and find the next number: 1, 6, 11, 16, ?"
+          },
+          "options": [
+            "22",
+            "25",
+            "21",
+            "24"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_054",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 8, 32, 20, 17",
+            "en": "Which of the following numbers does not belong with the others? 8, 32, 20, 17"
+          },
+          "options": [
+            "8",
+            "32",
+            "20",
+            "17"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_055",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "ছবি যেমন আঁকা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Picture relates to Draw, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "আঁকা : Draw",
+            "রাস্তা : Road",
+            "দেখা : See",
+            "রাত : Night"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_easy_056",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 7 - 20 = ?",
+            "en": "Calculate: 7 - 20 = ?"
+          },
+          "options": [
+            "-18",
+            "-12",
+            "-13",
+            "-10"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_057",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 19, 24, 29, 34, ?",
+            "en": "Look at the following series and find the next number: 19, 24, 29, 34, ?"
+          },
+          "options": [
+            "42",
+            "40",
+            "44",
+            "39"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_058",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 12, 5, 10, 2",
+            "en": "Which of the following numbers does not belong with the others? 12, 5, 10, 2"
+          },
+          "options": [
+            "12",
+            "5",
+            "10",
+            "2"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_059",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "চোখ যেমন দেখা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Eye relates to See, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "আকাশ : Sky",
+            "দেখা : See",
+            "পানি : Water",
+            "দিন : Day"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_060",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 16 + 15 = ?",
+            "en": "Calculate: 16 + 15 = ?"
+          },
+          "options": [
+            "31",
+            "34",
+            "30",
+            "36"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_easy_061",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 4, 8, 12, 16, ?",
+            "en": "Look at the following series and find the next number: 4, 8, 12, 16, ?"
+          },
+          "options": [
+            "19",
+            "21",
+            "20",
+            "25"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_062",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 16, 13, 6, 14",
+            "en": "Which of the following numbers does not belong with the others? 16, 13, 6, 14"
+          },
+          "options": [
+            "16",
+            "13",
+            "6",
+            "14"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_063",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "সৈনিক যেমন যুদ্ধ এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Soldier relates to War, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "যুদ্ধ : War",
+            "কবিতা : Poem",
+            "তালা : Lock",
+            "রাস্তা : Road"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_easy_064",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 16 + 10 = ?",
+            "en": "Calculate: 16 + 10 = ?"
+          },
+          "options": [
+            "31",
+            "25",
+            "26",
+            "27"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_065",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 10, 12, 14, 16, ?",
+            "en": "Look at the following series and find the next number: 10, 12, 14, 16, ?"
+          },
+          "options": [
+            "21",
+            "20",
+            "16",
+            "18"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_066",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 15, 5, 20, 18",
+            "en": "Which of the following numbers does not belong with the others? 15, 5, 20, 18"
+          },
+          "options": [
+            "15",
+            "5",
+            "20",
+            "18"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_067",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "রাঁধুনি যেমন রান্নাঘর এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Cook relates to Kitchen, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "লেখা : Write",
+            "রান্নাঘর : Kitchen",
+            "পানি : Water",
+            "আইন : Law"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_068",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 20 - 14 = ?",
+            "en": "Calculate: 20 - 14 = ?"
+          },
+          "options": [
+            "6",
+            "8",
+            "1",
+            "7"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_easy_069",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 16, 18, 20, 22, ?",
+            "en": "Look at the following series and find the next number: 16, 18, 20, 22, ?"
+          },
+          "options": [
+            "29",
+            "28",
+            "26",
+            "24"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_070",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 10, 44, 40, 15",
+            "en": "Which of the following numbers does not belong with the others? 10, 44, 40, 15"
+          },
+          "options": [
+            "10",
+            "44",
+            "40",
+            "15"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_071",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "ডাক্তার যেমন হাসপাতাল এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Doctor relates to Hospital, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "গাওয়া : Sing",
+            "তালা : Lock",
+            "হাসপাতাল : Hospital",
+            "শোনা : Hear"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_072",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 10 - 14 = ?",
+            "en": "Calculate: 10 - 14 = ?"
+          },
+          "options": [
+            "1",
+            "-2",
+            "-5",
+            "-4"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_073",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 14, 17, 20, 23, ?",
+            "en": "Look at the following series and find the next number: 14, 17, 20, 23, ?"
+          },
+          "options": [
+            "23",
+            "31",
+            "26",
+            "24"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_074",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 4, 2, 9, 18",
+            "en": "Which of the following numbers does not belong with the others? 4, 2, 9, 18"
+          },
+          "options": [
+            "4",
+            "2",
+            "9",
+            "18"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_075",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "জাহাজ যেমন সমুদ্র এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Ship relates to Sea, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "ঠান্ডা : Cold",
+            "সমুদ্র : Sea",
+            "লেখা : Write",
+            "তালা : Lock"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_076",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 5 - 7 = ?",
+            "en": "Calculate: 5 - 7 = ?"
+          },
+          "options": [
+            "-2",
+            "-7",
+            "-5",
+            "-1"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_easy_077",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 3, 8, 13, 18, ?",
+            "en": "Look at the following series and find the next number: 3, 8, 13, 18, ?"
+          },
+          "options": [
+            "25",
+            "23",
+            "21",
+            "24"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_078",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 35, 28, 24, 36",
+            "en": "Which of the following numbers does not belong with the others? 35, 28, 24, 36"
+          },
+          "options": [
+            "35",
+            "28",
+            "24",
+            "36"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_easy_079",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "পাখি যেমন আকাশ এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Bird relates to Sky, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "তালা : Lock",
+            "আদালত : Court",
+            "আকাশ : Sky",
+            "আইন : Law"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_080",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 13 + 16 = ?",
+            "en": "Calculate: 13 + 16 = ?"
+          },
+          "options": [
+            "32",
+            "29",
+            "27",
+            "30"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_081",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 19, 22, 25, 28, ?",
+            "en": "Look at the following series and find the next number: 19, 22, 25, 28, ?"
+          },
+          "options": [
+            "31",
+            "32",
+            "34",
+            "29"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_easy_082",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 36, 30, 35, 5",
+            "en": "Which of the following numbers does not belong with the others? 36, 30, 35, 5"
+          },
+          "options": [
+            "36",
+            "30",
+            "35",
+            "5"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_easy_083",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "কলম যেমন লেখা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Pen relates to Write, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "লেখা : Write",
+            "রাত : Night",
+            "ক্ষেত : Field",
+            "যুদ্ধ : War"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_easy_084",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 19 + 2 = ?",
+            "en": "Calculate: 19 + 2 = ?"
+          },
+          "options": [
+            "18",
+            "24",
+            "20",
+            "21"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_085",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 16, 20, 24, 28, ?",
+            "en": "Look at the following series and find the next number: 16, 20, 24, 28, ?"
+          },
+          "options": [
+            "30",
+            "29",
+            "32",
+            "37"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_086",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 15, 20, 18, 12",
+            "en": "Which of the following numbers does not belong with the others? 15, 20, 18, 12"
+          },
+          "options": [
+            "15",
+            "20",
+            "18",
+            "12"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_087",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "মৌমাছি যেমন মধু এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Bee relates to Honey, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "দিন : Day",
+            "মধু : Honey",
+            "ঠান্ডা : Cold",
+            "পা : Foot"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_088",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 5 - 8 = ?",
+            "en": "Calculate: 5 - 8 = ?"
+          },
+          "options": [
+            "-6",
+            "-3",
+            "-4",
+            "-5"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_089",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 9, 14, 19, 24, ?",
+            "en": "Look at the following series and find the next number: 9, 14, 19, 24, ?"
+          },
+          "options": [
+            "31",
+            "29",
+            "27",
+            "30"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_090",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 18, 15, 20, 3",
+            "en": "Which of the following numbers does not belong with the others? 18, 15, 20, 3"
+          },
+          "options": [
+            "18",
+            "15",
+            "20",
+            "3"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_091",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "মাছ যেমন পানি এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Fish relates to Water, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "পানি : Water",
+            "ঠান্ডা : Cold",
+            "দুধ : Milk",
+            "সমুদ্র : Sea"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_easy_092",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 5 - 2 = ?",
+            "en": "Calculate: 5 - 2 = ?"
+          },
+          "options": [
+            "5",
+            "3",
+            "1",
+            "8"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_093",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 4, 5, 6, 7, ?",
+            "en": "Look at the following series and find the next number: 4, 5, 6, 7, ?"
+          },
+          "options": [
+            "12",
+            "13",
+            "6",
+            "8"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_094",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 8, 17, 4, 16",
+            "en": "Which of the following numbers does not belong with the others? 8, 17, 4, 16"
+          },
+          "options": [
+            "8",
+            "17",
+            "4",
+            "16"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_095",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "চাবি যেমন তালা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Key relates to Lock, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "রাত : Night",
+            "তালা : Lock",
+            "পা : Foot",
+            "আদালত : Court"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_096",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 5 + 8 = ?",
+            "en": "Calculate: 5 + 8 = ?"
+          },
+          "options": [
+            "14",
+            "13",
+            "10",
+            "11"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_097",
+          "category": "number_series",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 6, 7, 8, 9, ?",
+            "en": "Look at the following series and find the next number: 6, 7, 8, 9, ?"
+          },
+          "options": [
+            "14",
+            "12",
+            "15",
+            "10"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_easy_098",
+          "category": "odd_one_out_number",
+          "level": "easy",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 8, 32, 15, 24",
+            "en": "Which of the following numbers does not belong with the others? 8, 32, 15, 24"
+          },
+          "options": [
+            "8",
+            "32",
+            "15",
+            "24"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_easy_099",
+          "category": "analogy",
+          "level": "easy",
+          "question": {
+            "bn": "রাঁধুনি যেমন রান্নাঘর এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Cook relates to Kitchen, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "সমুদ্র : Sea",
+            "রান্নাঘর : Kitchen",
+            "কাটা : Cut",
+            "স্কুল : School"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_easy_100",
+          "category": "arithmetic",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 4 + 3 = ?",
+            "en": "Calculate: 4 + 3 = ?"
+          },
+          "options": [
+            "8",
+            "12",
+            "4",
+            "7"
+          ],
+          "answer_index": 3
+        }
+      ]
+    },
+    "medium": {
+      "count": 100,
+      "questions": [
+        {
+          "id": "iq_medium_001",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 13, 104, 832, 840, ?",
+            "en": "Look at the following series and find the next number: 13, 104, 832, 840, ?"
+          },
+          "options": [
+            "848",
+            "845",
+            "853",
+            "846"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_medium_002",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 27, 12, 24, 6",
+            "en": "Which of the following numbers does not belong with the others? 27, 12, 24, 6"
+          },
+          "options": [
+            "27",
+            "12",
+            "24",
+            "6"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_medium_003",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "জাহাজ যেমন সমুদ্র এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Ship relates to Sea, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "সমুদ্র : Sea",
+            "পানি : Water",
+            "রাজত্ব : Kingdom",
+            "শোনা : Hear"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_medium_004",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 22 * 7 = ?",
+            "en": "Calculate: 22 * 7 = ?"
+          },
+          "options": [
+            "151",
+            "157",
+            "154",
+            "159"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_005",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 7, 14, 21, 28, ?",
+            "en": "Look at the following series and find the next number: 7, 14, 21, 28, ?"
+          },
+          "options": [
+            "34",
+            "38",
+            "35",
+            "39"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_006",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 12, 9, 4, 16",
+            "en": "Which of the following numbers does not belong with the others? 12, 9, 4, 16"
+          },
+          "options": [
+            "12",
+            "9",
+            "4",
+            "16"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_007",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "গান যেমন গাওয়া এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Song relates to Sing, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "আদালত : Court",
+            "রাস্তা : Road",
+            "গাওয়া : Sing",
+            "তালা : Lock"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_008",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 38 * 13 = ?",
+            "en": "Calculate: 38 * 13 = ?"
+          },
+          "options": [
+            "499",
+            "489",
+            "494",
+            "493"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_009",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 6, 54, 486, 495, ?",
+            "en": "Look at the following series and find the next number: 6, 54, 486, 495, ?"
+          },
+          "options": [
+            "501",
+            "504",
+            "502",
+            "505"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_010",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 32, 75, 112, 16",
+            "en": "Which of the following numbers does not belong with the others? 32, 75, 112, 16"
+          },
+          "options": [
+            "32",
+            "75",
+            "112",
+            "16"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_011",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "জুতা যেমন পা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Shoe relates to Foot, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "পা : Foot",
+            "রাস্তা : Road",
+            "ঠান্ডা : Cold",
+            "রাত : Night"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_medium_012",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 35 - 9 = ?",
+            "en": "Calculate: 35 - 9 = ?"
+          },
+          "options": [
+            "26",
+            "29",
+            "24",
+            "25"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_medium_013",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 14, 112, 896, 904, ?",
+            "en": "Look at the following series and find the next number: 14, 112, 896, 904, ?"
+          },
+          "options": [
+            "912",
+            "909",
+            "917",
+            "914"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_medium_014",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 91, 42, 63, 66",
+            "en": "Which of the following numbers does not belong with the others? 91, 42, 63, 66"
+          },
+          "options": [
+            "91",
+            "42",
+            "63",
+            "66"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_medium_015",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "ছবি যেমন আঁকা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Picture relates to Draw, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "সমুদ্র : Sea",
+            "আঁকা : Draw",
+            "ক্ষেত : Field",
+            "কাটা : Cut"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_016",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 25 * 17 = ?",
+            "en": "Calculate: 25 * 17 = ?"
+          },
+          "options": [
+            "430",
+            "428",
+            "423",
+            "425"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_medium_017",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 15, 45, 135, 405, ?",
+            "en": "Look at the following series and find the next number: 15, 45, 135, 405, ?"
+          },
+          "options": [
+            "406",
+            "408",
+            "405",
+            "413"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_018",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 39, 24, 15, 25",
+            "en": "Which of the following numbers does not belong with the others? 39, 24, 15, 25"
+          },
+          "options": [
+            "39",
+            "24",
+            "15",
+            "25"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_medium_019",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "পুলিশ যেমন আইন এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Police relates to Law, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "আইন : Law",
+            "আদালত : Court",
+            "দুধ : Milk",
+            "গাওয়া : Sing"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_medium_020",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 39 * 3 = ?",
+            "en": "Calculate: 39 * 3 = ?"
+          },
+          "options": [
+            "118",
+            "114",
+            "117",
+            "116"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_021",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 8, 11, 14, 17, ?",
+            "en": "Look at the following series and find the next number: 8, 11, 14, 17, ?"
+          },
+          "options": [
+            "20",
+            "19",
+            "22",
+            "25"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_medium_022",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 26, 23, 10, 12",
+            "en": "Which of the following numbers does not belong with the others? 26, 23, 10, 12"
+          },
+          "options": [
+            "26",
+            "23",
+            "10",
+            "12"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_023",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "জাহাজ যেমন সমুদ্র এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Ship relates to Sea, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "শোনা : Hear",
+            "যুদ্ধ : War",
+            "সমুদ্র : Sea",
+            "আঁকা : Draw"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_024",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 44 * 14 = ?",
+            "en": "Calculate: 44 * 14 = ?"
+          },
+          "options": [
+            "616",
+            "614",
+            "615",
+            "621"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_medium_025",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 9, 15, 21, 27, ?",
+            "en": "Look at the following series and find the next number: 9, 15, 21, 27, ?"
+          },
+          "options": [
+            "38",
+            "35",
+            "33",
+            "32"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_026",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 72, 66, 42, 58",
+            "en": "Which of the following numbers does not belong with the others? 72, 66, 42, 58"
+          },
+          "options": [
+            "72",
+            "66",
+            "42",
+            "58"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_medium_027",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "কৃষক যেমন ক্ষেত এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Farmer relates to Field, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "ক্ষেত : Field",
+            "মাথা : Head",
+            "স্কুল : School",
+            "আদালত : Court"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_medium_028",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 41 * 11 = ?",
+            "en": "Calculate: 41 * 11 = ?"
+          },
+          "options": [
+            "452",
+            "446",
+            "451",
+            "454"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_029",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 11, 99, 891, 900, ?",
+            "en": "Look at the following series and find the next number: 11, 99, 891, 900, ?"
+          },
+          "options": [
+            "911",
+            "912",
+            "910",
+            "909"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_medium_030",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 26, 10, 11, 16",
+            "en": "Which of the following numbers does not belong with the others? 26, 10, 11, 16"
+          },
+          "options": [
+            "26",
+            "10",
+            "11",
+            "16"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_031",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "ডাক্তার যেমন হাসপাতাল এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Doctor relates to Hospital, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "দুধ : Milk",
+            "মধু : Honey",
+            "হাসপাতাল : Hospital",
+            "গরম : Hot"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_032",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 13 - 19 = ?",
+            "en": "Calculate: 13 - 19 = ?"
+          },
+          "options": [
+            "-8",
+            "-6",
+            "-1",
+            "-5"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_033",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 14, 42, 126, 378, ?",
+            "en": "Look at the following series and find the next number: 14, 42, 126, 378, ?"
+          },
+          "options": [
+            "379",
+            "380",
+            "381",
+            "382"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_034",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 19, 3, 21, 39",
+            "en": "Which of the following numbers does not belong with the others? 19, 3, 21, 39"
+          },
+          "options": [
+            "19",
+            "3",
+            "21",
+            "39"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_medium_035",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "গান যেমন গাওয়া এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Song relates to Sing, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "গাওয়া : Sing",
+            "গরম : Hot",
+            "আঁকা : Draw",
+            "দিন : Day"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_medium_036",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 11 - 9 = ?",
+            "en": "Calculate: 11 - 9 = ?"
+          },
+          "options": [
+            "-3",
+            "2",
+            "4",
+            "1"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_037",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 13, 78, 468, 474, ?",
+            "en": "Look at the following series and find the next number: 13, 78, 468, 474, ?"
+          },
+          "options": [
+            "479",
+            "478",
+            "477",
+            "480"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_medium_038",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 6, 27, 12, 10",
+            "en": "Which of the following numbers does not belong with the others? 6, 27, 12, 10"
+          },
+          "options": [
+            "6",
+            "27",
+            "12",
+            "10"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_medium_039",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "গান যেমন গাওয়া এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Song relates to Sing, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "গরম : Hot",
+            "গাওয়া : Sing",
+            "ঠান্ডা : Cold",
+            "রাস্তা : Road"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_040",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 31 - 5 = ?",
+            "en": "Calculate: 31 - 5 = ?"
+          },
+          "options": [
+            "29",
+            "26",
+            "21",
+            "27"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_041",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 9, 45, 225, 230, ?",
+            "en": "Look at the following series and find the next number: 9, 45, 225, 230, ?"
+          },
+          "options": [
+            "235",
+            "232",
+            "233",
+            "238"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_medium_042",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 6, 24, 19, 42",
+            "en": "Which of the following numbers does not belong with the others? 6, 24, 19, 42"
+          },
+          "options": [
+            "6",
+            "24",
+            "19",
+            "42"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_043",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "ছুরি যেমন কাটা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Knife relates to Cut, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "আকাশ : Sky",
+            "যুদ্ধ : War",
+            "কাটা : Cut",
+            "দেখা : See"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_044",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 42 + 8 = ?",
+            "en": "Calculate: 42 + 8 = ?"
+          },
+          "options": [
+            "50",
+            "45",
+            "48",
+            "52"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_medium_045",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 10, 16, 22, 28, ?",
+            "en": "Look at the following series and find the next number: 10, 16, 22, 28, ?"
+          },
+          "options": [
+            "34",
+            "31",
+            "33",
+            "32"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_medium_046",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 7, 10, 35, 21",
+            "en": "Which of the following numbers does not belong with the others? 7, 10, 35, 21"
+          },
+          "options": [
+            "7",
+            "10",
+            "35",
+            "21"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_047",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "টুপি যেমন মাথা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Hat relates to Head, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "মাথা : Head",
+            "গরম : Hot",
+            "স্কুল : School",
+            "হাসপাতাল : Hospital"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_medium_048",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 37 + 20 = ?",
+            "en": "Calculate: 37 + 20 = ?"
+          },
+          "options": [
+            "62",
+            "56",
+            "57",
+            "52"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_049",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 2, 18, 162, 171, ?",
+            "en": "Look at the following series and find the next number: 2, 18, 162, 171, ?"
+          },
+          "options": [
+            "185",
+            "178",
+            "184",
+            "180"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_medium_050",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 70, 21, 30, 14",
+            "en": "Which of the following numbers does not belong with the others? 70, 21, 30, 14"
+          },
+          "options": [
+            "70",
+            "21",
+            "30",
+            "14"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_051",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "কৃষক যেমন ক্ষেত এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Farmer relates to Field, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "ক্ষেত : Field",
+            "পড়া : Read",
+            "রাস্তা : Road",
+            "রাত : Night"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_medium_052",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 11 * 5 = ?",
+            "en": "Calculate: 11 * 5 = ?"
+          },
+          "options": [
+            "58",
+            "54",
+            "55",
+            "60"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_053",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 15, 135, 144, 153, ?",
+            "en": "Look at the following series and find the next number: 15, 135, 144, 153, ?"
+          },
+          "options": [
+            "160",
+            "165",
+            "162",
+            "166"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_054",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 77, 56, 29, 21",
+            "en": "Which of the following numbers does not belong with the others? 77, 56, 29, 21"
+          },
+          "options": [
+            "77",
+            "56",
+            "29",
+            "21"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_055",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "রাঁধুনি যেমন রান্নাঘর এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Cook relates to Kitchen, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "মধু : Honey",
+            "রান্নাঘর : Kitchen",
+            "গরম : Hot",
+            "স্কুল : School"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_056",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 42 * 19 = ?",
+            "en": "Calculate: 42 * 19 = ?"
+          },
+          "options": [
+            "800",
+            "801",
+            "798",
+            "795"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_057",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 15, 30, 60, 120, ?",
+            "en": "Look at the following series and find the next number: 15, 30, 60, 120, ?"
+          },
+          "options": [
+            "243",
+            "238",
+            "240",
+            "242"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_058",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 30, 57, 10, 70",
+            "en": "Which of the following numbers does not belong with the others? 30, 57, 10, 70"
+          },
+          "options": [
+            "30",
+            "57",
+            "10",
+            "70"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_059",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "রাজা যেমন রাজত্ব এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As King relates to Kingdom, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "রাস্তা : Road",
+            "রান্নাঘর : Kitchen",
+            "আদালত : Court",
+            "রাজত্ব : Kingdom"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_medium_060",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 6 - 7 = ?",
+            "en": "Calculate: 6 - 7 = ?"
+          },
+          "options": [
+            "-6",
+            "-1",
+            "0",
+            "1"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_061",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 3, 7, 11, 15, ?",
+            "en": "Look at the following series and find the next number: 3, 7, 11, 15, ?"
+          },
+          "options": [
+            "17",
+            "20",
+            "19",
+            "23"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_062",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 20, 48, 25, 24",
+            "en": "Which of the following numbers does not belong with the others? 20, 48, 25, 24"
+          },
+          "options": [
+            "20",
+            "48",
+            "25",
+            "24"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_063",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "আগুন যেমন গরম এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Fire relates to Hot, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "গাওয়া : Sing",
+            "পানি : Water",
+            "আকাশ : Sky",
+            "গরম : Hot"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_medium_064",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 47 - 15 = ?",
+            "en": "Calculate: 47 - 15 = ?"
+          },
+          "options": [
+            "37",
+            "32",
+            "35",
+            "33"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_065",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 7, 15, 23, 31, ?",
+            "en": "Look at the following series and find the next number: 7, 15, 23, 31, ?"
+          },
+          "options": [
+            "36",
+            "41",
+            "39",
+            "44"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_066",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 10, 17, 8, 28",
+            "en": "Which of the following numbers does not belong with the others? 10, 17, 8, 28"
+          },
+          "options": [
+            "10",
+            "17",
+            "8",
+            "28"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_067",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "জুতা যেমন পা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Shoe relates to Foot, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "রান্নাঘর : Kitchen",
+            "পা : Foot",
+            "শোনা : Hear",
+            "গরম : Hot"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_068",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 37 * 19 = ?",
+            "en": "Calculate: 37 * 19 = ?"
+          },
+          "options": [
+            "700",
+            "703",
+            "706",
+            "705"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_069",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 9, 27, 81, 243, ?",
+            "en": "Look at the following series and find the next number: 9, 27, 81, 243, ?"
+          },
+          "options": [
+            "733",
+            "731",
+            "729",
+            "727"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_070",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 54, 40, 52, 32",
+            "en": "Which of the following numbers does not belong with the others? 54, 40, 52, 32"
+          },
+          "options": [
+            "54",
+            "40",
+            "52",
+            "32"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_medium_071",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "পুলিশ যেমন আইন এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Police relates to Law, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "স্কুল : School",
+            "আইন : Law",
+            "কাটা : Cut",
+            "রান্নাঘর : Kitchen"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_072",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 30 * 11 = ?",
+            "en": "Calculate: 30 * 11 = ?"
+          },
+          "options": [
+            "329",
+            "332",
+            "330",
+            "328"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_073",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 10, 50, 250, 255, ?",
+            "en": "Look at the following series and find the next number: 10, 50, 250, 255, ?"
+          },
+          "options": [
+            "261",
+            "260",
+            "263",
+            "259"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_074",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 70, 50, 63, 15",
+            "en": "Which of the following numbers does not belong with the others? 70, 50, 63, 15"
+          },
+          "options": [
+            "70",
+            "50",
+            "63",
+            "15"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_075",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "চাবি যেমন তালা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Key relates to Lock, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "তালা : Lock",
+            "রাজত্ব : Kingdom",
+            "পা : Foot",
+            "আকাশ : Sky"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_medium_076",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 14 + 16 = ?",
+            "en": "Calculate: 14 + 16 = ?"
+          },
+          "options": [
+            "35",
+            "25",
+            "31",
+            "30"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_medium_077",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 6, 54, 486, 495, ?",
+            "en": "Look at the following series and find the next number: 6, 54, 486, 495, ?"
+          },
+          "options": [
+            "506",
+            "501",
+            "507",
+            "504"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_medium_078",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 72, 87, 80, 64",
+            "en": "Which of the following numbers does not belong with the others? 72, 87, 80, 64"
+          },
+          "options": [
+            "72",
+            "87",
+            "80",
+            "64"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_079",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "গরু যেমন দুধ এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Cow relates to Milk, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "মাথা : Head",
+            "রাস্তা : Road",
+            "দুধ : Milk",
+            "পড়া : Read"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_080",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 11 * 12 = ?",
+            "en": "Calculate: 11 * 12 = ?"
+          },
+          "options": [
+            "129",
+            "127",
+            "132",
+            "130"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_081",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 9, 36, 144, 576, ?",
+            "en": "Look at the following series and find the next number: 9, 36, 144, 576, ?"
+          },
+          "options": [
+            "582",
+            "584",
+            "580",
+            "583"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_082",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 14, 98, 42, 85",
+            "en": "Which of the following numbers does not belong with the others? 14, 98, 42, 85"
+          },
+          "options": [
+            "14",
+            "98",
+            "42",
+            "85"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_medium_083",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "বরফ যেমন ঠান্ডা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Ice relates to Cold, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "গাওয়া : Sing",
+            "ঠান্ডা : Cold",
+            "আকাশ : Sky",
+            "আদালত : Court"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_084",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 42 - 6 = ?",
+            "en": "Calculate: 42 - 6 = ?"
+          },
+          "options": [
+            "39",
+            "37",
+            "36",
+            "34"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_085",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 12, 19, 26, 33, ?",
+            "en": "Look at the following series and find the next number: 12, 19, 26, 33, ?"
+          },
+          "options": [
+            "38",
+            "44",
+            "43",
+            "40"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_medium_086",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 22, 32, 16, 24",
+            "en": "Which of the following numbers does not belong with the others? 22, 32, 16, 24"
+          },
+          "options": [
+            "22",
+            "32",
+            "16",
+            "24"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_medium_087",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "ডাক্তার যেমন হাসপাতাল এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Doctor relates to Hospital, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "দুধ : Milk",
+            "যুদ্ধ : War",
+            "আদালত : Court",
+            "হাসপাতাল : Hospital"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_medium_088",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 47 * 12 = ?",
+            "en": "Calculate: 47 * 12 = ?"
+          },
+          "options": [
+            "567",
+            "564",
+            "562",
+            "569"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_089",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 12, 60, 300, 305, ?",
+            "en": "Look at the following series and find the next number: 12, 60, 300, 305, ?"
+          },
+          "options": [
+            "312",
+            "310",
+            "311",
+            "315"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_090",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 30, 50, 55, 44",
+            "en": "Which of the following numbers does not belong with the others? 30, 50, 55, 44"
+          },
+          "options": [
+            "30",
+            "50",
+            "55",
+            "44"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_medium_091",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "টুপি যেমন মাথা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Hat relates to Head, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "শোনা : Hear",
+            "মাথা : Head",
+            "রান্নাঘর : Kitchen",
+            "রাস্তা : Road"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_092",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 21 * 3 = ?",
+            "en": "Calculate: 21 * 3 = ?"
+          },
+          "options": [
+            "60",
+            "63",
+            "68",
+            "65"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_medium_093",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 14, 56, 224, 896, ?",
+            "en": "Look at the following series and find the next number: 14, 56, 224, 896, ?"
+          },
+          "options": [
+            "899",
+            "905",
+            "900",
+            "904"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_094",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 57, 49, 7, 98",
+            "en": "Which of the following numbers does not belong with the others? 57, 49, 7, 98"
+          },
+          "options": [
+            "57",
+            "49",
+            "7",
+            "98"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_medium_095",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "ডাক্তার যেমন হাসপাতাল এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Doctor relates to Hospital, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "আকাশ : Sky",
+            "ক্ষেত : Field",
+            "হাসপাতাল : Hospital",
+            "দিন : Day"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_medium_096",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 14 + 6 = ?",
+            "en": "Calculate: 14 + 6 = ?"
+          },
+          "options": [
+            "20",
+            "25",
+            "18",
+            "21"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_medium_097",
+          "category": "number_series",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 3, 6, 12, 24, ?",
+            "en": "Look at the following series and find the next number: 3, 6, 12, 24, ?"
+          },
+          "options": [
+            "52",
+            "47",
+            "49",
+            "48"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_medium_098",
+          "category": "odd_one_out_number",
+          "level": "medium",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 6, 24, 12, 19",
+            "en": "Which of the following numbers does not belong with the others? 6, 24, 12, 19"
+          },
+          "options": [
+            "6",
+            "24",
+            "12",
+            "19"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_medium_099",
+          "category": "analogy",
+          "level": "medium",
+          "question": {
+            "bn": "সৈনিক যেমন যুদ্ধ এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Soldier relates to War, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "কবিতা : Poem",
+            "আকাশ : Sky",
+            "পা : Foot",
+            "যুদ্ধ : War"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_medium_100",
+          "category": "arithmetic",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 50 - 6 = ?",
+            "en": "Calculate: 50 - 6 = ?"
+          },
+          "options": [
+            "44",
+            "47",
+            "46",
+            "39"
+          ],
+          "answer_index": 0
+        }
+      ]
+    },
+    "hard": {
+      "count": 100,
+      "questions": [
+        {
+          "id": "iq_hard_001",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 4, 16, 64, 256, ?",
+            "en": "Look at the following series and find the next number: 4, 16, 64, 256, ?"
+          },
+          "options": [
+            "258",
+            "257",
+            "264",
+            "260"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_hard_002",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 8, 12, 40, 48",
+            "en": "Which of the following numbers does not belong with the others? 8, 12, 40, 48"
+          },
+          "options": [
+            "8",
+            "12",
+            "40",
+            "48"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_hard_003",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "আগুন যেমন গরম এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Fire relates to Hot, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "সমুদ্র : Sea",
+            "রাজত্ব : Kingdom",
+            "গরম : Hot",
+            "ঠান্ডা : Cold"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_004",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 55 - 19 = ?",
+            "en": "Calculate: 55 - 19 = ?"
+          },
+          "options": [
+            "36",
+            "34",
+            "41",
+            "33"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_005",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 5, 8, 11, 14, ?",
+            "en": "Look at the following series and find the next number: 5, 8, 11, 14, ?"
+          },
+          "options": [
+            "17",
+            "19",
+            "20",
+            "14"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_006",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 29, 28, 35, 7",
+            "en": "Which of the following numbers does not belong with the others? 29, 28, 35, 7"
+          },
+          "options": [
+            "29",
+            "28",
+            "35",
+            "7"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_007",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "সূর্য যেমন দিন এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Sun relates to Day, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "দিন : Day",
+            "যুদ্ধ : War",
+            "স্কুল : School",
+            "ক্ষেত : Field"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_008",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 59 * 12 = ?",
+            "en": "Calculate: 59 * 12 = ?"
+          },
+          "options": [
+            "710",
+            "708",
+            "709",
+            "713"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_hard_009",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 3, 12, 21, 30, ?",
+            "en": "Look at the following series and find the next number: 3, 12, 21, 30, ?"
+          },
+          "options": [
+            "39",
+            "37",
+            "42",
+            "41"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_010",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 56, 49, 70, 54",
+            "en": "Which of the following numbers does not belong with the others? 56, 49, 70, 54"
+          },
+          "options": [
+            "56",
+            "49",
+            "70",
+            "54"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_hard_011",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "মাছ যেমন পানি এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Fish relates to Water, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "আদালত : Court",
+            "পানি : Water",
+            "গরম : Hot",
+            "ক্ষেত : Field"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_hard_012",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 19 + 23 = ?",
+            "en": "Calculate: 19 + 23 = ?"
+          },
+          "options": [
+            "44",
+            "42",
+            "45",
+            "40"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_hard_013",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 2, 7, 12, 17, ?",
+            "en": "Look at the following series and find the next number: 2, 7, 12, 17, ?"
+          },
+          "options": [
+            "26",
+            "23",
+            "22",
+            "25"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_014",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 110, 108, 80, 60",
+            "en": "Which of the following numbers does not belong with the others? 110, 108, 80, 60"
+          },
+          "options": [
+            "110",
+            "108",
+            "80",
+            "60"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_hard_015",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "টুপি যেমন মাথা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Hat relates to Head, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "মধু : Honey",
+            "দুধ : Milk",
+            "মাথা : Head",
+            "ক্ষেত : Field"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_016",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 13 * 25 = ?",
+            "en": "Calculate: 13 * 25 = ?"
+          },
+          "options": [
+            "328",
+            "325",
+            "330",
+            "322"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_hard_017",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 5, 60, 720, 732, ?",
+            "en": "Look at the following series and find the next number: 5, 60, 720, 732, ?"
+          },
+          "options": [
+            "749",
+            "742",
+            "744",
+            "745"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_018",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 32, 10, 30, 40",
+            "en": "Which of the following numbers does not belong with the others? 32, 10, 30, 40"
+          },
+          "options": [
+            "32",
+            "10",
+            "30",
+            "40"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_019",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "বিচারক যেমন আদালত এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Judge relates to Court, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "আইন : Law",
+            "আদালত : Court",
+            "শোনা : Hear",
+            "রাত : Night"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_hard_020",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 25 * 8 = ?",
+            "en": "Calculate: 25 * 8 = ?"
+          },
+          "options": [
+            "200",
+            "195",
+            "199",
+            "205"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_021",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 9, 20, 31, 42, ?",
+            "en": "Look at the following series and find the next number: 9, 20, 31, 42, ?"
+          },
+          "options": [
+            "57",
+            "51",
+            "53",
+            "55"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_022",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 58, 27, 18, 90",
+            "en": "Which of the following numbers does not belong with the others? 58, 27, 18, 90"
+          },
+          "options": [
+            "58",
+            "27",
+            "18",
+            "90"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_023",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "গান যেমন গাওয়া এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Song relates to Sing, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "মধু : Honey",
+            "দেখা : See",
+            "গাওয়া : Sing",
+            "মাথা : Head"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_024",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 74 * 29 = ?",
+            "en": "Calculate: 74 * 29 = ?"
+          },
+          "options": [
+            "2147",
+            "2143",
+            "2144",
+            "2146"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_hard_025",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 5, 40, 320, 328, ?",
+            "en": "Look at the following series and find the next number: 5, 40, 320, 328, ?"
+          },
+          "options": [
+            "334",
+            "337",
+            "336",
+            "338"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_026",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 106, 108, 132, 24",
+            "en": "Which of the following numbers does not belong with the others? 106, 108, 132, 24"
+          },
+          "options": [
+            "106",
+            "108",
+            "132",
+            "24"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_027",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "কান যেমন শোনা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Ear relates to Hear, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "আঁকা : Draw",
+            "শোনা : Hear",
+            "গরম : Hot",
+            "পড়া : Read"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_hard_028",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 13 * 4 = ?",
+            "en": "Calculate: 13 * 4 = ?"
+          },
+          "options": [
+            "55",
+            "53",
+            "52",
+            "51"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_029",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 6, 16, 26, 36, ?",
+            "en": "Look at the following series and find the next number: 6, 16, 26, 36, ?"
+          },
+          "options": [
+            "50",
+            "46",
+            "51",
+            "48"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_hard_030",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 55, 40, 49, 35",
+            "en": "Which of the following numbers does not belong with the others? 55, 40, 49, 35"
+          },
+          "options": [
+            "55",
+            "40",
+            "49",
+            "35"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_031",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "গরু যেমন দুধ এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Cow relates to Milk, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "মধু : Honey",
+            "দুধ : Milk",
+            "আদালত : Court",
+            "ঠান্ডা : Cold"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_hard_032",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 57 + 18 = ?",
+            "en": "Calculate: 57 + 18 = ?"
+          },
+          "options": [
+            "75",
+            "74",
+            "72",
+            "77"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_033",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 9, 15, 21, 27, ?",
+            "en": "Look at the following series and find the next number: 9, 15, 21, 27, ?"
+          },
+          "options": [
+            "33",
+            "35",
+            "30",
+            "31"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_034",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 18, 36, 60, 28",
+            "en": "Which of the following numbers does not belong with the others? 18, 36, 60, 28"
+          },
+          "options": [
+            "18",
+            "36",
+            "60",
+            "28"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_hard_035",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "জুতা যেমন পা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Shoe relates to Foot, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "রাত : Night",
+            "কবিতা : Poem",
+            "মাথা : Head",
+            "পা : Foot"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_hard_036",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 74 * 16 = ?",
+            "en": "Calculate: 74 * 16 = ?"
+          },
+          "options": [
+            "1183",
+            "1179",
+            "1186",
+            "1184"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_hard_037",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 9, 16, 23, 30, ?",
+            "en": "Look at the following series and find the next number: 9, 16, 23, 30, ?"
+          },
+          "options": [
+            "41",
+            "35",
+            "37",
+            "36"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_038",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 54, 63, 15, 9",
+            "en": "Which of the following numbers does not belong with the others? 54, 63, 15, 9"
+          },
+          "options": [
+            "54",
+            "63",
+            "15",
+            "9"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_039",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "ডাক্তার যেমন হাসপাতাল এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Doctor relates to Hospital, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "রান্নাঘর : Kitchen",
+            "হাসপাতাল : Hospital",
+            "পা : Foot",
+            "রাস্তা : Road"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_hard_040",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 26 - 5 = ?",
+            "en": "Calculate: 26 - 5 = ?"
+          },
+          "options": [
+            "20",
+            "19",
+            "21",
+            "23"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_041",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 2, 5, 8, 11, ?",
+            "en": "Look at the following series and find the next number: 2, 5, 8, 11, ?"
+          },
+          "options": [
+            "17",
+            "13",
+            "14",
+            "19"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_042",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 35, 50, 43, 25",
+            "en": "Which of the following numbers does not belong with the others? 35, 50, 43, 25"
+          },
+          "options": [
+            "35",
+            "50",
+            "43",
+            "25"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_043",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "ছবি যেমন আঁকা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Picture relates to Draw, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "পা : Foot",
+            "রাত : Night",
+            "সমুদ্র : Sea",
+            "আঁকা : Draw"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_hard_044",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 96 - 5 = ?",
+            "en": "Calculate: 96 - 5 = ?"
+          },
+          "options": [
+            "91",
+            "96",
+            "86",
+            "92"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_045",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 2, 24, 288, 300, ?",
+            "en": "Look at the following series and find the next number: 2, 24, 288, 300, ?"
+          },
+          "options": [
+            "313",
+            "311",
+            "316",
+            "312"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_hard_046",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 36, 6, 32, 48",
+            "en": "Which of the following numbers does not belong with the others? 36, 6, 32, 48"
+          },
+          "options": [
+            "36",
+            "6",
+            "32",
+            "48"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_047",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "রাঁধুনি যেমন রান্নাঘর এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Cook relates to Kitchen, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "রাস্তা : Road",
+            "রান্নাঘর : Kitchen",
+            "রাজত্ব : Kingdom",
+            "পড়া : Read"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_hard_048",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 27 * 18 = ?",
+            "en": "Calculate: 27 * 18 = ?"
+          },
+          "options": [
+            "486",
+            "489",
+            "488",
+            "491"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_049",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 10, 80, 640, 648, ?",
+            "en": "Look at the following series and find the next number: 10, 80, 640, 648, ?"
+          },
+          "options": [
+            "656",
+            "658",
+            "661",
+            "657"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_050",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 30, 24, 66, 68",
+            "en": "Which of the following numbers does not belong with the others? 30, 24, 66, 68"
+          },
+          "options": [
+            "30",
+            "24",
+            "66",
+            "68"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_hard_051",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "মৌমাছি যেমন মধু এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Bee relates to Honey, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "গরম : Hot",
+            "মধু : Honey",
+            "সমুদ্র : Sea",
+            "যুদ্ধ : War"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_hard_052",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 83 + 23 = ?",
+            "en": "Calculate: 83 + 23 = ?"
+          },
+          "options": [
+            "109",
+            "106",
+            "104",
+            "108"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_hard_053",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 3, 24, 192, 200, ?",
+            "en": "Look at the following series and find the next number: 3, 24, 192, 200, ?"
+          },
+          "options": [
+            "208",
+            "213",
+            "210",
+            "209"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_054",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 61, 22, 55, 33",
+            "en": "Which of the following numbers does not belong with the others? 61, 22, 55, 33"
+          },
+          "options": [
+            "61",
+            "22",
+            "55",
+            "33"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_055",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "গান যেমন গাওয়া এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Song relates to Sing, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "কাটা : Cut",
+            "মাথা : Head",
+            "গাওয়া : Sing",
+            "কবিতা : Poem"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_056",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 62 + 12 = ?",
+            "en": "Calculate: 62 + 12 = ?"
+          },
+          "options": [
+            "74",
+            "79",
+            "71",
+            "72"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_057",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 8, 80, 800, 810, ?",
+            "en": "Look at the following series and find the next number: 8, 80, 800, 810, ?"
+          },
+          "options": [
+            "821",
+            "820",
+            "823",
+            "822"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_hard_058",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 16, 44, 18, 40",
+            "en": "Which of the following numbers does not belong with the others? 16, 44, 18, 40"
+          },
+          "options": [
+            "16",
+            "44",
+            "18",
+            "40"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_059",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "কবি যেমন কবিতা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Poet relates to Poem, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "যুদ্ধ : War",
+            "পানি : Water",
+            "কবিতা : Poem",
+            "ক্ষেত : Field"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_060",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 14 - 2 = ?",
+            "en": "Calculate: 14 - 2 = ?"
+          },
+          "options": [
+            "9",
+            "12",
+            "13",
+            "14"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_hard_061",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 4, 44, 484, 495, ?",
+            "en": "Look at the following series and find the next number: 4, 44, 484, 495, ?"
+          },
+          "options": [
+            "508",
+            "506",
+            "504",
+            "507"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_hard_062",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 42, 25, 21, 7",
+            "en": "Which of the following numbers does not belong with the others? 42, 25, 21, 7"
+          },
+          "options": [
+            "42",
+            "25",
+            "21",
+            "7"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_hard_063",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "সৈনিক যেমন যুদ্ধ এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Soldier relates to War, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "মাথা : Head",
+            "দুধ : Milk",
+            "রান্নাঘর : Kitchen",
+            "যুদ্ধ : War"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_hard_064",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 33 - 6 = ?",
+            "en": "Calculate: 33 - 6 = ?"
+          },
+          "options": [
+            "22",
+            "26",
+            "27",
+            "29"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_065",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 9, 63, 441, 448, ?",
+            "en": "Look at the following series and find the next number: 9, 63, 441, 448, ?"
+          },
+          "options": [
+            "455",
+            "452",
+            "457",
+            "458"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_066",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 30, 50, 73, 70",
+            "en": "Which of the following numbers does not belong with the others? 30, 50, 73, 70"
+          },
+          "options": [
+            "30",
+            "50",
+            "73",
+            "70"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_067",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "বই যেমন পড়া এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Book relates to Read, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "আকাশ : Sky",
+            "মধু : Honey",
+            "পড়া : Read",
+            "রাত : Night"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_068",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 71 - 6 = ?",
+            "en": "Calculate: 71 - 6 = ?"
+          },
+          "options": [
+            "70",
+            "68",
+            "65",
+            "67"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_069",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 10, 100, 110, 120, ?",
+            "en": "Look at the following series and find the next number: 10, 100, 110, 120, ?"
+          },
+          "options": [
+            "131",
+            "127",
+            "128",
+            "130"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_hard_070",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 44, 22, 88, 96",
+            "en": "Which of the following numbers does not belong with the others? 44, 22, 88, 96"
+          },
+          "options": [
+            "44",
+            "22",
+            "88",
+            "96"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_hard_071",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "রাজা যেমন রাজত্ব এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As King relates to Kingdom, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "তালা : Lock",
+            "রাজত্ব : Kingdom",
+            "পানি : Water",
+            "দেখা : See"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_hard_072",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 81 + 16 = ?",
+            "en": "Calculate: 81 + 16 = ?"
+          },
+          "options": [
+            "97",
+            "92",
+            "100",
+            "98"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_073",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 3, 9, 27, 81, ?",
+            "en": "Look at the following series and find the next number: 3, 9, 27, 81, ?"
+          },
+          "options": [
+            "243",
+            "246",
+            "241",
+            "240"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_074",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 49, 70, 21, 62",
+            "en": "Which of the following numbers does not belong with the others? 49, 70, 21, 62"
+          },
+          "options": [
+            "49",
+            "70",
+            "21",
+            "62"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_hard_075",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "চাবি যেমন তালা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Key relates to Lock, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "তালা : Lock",
+            "হাসপাতাল : Hospital",
+            "ক্ষেত : Field",
+            "আদালত : Court"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_076",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 25 + 7 = ?",
+            "en": "Calculate: 25 + 7 = ?"
+          },
+          "options": [
+            "30",
+            "35",
+            "31",
+            "32"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_hard_077",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 9, 99, 110, 121, ?",
+            "en": "Look at the following series and find the next number: 9, 99, 110, 121, ?"
+          },
+          "options": [
+            "133",
+            "137",
+            "136",
+            "132"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_hard_078",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 6, 42, 45, 12",
+            "en": "Which of the following numbers does not belong with the others? 6, 42, 45, 12"
+          },
+          "options": [
+            "6",
+            "42",
+            "45",
+            "12"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_079",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "ডাক্তার যেমন হাসপাতাল এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Doctor relates to Hospital, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "দেখা : See",
+            "হাসপাতাল : Hospital",
+            "পড়া : Read",
+            "পানি : Water"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_hard_080",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 41 * 25 = ?",
+            "en": "Calculate: 41 * 25 = ?"
+          },
+          "options": [
+            "1030",
+            "1028",
+            "1024",
+            "1025"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_hard_081",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 10, 17, 24, 31, ?",
+            "en": "Look at the following series and find the next number: 10, 17, 24, 31, ?"
+          },
+          "options": [
+            "39",
+            "40",
+            "38",
+            "41"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_082",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 45, 80, 9, 99",
+            "en": "Which of the following numbers does not belong with the others? 45, 80, 9, 99"
+          },
+          "options": [
+            "45",
+            "80",
+            "9",
+            "99"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_hard_083",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "গাড়ি যেমন রাস্তা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Car relates to Road, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "রাস্তা : Road",
+            "পা : Foot",
+            "পানি : Water",
+            "মধু : Honey"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_084",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 99 - 15 = ?",
+            "en": "Calculate: 99 - 15 = ?"
+          },
+          "options": [
+            "82",
+            "87",
+            "85",
+            "84"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_hard_085",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 5, 30, 180, 186, ?",
+            "en": "Look at the following series and find the next number: 5, 30, 180, 186, ?"
+          },
+          "options": [
+            "197",
+            "192",
+            "189",
+            "191"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_hard_086",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 78, 99, 45, 36",
+            "en": "Which of the following numbers does not belong with the others? 78, 99, 45, 36"
+          },
+          "options": [
+            "78",
+            "99",
+            "45",
+            "36"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_087",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "ডাক্তার যেমন হাসপাতাল এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Doctor relates to Hospital, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "গরম : Hot",
+            "আইন : Law",
+            "হাসপাতাল : Hospital",
+            "সমুদ্র : Sea"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_088",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 58 + 23 = ?",
+            "en": "Calculate: 58 + 23 = ?"
+          },
+          "options": [
+            "76",
+            "80",
+            "78",
+            "81"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_hard_089",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 7, 14, 21, 28, ?",
+            "en": "Look at the following series and find the next number: 7, 14, 21, 28, ?"
+          },
+          "options": [
+            "36",
+            "40",
+            "35",
+            "33"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_090",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 36, 85, 81, 54",
+            "en": "Which of the following numbers does not belong with the others? 36, 85, 81, 54"
+          },
+          "options": [
+            "36",
+            "85",
+            "81",
+            "54"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_hard_091",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "গাড়ি যেমন রাস্তা এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Car relates to Road, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "রাস্তা : Road",
+            "রাত : Night",
+            "গাওয়া : Sing",
+            "মধু : Honey"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_092",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 69 + 5 = ?",
+            "en": "Calculate: 69 + 5 = ?"
+          },
+          "options": [
+            "73",
+            "79",
+            "74",
+            "76"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_093",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 2, 14, 26, 38, ?",
+            "en": "Look at the following series and find the next number: 2, 14, 26, 38, ?"
+          },
+          "options": [
+            "52",
+            "49",
+            "50",
+            "47"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_094",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 36, 24, 42, 31",
+            "en": "Which of the following numbers does not belong with the others? 36, 24, 42, 31"
+          },
+          "options": [
+            "36",
+            "24",
+            "42",
+            "31"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_hard_095",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "সূর্য যেমন দিন এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Sun relates to Day, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "আইন : Law",
+            "দিন : Day",
+            "রাজত্ব : Kingdom",
+            "মাথা : Head"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "iq_hard_096",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 55 * 7 = ?",
+            "en": "Calculate: 55 * 7 = ?"
+          },
+          "options": [
+            "380",
+            "390",
+            "383",
+            "385"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "iq_hard_097",
+          "category": "number_series",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের ধারাটি লক্ষ্য করো এবং পরবর্তী সংখ্যাটি বের করো: 2, 11, 20, 29, ?",
+            "en": "Look at the following series and find the next number: 2, 11, 20, 29, ?"
+          },
+          "options": [
+            "38",
+            "37",
+            "39",
+            "36"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_098",
+          "category": "odd_one_out_number",
+          "level": "hard",
+          "question": {
+            "bn": "নিচের সংখ্যাগুলোর মধ্যে কোনটি ভিন্ন (বিজোড়/অসামঞ্জস্যপূর্ণ)? 64, 80, 70, 8",
+            "en": "Which of the following numbers does not belong with the others? 64, 80, 70, 8"
+          },
+          "options": [
+            "64",
+            "80",
+            "70",
+            "8"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "iq_hard_099",
+          "category": "analogy",
+          "level": "hard",
+          "question": {
+            "bn": "পাখি যেমন আকাশ এর সাথে সম্পর্কিত, তেমনি নিচের কোন শব্দজোড়াটি একই ধরনের সম্পর্ক দেখায়?",
+            "en": "As Bird relates to Sky, which of the following word pairs shows a similar relationship?"
+          },
+          "options": [
+            "আকাশ : Sky",
+            "পানি : Water",
+            "গরম : Hot",
+            "রাস্তা : Road"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "iq_hard_100",
+          "category": "arithmetic",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 12 + 18 = ?",
+            "en": "Calculate: 12 + 18 = ?"
+          },
+          "options": [
+            "27",
+            "30",
+            "28",
+            "33"
+          ],
+          "answer_index": 1
+        }
+      ]
+    }
+  }
+}

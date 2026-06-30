@@ -1,0 +1,4824 @@
+{
+  "title": {
+    "bn": "গণিত প্র্যাকটিস গেম",
+    "en": "Math Practice Game"
+  },
+  "total_questions": 300,
+  "levels": {
+    "easy": {
+      "count": 100,
+      "questions": [
+        {
+          "id": "math_easy_001",
+          "category": "addition",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 11 + 5 = ?",
+            "en": "Calculate: 11 + 5 = ?"
+          },
+          "options": [
+            "21",
+            "6",
+            "11",
+            "16"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_002",
+          "category": "subtraction",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 11 - 1 = ?",
+            "en": "Calculate: 11 - 1 = ?"
+          },
+          "options": [
+            "15",
+            "10",
+            "5",
+            "9"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_easy_003",
+          "category": "multiplication",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 1 × 10 = ?",
+            "en": "Calculate: 1 × 10 = ?"
+          },
+          "options": [
+            "1",
+            "10",
+            "8",
+            "4"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_easy_004",
+          "category": "division",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 18 ÷ 2 = ?",
+            "en": "Calculate: 18 ÷ 2 = ?"
+          },
+          "options": [
+            "7",
+            "8",
+            "10",
+            "9"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_005",
+          "category": "percentage",
+          "level": "easy",
+          "question": {
+            "bn": "100 এর 25% কত?",
+            "en": "What is 25% of 100?"
+          },
+          "options": [
+            "25",
+            "23",
+            "24",
+            "22"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_006",
+          "category": "square",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 2² = ?",
+            "en": "Calculate: 2² = ?"
+          },
+          "options": [
+            "8",
+            "4",
+            "0",
+            "6"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_easy_007",
+          "category": "average",
+          "level": "easy",
+          "question": {
+            "bn": "19, 15 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 19, 15?"
+          },
+          "options": [
+            "20",
+            "15",
+            "16",
+            "17"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_008",
+          "category": "addition",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 17 + 16 = ?",
+            "en": "Calculate: 17 + 16 = ?"
+          },
+          "options": [
+            "35",
+            "34",
+            "43",
+            "33"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_009",
+          "category": "subtraction",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 10 - 6 = ?",
+            "en": "Calculate: 10 - 6 = ?"
+          },
+          "options": [
+            "2",
+            "14",
+            "4",
+            "9"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_easy_010",
+          "category": "multiplication",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 9 × 10 = ?",
+            "en": "Calculate: 9 × 10 = ?"
+          },
+          "options": [
+            "94",
+            "84",
+            "99",
+            "90"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_011",
+          "category": "division",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 3 ÷ 3 = ?",
+            "en": "Calculate: 3 ÷ 3 = ?"
+          },
+          "options": [
+            "1",
+            "2",
+            "4",
+            "3"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_012",
+          "category": "percentage",
+          "level": "easy",
+          "question": {
+            "bn": "20 এর 25% কত?",
+            "en": "What is 25% of 20?"
+          },
+          "options": [
+            "5",
+            "7",
+            "3",
+            "10"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_013",
+          "category": "square",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 5² = ?",
+            "en": "Calculate: 5² = ?"
+          },
+          "options": [
+            "25",
+            "21",
+            "23",
+            "31"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_014",
+          "category": "average",
+          "level": "easy",
+          "question": {
+            "bn": "16, 4 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 16, 4?"
+          },
+          "options": [
+            "12",
+            "10",
+            "8",
+            "11"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_easy_015",
+          "category": "addition",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 18 + 9 = ?",
+            "en": "Calculate: 18 + 9 = ?"
+          },
+          "options": [
+            "29",
+            "27",
+            "32",
+            "26"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_easy_016",
+          "category": "subtraction",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 9 - 4 = ?",
+            "en": "Calculate: 9 - 4 = ?"
+          },
+          "options": [
+            "-5",
+            "5",
+            "15",
+            "4"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_easy_017",
+          "category": "multiplication",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 1 × 3 = ?",
+            "en": "Calculate: 1 × 3 = ?"
+          },
+          "options": [
+            "7",
+            "-1",
+            "3",
+            "9"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_easy_018",
+          "category": "division",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 56 ÷ 8 = ?",
+            "en": "Calculate: 56 ÷ 8 = ?"
+          },
+          "options": [
+            "10",
+            "4",
+            "8",
+            "7"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_019",
+          "category": "percentage",
+          "level": "easy",
+          "question": {
+            "bn": "40 এর 10% কত?",
+            "en": "What is 10% of 40?"
+          },
+          "options": [
+            "2",
+            "9",
+            "1",
+            "4"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_020",
+          "category": "square",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 3² = ?",
+            "en": "Calculate: 3² = ?"
+          },
+          "options": [
+            "3",
+            "13",
+            "5",
+            "9"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_021",
+          "category": "average",
+          "level": "easy",
+          "question": {
+            "bn": "3, 7 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 3, 7?"
+          },
+          "options": [
+            "3",
+            "7",
+            "5",
+            "6"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_easy_022",
+          "category": "addition",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 16 + 4 = ?",
+            "en": "Calculate: 16 + 4 = ?"
+          },
+          "options": [
+            "21",
+            "30",
+            "15",
+            "20"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_023",
+          "category": "subtraction",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 15 - 12 = ?",
+            "en": "Calculate: 15 - 12 = ?"
+          },
+          "options": [
+            "4",
+            "3",
+            "13",
+            "1"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_easy_024",
+          "category": "multiplication",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 3 × 9 = ?",
+            "en": "Calculate: 3 × 9 = ?"
+          },
+          "options": [
+            "21",
+            "18",
+            "29",
+            "27"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_025",
+          "category": "division",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 24 ÷ 4 = ?",
+            "en": "Calculate: 24 ÷ 4 = ?"
+          },
+          "options": [
+            "6",
+            "8",
+            "5",
+            "4"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_026",
+          "category": "percentage",
+          "level": "easy",
+          "question": {
+            "bn": "80 এর 20% কত?",
+            "en": "What is 20% of 80?"
+          },
+          "options": [
+            "21",
+            "18",
+            "15",
+            "16"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_027",
+          "category": "square",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 9² = ?",
+            "en": "Calculate: 9² = ?"
+          },
+          "options": [
+            "81",
+            "79",
+            "77",
+            "87"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_028",
+          "category": "average",
+          "level": "easy",
+          "question": {
+            "bn": "12, 4 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 12, 4?"
+          },
+          "options": [
+            "5",
+            "8",
+            "6",
+            "9"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_easy_029",
+          "category": "addition",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 16 + 20 = ?",
+            "en": "Calculate: 16 + 20 = ?"
+          },
+          "options": [
+            "26",
+            "46",
+            "36",
+            "38"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_easy_030",
+          "category": "subtraction",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 17 - 7 = ?",
+            "en": "Calculate: 17 - 7 = ?"
+          },
+          "options": [
+            "15",
+            "10",
+            "8",
+            "20"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_easy_031",
+          "category": "multiplication",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 8 × 7 = ?",
+            "en": "Calculate: 8 × 7 = ?"
+          },
+          "options": [
+            "56",
+            "47",
+            "52",
+            "50"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_032",
+          "category": "division",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 40 ÷ 4 = ?",
+            "en": "Calculate: 40 ÷ 4 = ?"
+          },
+          "options": [
+            "11",
+            "13",
+            "10",
+            "12"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_easy_033",
+          "category": "percentage",
+          "level": "easy",
+          "question": {
+            "bn": "20 এর 10% কত?",
+            "en": "What is 10% of 20?"
+          },
+          "options": [
+            "-1",
+            "5",
+            "0",
+            "2"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_034",
+          "category": "square",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 6² = ?",
+            "en": "Calculate: 6² = ?"
+          },
+          "options": [
+            "32",
+            "36",
+            "40",
+            "34"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_easy_035",
+          "category": "average",
+          "level": "easy",
+          "question": {
+            "bn": "9, 19 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 9, 19?"
+          },
+          "options": [
+            "11",
+            "15",
+            "12",
+            "14"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_036",
+          "category": "addition",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 17 + 5 = ?",
+            "en": "Calculate: 17 + 5 = ?"
+          },
+          "options": [
+            "22",
+            "32",
+            "12",
+            "20"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_037",
+          "category": "subtraction",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 9 - 3 = ?",
+            "en": "Calculate: 9 - 3 = ?"
+          },
+          "options": [
+            "6",
+            "4",
+            "1",
+            "16"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_038",
+          "category": "multiplication",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 2 × 9 = ?",
+            "en": "Calculate: 2 × 9 = ?"
+          },
+          "options": [
+            "18",
+            "9",
+            "20",
+            "16"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_039",
+          "category": "division",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 10 ÷ 10 = ?",
+            "en": "Calculate: 10 ÷ 10 = ?"
+          },
+          "options": [
+            "1",
+            "4",
+            "2",
+            "3"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_040",
+          "category": "percentage",
+          "level": "easy",
+          "question": {
+            "bn": "100 এর 20% কত?",
+            "en": "What is 20% of 100?"
+          },
+          "options": [
+            "20",
+            "25",
+            "21",
+            "19"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_041",
+          "category": "square",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 8² = ?",
+            "en": "Calculate: 8² = ?"
+          },
+          "options": [
+            "58",
+            "64",
+            "62",
+            "66"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_easy_042",
+          "category": "average",
+          "level": "easy",
+          "question": {
+            "bn": "7, 11 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 7, 11?"
+          },
+          "options": [
+            "7",
+            "12",
+            "9",
+            "6"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_easy_043",
+          "category": "addition",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 5 + 15 = ?",
+            "en": "Calculate: 5 + 15 = ?"
+          },
+          "options": [
+            "19",
+            "20",
+            "25",
+            "15"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_easy_044",
+          "category": "subtraction",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 10 - 7 = ?",
+            "en": "Calculate: 10 - 7 = ?"
+          },
+          "options": [
+            "5",
+            "8",
+            "2",
+            "3"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_045",
+          "category": "multiplication",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 6 × 1 = ?",
+            "en": "Calculate: 6 × 1 = ?"
+          },
+          "options": [
+            "10",
+            "6",
+            "-3",
+            "15"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_easy_046",
+          "category": "division",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 20 ÷ 10 = ?",
+            "en": "Calculate: 20 ÷ 10 = ?"
+          },
+          "options": [
+            "5",
+            "1",
+            "2",
+            "3"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_easy_047",
+          "category": "percentage",
+          "level": "easy",
+          "question": {
+            "bn": "60 এর 50% কত?",
+            "en": "What is 50% of 60?"
+          },
+          "options": [
+            "30",
+            "25",
+            "31",
+            "27"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_048",
+          "category": "square",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 6² = ?",
+            "en": "Calculate: 6² = ?"
+          },
+          "options": [
+            "36",
+            "30",
+            "34",
+            "42"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_049",
+          "category": "average",
+          "level": "easy",
+          "question": {
+            "bn": "3, 9 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 3, 9?"
+          },
+          "options": [
+            "6",
+            "3",
+            "5",
+            "7"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_050",
+          "category": "addition",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 2 + 17 = ?",
+            "en": "Calculate: 2 + 17 = ?"
+          },
+          "options": [
+            "18",
+            "14",
+            "17",
+            "19"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_051",
+          "category": "subtraction",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 11 - 5 = ?",
+            "en": "Calculate: 11 - 5 = ?"
+          },
+          "options": [
+            "16",
+            "6",
+            "7",
+            "5"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_easy_052",
+          "category": "multiplication",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 1 × 5 = ?",
+            "en": "Calculate: 1 × 5 = ?"
+          },
+          "options": [
+            "5",
+            "3",
+            "14",
+            "-4"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_053",
+          "category": "division",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 64 ÷ 8 = ?",
+            "en": "Calculate: 64 ÷ 8 = ?"
+          },
+          "options": [
+            "10",
+            "7",
+            "8",
+            "9"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_easy_054",
+          "category": "percentage",
+          "level": "easy",
+          "question": {
+            "bn": "40 এর 20% কত?",
+            "en": "What is 20% of 40?"
+          },
+          "options": [
+            "11",
+            "10",
+            "8",
+            "3"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_easy_055",
+          "category": "square",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 6² = ?",
+            "en": "Calculate: 6² = ?"
+          },
+          "options": [
+            "30",
+            "36",
+            "38",
+            "32"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_easy_056",
+          "category": "average",
+          "level": "easy",
+          "question": {
+            "bn": "17, 11 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 17, 11?"
+          },
+          "options": [
+            "14",
+            "17",
+            "16",
+            "12"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_057",
+          "category": "addition",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 6 + 6 = ?",
+            "en": "Calculate: 6 + 6 = ?"
+          },
+          "options": [
+            "2",
+            "22",
+            "12",
+            "13"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_easy_058",
+          "category": "subtraction",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 15 - 4 = ?",
+            "en": "Calculate: 15 - 4 = ?"
+          },
+          "options": [
+            "10",
+            "12",
+            "1",
+            "11"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_059",
+          "category": "multiplication",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 6 × 7 = ?",
+            "en": "Calculate: 6 × 7 = ?"
+          },
+          "options": [
+            "44",
+            "36",
+            "42",
+            "51"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_easy_060",
+          "category": "division",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 15 ÷ 3 = ?",
+            "en": "Calculate: 15 ÷ 3 = ?"
+          },
+          "options": [
+            "5",
+            "6",
+            "3",
+            "2"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_061",
+          "category": "percentage",
+          "level": "easy",
+          "question": {
+            "bn": "60 এর 25% কত?",
+            "en": "What is 25% of 60?"
+          },
+          "options": [
+            "12",
+            "14",
+            "13",
+            "15"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_062",
+          "category": "square",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 4² = ?",
+            "en": "Calculate: 4² = ?"
+          },
+          "options": [
+            "14",
+            "22",
+            "16",
+            "20"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_easy_063",
+          "category": "average",
+          "level": "easy",
+          "question": {
+            "bn": "17, 5 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 17, 5?"
+          },
+          "options": [
+            "14",
+            "13",
+            "8",
+            "11"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_064",
+          "category": "addition",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 2 + 5 = ?",
+            "en": "Calculate: 2 + 5 = ?"
+          },
+          "options": [
+            "2",
+            "9",
+            "12",
+            "7"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_065",
+          "category": "subtraction",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 5 - 5 = ?",
+            "en": "Calculate: 5 - 5 = ?"
+          },
+          "options": [
+            "10",
+            "-1",
+            "1",
+            "0"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_066",
+          "category": "multiplication",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 9 × 9 = ?",
+            "en": "Calculate: 9 × 9 = ?"
+          },
+          "options": [
+            "90",
+            "75",
+            "81",
+            "83"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_easy_067",
+          "category": "division",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 20 ÷ 5 = ?",
+            "en": "Calculate: 20 ÷ 5 = ?"
+          },
+          "options": [
+            "1",
+            "4",
+            "5",
+            "7"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_easy_068",
+          "category": "percentage",
+          "level": "easy",
+          "question": {
+            "bn": "100 এর 10% কত?",
+            "en": "What is 10% of 100?"
+          },
+          "options": [
+            "8",
+            "7",
+            "9",
+            "10"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_069",
+          "category": "square",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 4² = ?",
+            "en": "Calculate: 4² = ?"
+          },
+          "options": [
+            "10",
+            "14",
+            "18",
+            "16"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_070",
+          "category": "average",
+          "level": "easy",
+          "question": {
+            "bn": "16, 10 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 16, 10?"
+          },
+          "options": [
+            "16",
+            "13",
+            "12",
+            "15"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_easy_071",
+          "category": "addition",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 4 + 18 = ?",
+            "en": "Calculate: 4 + 18 = ?"
+          },
+          "options": [
+            "22",
+            "21",
+            "17",
+            "23"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_072",
+          "category": "subtraction",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 19 - 3 = ?",
+            "en": "Calculate: 19 - 3 = ?"
+          },
+          "options": [
+            "21",
+            "26",
+            "16",
+            "17"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_easy_073",
+          "category": "multiplication",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 10 × 2 = ?",
+            "en": "Calculate: 10 × 2 = ?"
+          },
+          "options": [
+            "16",
+            "22",
+            "20",
+            "24"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_easy_074",
+          "category": "division",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 18 ÷ 3 = ?",
+            "en": "Calculate: 18 ÷ 3 = ?"
+          },
+          "options": [
+            "6",
+            "7",
+            "3",
+            "4"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_075",
+          "category": "percentage",
+          "level": "easy",
+          "question": {
+            "bn": "80 এর 50% কত?",
+            "en": "What is 50% of 80?"
+          },
+          "options": [
+            "40",
+            "38",
+            "41",
+            "43"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_076",
+          "category": "square",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 3² = ?",
+            "en": "Calculate: 3² = ?"
+          },
+          "options": [
+            "9",
+            "3",
+            "7",
+            "11"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_077",
+          "category": "average",
+          "level": "easy",
+          "question": {
+            "bn": "10, 10 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 10, 10?"
+          },
+          "options": [
+            "10",
+            "9",
+            "11",
+            "7"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_078",
+          "category": "addition",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 12 + 14 = ?",
+            "en": "Calculate: 12 + 14 = ?"
+          },
+          "options": [
+            "21",
+            "26",
+            "27",
+            "16"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_easy_079",
+          "category": "subtraction",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 9 - 4 = ?",
+            "en": "Calculate: 9 - 4 = ?"
+          },
+          "options": [
+            "10",
+            "6",
+            "7",
+            "5"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_080",
+          "category": "multiplication",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 1 × 7 = ?",
+            "en": "Calculate: 1 × 7 = ?"
+          },
+          "options": [
+            "-2",
+            "1",
+            "5",
+            "7"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_081",
+          "category": "division",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 48 ÷ 6 = ?",
+            "en": "Calculate: 48 ÷ 6 = ?"
+          },
+          "options": [
+            "8",
+            "5",
+            "6",
+            "10"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_082",
+          "category": "percentage",
+          "level": "easy",
+          "question": {
+            "bn": "60 এর 25% কত?",
+            "en": "What is 25% of 60?"
+          },
+          "options": [
+            "16",
+            "15",
+            "18",
+            "14"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_easy_083",
+          "category": "square",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 3² = ?",
+            "en": "Calculate: 3² = ?"
+          },
+          "options": [
+            "9",
+            "15",
+            "5",
+            "3"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_084",
+          "category": "average",
+          "level": "easy",
+          "question": {
+            "bn": "18, 8 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 18, 8?"
+          },
+          "options": [
+            "14",
+            "13",
+            "11",
+            "12"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_easy_085",
+          "category": "addition",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 6 + 11 = ?",
+            "en": "Calculate: 6 + 11 = ?"
+          },
+          "options": [
+            "12",
+            "16",
+            "17",
+            "19"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_easy_086",
+          "category": "subtraction",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 5 - 4 = ?",
+            "en": "Calculate: 5 - 4 = ?"
+          },
+          "options": [
+            "6",
+            "1",
+            "0",
+            "2"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_easy_087",
+          "category": "multiplication",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 5 × 10 = ?",
+            "en": "Calculate: 5 × 10 = ?"
+          },
+          "options": [
+            "48",
+            "54",
+            "50",
+            "46"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_easy_088",
+          "category": "division",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 56 ÷ 8 = ?",
+            "en": "Calculate: 56 ÷ 8 = ?"
+          },
+          "options": [
+            "10",
+            "6",
+            "7",
+            "8"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_easy_089",
+          "category": "percentage",
+          "level": "easy",
+          "question": {
+            "bn": "80 এর 50% কত?",
+            "en": "What is 50% of 80?"
+          },
+          "options": [
+            "40",
+            "37",
+            "35",
+            "45"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_090",
+          "category": "square",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 9² = ?",
+            "en": "Calculate: 9² = ?"
+          },
+          "options": [
+            "77",
+            "75",
+            "85",
+            "81"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_091",
+          "category": "average",
+          "level": "easy",
+          "question": {
+            "bn": "3, 19 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 3, 19?"
+          },
+          "options": [
+            "13",
+            "9",
+            "11",
+            "8"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_easy_092",
+          "category": "addition",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 5 + 9 = ?",
+            "en": "Calculate: 5 + 9 = ?"
+          },
+          "options": [
+            "9",
+            "14",
+            "15",
+            "19"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_easy_093",
+          "category": "subtraction",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 12 - 10 = ?",
+            "en": "Calculate: 12 - 10 = ?"
+          },
+          "options": [
+            "12",
+            "-8",
+            "2",
+            "3"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_easy_094",
+          "category": "multiplication",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 8 × 9 = ?",
+            "en": "Calculate: 8 × 9 = ?"
+          },
+          "options": [
+            "78",
+            "63",
+            "72",
+            "70"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_easy_095",
+          "category": "division",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 40 ÷ 5 = ?",
+            "en": "Calculate: 40 ÷ 5 = ?"
+          },
+          "options": [
+            "5",
+            "9",
+            "8",
+            "11"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_easy_096",
+          "category": "percentage",
+          "level": "easy",
+          "question": {
+            "bn": "40 এর 25% কত?",
+            "en": "What is 25% of 40?"
+          },
+          "options": [
+            "10",
+            "5",
+            "12",
+            "15"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_097",
+          "category": "square",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 5² = ?",
+            "en": "Calculate: 5² = ?"
+          },
+          "options": [
+            "31",
+            "19",
+            "23",
+            "25"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_easy_098",
+          "category": "average",
+          "level": "easy",
+          "question": {
+            "bn": "7, 11 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 7, 11?"
+          },
+          "options": [
+            "7",
+            "9",
+            "8",
+            "10"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_easy_099",
+          "category": "addition",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 20 + 6 = ?",
+            "en": "Calculate: 20 + 6 = ?"
+          },
+          "options": [
+            "26",
+            "31",
+            "36",
+            "25"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_easy_100",
+          "category": "subtraction",
+          "level": "easy",
+          "question": {
+            "bn": "হিসাব করো: 17 - 2 = ?",
+            "en": "Calculate: 17 - 2 = ?"
+          },
+          "options": [
+            "5",
+            "14",
+            "13",
+            "15"
+          ],
+          "answer_index": 3
+        }
+      ]
+    },
+    "medium": {
+      "count": 100,
+      "questions": [
+        {
+          "id": "math_medium_001",
+          "category": "addition",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 33 + 60 = ?",
+            "en": "Calculate: 33 + 60 = ?"
+          },
+          "options": [
+            "95",
+            "93",
+            "103",
+            "88"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_medium_002",
+          "category": "subtraction",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 44 - 12 = ?",
+            "en": "Calculate: 44 - 12 = ?"
+          },
+          "options": [
+            "32",
+            "42",
+            "33",
+            "22"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_medium_003",
+          "category": "multiplication",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 16 × 4 = ?",
+            "en": "Calculate: 16 × 4 = ?"
+          },
+          "options": [
+            "55",
+            "66",
+            "58",
+            "64"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_medium_004",
+          "category": "division",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 57 ÷ 3 = ?",
+            "en": "Calculate: 57 ÷ 3 = ?"
+          },
+          "options": [
+            "20",
+            "17",
+            "18",
+            "19"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_medium_005",
+          "category": "percentage",
+          "level": "medium",
+          "question": {
+            "bn": "161 এর 15% কত?",
+            "en": "What is 15% of 161?"
+          },
+          "options": [
+            "24",
+            "29",
+            "23",
+            "26"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_medium_006",
+          "category": "square",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 19² = ?",
+            "en": "Calculate: 19² = ?"
+          },
+          "options": [
+            "363",
+            "361",
+            "355",
+            "367"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_medium_007",
+          "category": "average",
+          "level": "medium",
+          "question": {
+            "bn": "3, 25, 5 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 3, 25, 5?"
+          },
+          "options": [
+            "12",
+            "8",
+            "11",
+            "10"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_008",
+          "category": "addition",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 87 + 53 = ?",
+            "en": "Calculate: 87 + 53 = ?"
+          },
+          "options": [
+            "130",
+            "140",
+            "142",
+            "141"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_medium_009",
+          "category": "subtraction",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 55 - 20 = ?",
+            "en": "Calculate: 55 - 20 = ?"
+          },
+          "options": [
+            "30",
+            "35",
+            "34",
+            "25"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_medium_010",
+          "category": "multiplication",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 14 × 6 = ?",
+            "en": "Calculate: 14 × 6 = ?"
+          },
+          "options": [
+            "90",
+            "84",
+            "80",
+            "93"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_medium_011",
+          "category": "division",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 36 ÷ 6 = ?",
+            "en": "Calculate: 36 ÷ 6 = ?"
+          },
+          "options": [
+            "8",
+            "6",
+            "4",
+            "5"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_medium_012",
+          "category": "percentage",
+          "level": "medium",
+          "question": {
+            "bn": "60 এর 75% কত?",
+            "en": "What is 75% of 60?"
+          },
+          "options": [
+            "44",
+            "48",
+            "45",
+            "43"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_013",
+          "category": "square",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 18² = ?",
+            "en": "Calculate: 18² = ?"
+          },
+          "options": [
+            "318",
+            "326",
+            "328",
+            "324"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_medium_014",
+          "category": "average",
+          "level": "medium",
+          "question": {
+            "bn": "7, 5, 18 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 7, 5, 18?"
+          },
+          "options": [
+            "7",
+            "12",
+            "10",
+            "8"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_015",
+          "category": "addition",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 67 + 32 = ?",
+            "en": "Calculate: 67 + 32 = ?"
+          },
+          "options": [
+            "97",
+            "104",
+            "98",
+            "99"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_medium_016",
+          "category": "subtraction",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 88 - 86 = ?",
+            "en": "Calculate: 88 - 86 = ?"
+          },
+          "options": [
+            "2",
+            "3",
+            "-3",
+            "4"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_medium_017",
+          "category": "multiplication",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 8 × 9 = ?",
+            "en": "Calculate: 8 × 9 = ?"
+          },
+          "options": [
+            "68",
+            "72",
+            "70",
+            "74"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_medium_018",
+          "category": "division",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 80 ÷ 8 = ?",
+            "en": "Calculate: 80 ÷ 8 = ?"
+          },
+          "options": [
+            "13",
+            "10",
+            "12",
+            "8"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_medium_019",
+          "category": "percentage",
+          "level": "medium",
+          "question": {
+            "bn": "66 এর 15% কত?",
+            "en": "What is 15% of 66?"
+          },
+          "options": [
+            "5",
+            "9",
+            "10",
+            "15"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_020",
+          "category": "square",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 12² = ?",
+            "en": "Calculate: 12² = ?"
+          },
+          "options": [
+            "138",
+            "140",
+            "144",
+            "148"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_021",
+          "category": "average",
+          "level": "medium",
+          "question": {
+            "bn": "33, 12, 30 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 33, 12, 30?"
+          },
+          "options": [
+            "27",
+            "25",
+            "28",
+            "24"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_medium_022",
+          "category": "addition",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 37 + 14 = ?",
+            "en": "Calculate: 37 + 14 = ?"
+          },
+          "options": [
+            "53",
+            "49",
+            "41",
+            "51"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_medium_023",
+          "category": "subtraction",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 96 - 94 = ?",
+            "en": "Calculate: 96 - 94 = ?"
+          },
+          "options": [
+            "-8",
+            "1",
+            "2",
+            "4"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_024",
+          "category": "multiplication",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 7 × 11 = ?",
+            "en": "Calculate: 7 × 11 = ?"
+          },
+          "options": [
+            "79",
+            "71",
+            "77",
+            "75"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_025",
+          "category": "division",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 45 ÷ 3 = ?",
+            "en": "Calculate: 45 ÷ 3 = ?"
+          },
+          "options": [
+            "15",
+            "16",
+            "12",
+            "18"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_medium_026",
+          "category": "percentage",
+          "level": "medium",
+          "question": {
+            "bn": "141 এর 30% কত?",
+            "en": "What is 30% of 141?"
+          },
+          "options": [
+            "37",
+            "42",
+            "45",
+            "43"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_medium_027",
+          "category": "square",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 14² = ?",
+            "en": "Calculate: 14² = ?"
+          },
+          "options": [
+            "194",
+            "190",
+            "198",
+            "196"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_medium_028",
+          "category": "average",
+          "level": "medium",
+          "question": {
+            "bn": "14, 1, 30 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 14, 1, 30?"
+          },
+          "options": [
+            "15",
+            "13",
+            "12",
+            "16"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_medium_029",
+          "category": "addition",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 68 + 30 = ?",
+            "en": "Calculate: 68 + 30 = ?"
+          },
+          "options": [
+            "103",
+            "98",
+            "88",
+            "96"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_medium_030",
+          "category": "subtraction",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 84 - 22 = ?",
+            "en": "Calculate: 84 - 22 = ?"
+          },
+          "options": [
+            "63",
+            "64",
+            "62",
+            "60"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_031",
+          "category": "multiplication",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 4 × 3 = ?",
+            "en": "Calculate: 4 × 3 = ?"
+          },
+          "options": [
+            "10",
+            "21",
+            "18",
+            "12"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_medium_032",
+          "category": "division",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 108 ÷ 9 = ?",
+            "en": "Calculate: 108 ÷ 9 = ?"
+          },
+          "options": [
+            "12",
+            "14",
+            "9",
+            "15"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_medium_033",
+          "category": "percentage",
+          "level": "medium",
+          "question": {
+            "bn": "198 এর 30% কত?",
+            "en": "What is 30% of 198?"
+          },
+          "options": [
+            "62",
+            "64",
+            "59",
+            "58"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_034",
+          "category": "square",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 8² = ?",
+            "en": "Calculate: 8² = ?"
+          },
+          "options": [
+            "68",
+            "64",
+            "66",
+            "60"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_medium_035",
+          "category": "average",
+          "level": "medium",
+          "question": {
+            "bn": "10, 16, 49 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 10, 16, 49?"
+          },
+          "options": [
+            "23",
+            "27",
+            "22",
+            "25"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_medium_036",
+          "category": "addition",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 25 + 59 = ?",
+            "en": "Calculate: 25 + 59 = ?"
+          },
+          "options": [
+            "84",
+            "89",
+            "94",
+            "85"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_medium_037",
+          "category": "subtraction",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 74 - 50 = ?",
+            "en": "Calculate: 74 - 50 = ?"
+          },
+          "options": [
+            "34",
+            "26",
+            "22",
+            "24"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_medium_038",
+          "category": "multiplication",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 16 × 5 = ?",
+            "en": "Calculate: 16 × 5 = ?"
+          },
+          "options": [
+            "89",
+            "76",
+            "86",
+            "80"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_medium_039",
+          "category": "division",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 105 ÷ 7 = ?",
+            "en": "Calculate: 105 ÷ 7 = ?"
+          },
+          "options": [
+            "12",
+            "14",
+            "15",
+            "16"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_040",
+          "category": "percentage",
+          "level": "medium",
+          "question": {
+            "bn": "120 এর 15% কত?",
+            "en": "What is 15% of 120?"
+          },
+          "options": [
+            "15",
+            "13",
+            "18",
+            "21"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_041",
+          "category": "square",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 17² = ?",
+            "en": "Calculate: 17² = ?"
+          },
+          "options": [
+            "289",
+            "285",
+            "295",
+            "283"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_medium_042",
+          "category": "average",
+          "level": "medium",
+          "question": {
+            "bn": "11, 44, 47 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 11, 44, 47?"
+          },
+          "options": [
+            "31",
+            "33",
+            "32",
+            "34"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_medium_043",
+          "category": "addition",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 88 + 45 = ?",
+            "en": "Calculate: 88 + 45 = ?"
+          },
+          "options": [
+            "134",
+            "133",
+            "131",
+            "143"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_medium_044",
+          "category": "subtraction",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 98 - 65 = ?",
+            "en": "Calculate: 98 - 65 = ?"
+          },
+          "options": [
+            "35",
+            "23",
+            "32",
+            "33"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_medium_045",
+          "category": "multiplication",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 7 × 12 = ?",
+            "en": "Calculate: 7 × 12 = ?"
+          },
+          "options": [
+            "84",
+            "88",
+            "86",
+            "90"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_medium_046",
+          "category": "division",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 30 ÷ 10 = ?",
+            "en": "Calculate: 30 ÷ 10 = ?"
+          },
+          "options": [
+            "6",
+            "4",
+            "3",
+            "2"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_047",
+          "category": "percentage",
+          "level": "medium",
+          "question": {
+            "bn": "107 এর 40% কত?",
+            "en": "What is 40% of 107?"
+          },
+          "options": [
+            "46",
+            "41",
+            "43",
+            "45"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_048",
+          "category": "square",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 15² = ?",
+            "en": "Calculate: 15² = ?"
+          },
+          "options": [
+            "231",
+            "229",
+            "221",
+            "225"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_medium_049",
+          "category": "average",
+          "level": "medium",
+          "question": {
+            "bn": "20, 41, 38 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 20, 41, 38?"
+          },
+          "options": [
+            "33",
+            "36",
+            "30",
+            "32"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_medium_050",
+          "category": "addition",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 47 + 88 = ?",
+            "en": "Calculate: 47 + 88 = ?"
+          },
+          "options": [
+            "125",
+            "137",
+            "135",
+            "140"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_051",
+          "category": "subtraction",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 98 - 84 = ?",
+            "en": "Calculate: 98 - 84 = ?"
+          },
+          "options": [
+            "15",
+            "4",
+            "14",
+            "16"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_052",
+          "category": "multiplication",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 19 × 5 = ?",
+            "en": "Calculate: 19 × 5 = ?"
+          },
+          "options": [
+            "97",
+            "101",
+            "95",
+            "91"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_053",
+          "category": "division",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 24 ÷ 4 = ?",
+            "en": "Calculate: 24 ÷ 4 = ?"
+          },
+          "options": [
+            "4",
+            "9",
+            "6",
+            "3"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_054",
+          "category": "percentage",
+          "level": "medium",
+          "question": {
+            "bn": "77 এর 15% কত?",
+            "en": "What is 15% of 77?"
+          },
+          "options": [
+            "15",
+            "12",
+            "13",
+            "7"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_medium_055",
+          "category": "square",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 17² = ?",
+            "en": "Calculate: 17² = ?"
+          },
+          "options": [
+            "291",
+            "293",
+            "289",
+            "295"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_056",
+          "category": "average",
+          "level": "medium",
+          "question": {
+            "bn": "1, 3, 5 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 1, 3, 5?"
+          },
+          "options": [
+            "5",
+            "4",
+            "0",
+            "3"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_medium_057",
+          "category": "addition",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 17 + 23 = ?",
+            "en": "Calculate: 17 + 23 = ?"
+          },
+          "options": [
+            "30",
+            "38",
+            "40",
+            "39"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_058",
+          "category": "subtraction",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 98 - 23 = ?",
+            "en": "Calculate: 98 - 23 = ?"
+          },
+          "options": [
+            "75",
+            "65",
+            "76",
+            "70"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_medium_059",
+          "category": "multiplication",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 14 × 8 = ?",
+            "en": "Calculate: 14 × 8 = ?"
+          },
+          "options": [
+            "106",
+            "108",
+            "112",
+            "121"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_060",
+          "category": "division",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 15 ÷ 5 = ?",
+            "en": "Calculate: 15 ÷ 5 = ?"
+          },
+          "options": [
+            "2",
+            "1",
+            "6",
+            "3"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_medium_061",
+          "category": "percentage",
+          "level": "medium",
+          "question": {
+            "bn": "181 এর 40% কত?",
+            "en": "What is 40% of 181?"
+          },
+          "options": [
+            "73",
+            "71",
+            "75",
+            "72"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_medium_062",
+          "category": "square",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 10² = ?",
+            "en": "Calculate: 10² = ?"
+          },
+          "options": [
+            "100",
+            "106",
+            "96",
+            "98"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_medium_063",
+          "category": "average",
+          "level": "medium",
+          "question": {
+            "bn": "13, 25, 22 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 13, 25, 22?"
+          },
+          "options": [
+            "21",
+            "18",
+            "20",
+            "22"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_064",
+          "category": "addition",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 13 + 65 = ?",
+            "en": "Calculate: 13 + 65 = ?"
+          },
+          "options": [
+            "77",
+            "79",
+            "78",
+            "83"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_065",
+          "category": "subtraction",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 38 - 3 = ?",
+            "en": "Calculate: 38 - 3 = ?"
+          },
+          "options": [
+            "35",
+            "33",
+            "25",
+            "30"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_medium_066",
+          "category": "multiplication",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 2 × 2 = ?",
+            "en": "Calculate: 2 × 2 = ?"
+          },
+          "options": [
+            "4",
+            "-5",
+            "-2",
+            "0"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_medium_067",
+          "category": "division",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 95 ÷ 5 = ?",
+            "en": "Calculate: 95 ÷ 5 = ?"
+          },
+          "options": [
+            "19",
+            "20",
+            "22",
+            "16"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_medium_068",
+          "category": "percentage",
+          "level": "medium",
+          "question": {
+            "bn": "68 এর 30% কত?",
+            "en": "What is 30% of 68?"
+          },
+          "options": [
+            "20",
+            "21",
+            "17",
+            "15"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_medium_069",
+          "category": "square",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 9² = ?",
+            "en": "Calculate: 9² = ?"
+          },
+          "options": [
+            "81",
+            "87",
+            "77",
+            "79"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_medium_070",
+          "category": "average",
+          "level": "medium",
+          "question": {
+            "bn": "17, 2, 23 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 17, 2, 23?"
+          },
+          "options": [
+            "17",
+            "14",
+            "11",
+            "13"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_medium_071",
+          "category": "addition",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 46 + 89 = ?",
+            "en": "Calculate: 46 + 89 = ?"
+          },
+          "options": [
+            "135",
+            "130",
+            "140",
+            "125"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_medium_072",
+          "category": "subtraction",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 88 - 73 = ?",
+            "en": "Calculate: 88 - 73 = ?"
+          },
+          "options": [
+            "14",
+            "16",
+            "15",
+            "10"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_073",
+          "category": "multiplication",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 18 × 5 = ?",
+            "en": "Calculate: 18 × 5 = ?"
+          },
+          "options": [
+            "92",
+            "90",
+            "81",
+            "94"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_medium_074",
+          "category": "division",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 68 ÷ 4 = ?",
+            "en": "Calculate: 68 ÷ 4 = ?"
+          },
+          "options": [
+            "17",
+            "15",
+            "16",
+            "19"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_medium_075",
+          "category": "percentage",
+          "level": "medium",
+          "question": {
+            "bn": "82 এর 60% কত?",
+            "en": "What is 60% of 82?"
+          },
+          "options": [
+            "46",
+            "49",
+            "54",
+            "51"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_medium_076",
+          "category": "square",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 14² = ?",
+            "en": "Calculate: 14² = ?"
+          },
+          "options": [
+            "198",
+            "190",
+            "196",
+            "202"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_077",
+          "category": "average",
+          "level": "medium",
+          "question": {
+            "bn": "20, 17, 29 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 20, 17, 29?"
+          },
+          "options": [
+            "22",
+            "24",
+            "23",
+            "20"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_medium_078",
+          "category": "addition",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 78 + 86 = ?",
+            "en": "Calculate: 78 + 86 = ?"
+          },
+          "options": [
+            "162",
+            "154",
+            "164",
+            "166"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_079",
+          "category": "subtraction",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 41 - 30 = ?",
+            "en": "Calculate: 41 - 30 = ?"
+          },
+          "options": [
+            "10",
+            "12",
+            "21",
+            "11"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_medium_080",
+          "category": "multiplication",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 9 × 10 = ?",
+            "en": "Calculate: 9 × 10 = ?"
+          },
+          "options": [
+            "92",
+            "86",
+            "88",
+            "90"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_medium_081",
+          "category": "division",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 198 ÷ 11 = ?",
+            "en": "Calculate: 198 ÷ 11 = ?"
+          },
+          "options": [
+            "17",
+            "18",
+            "21",
+            "16"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_medium_082",
+          "category": "percentage",
+          "level": "medium",
+          "question": {
+            "bn": "138 এর 30% কত?",
+            "en": "What is 30% of 138?"
+          },
+          "options": [
+            "42",
+            "39",
+            "41",
+            "44"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_083",
+          "category": "square",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 18² = ?",
+            "en": "Calculate: 18² = ?"
+          },
+          "options": [
+            "324",
+            "320",
+            "322",
+            "318"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_medium_084",
+          "category": "average",
+          "level": "medium",
+          "question": {
+            "bn": "1, 26, 30 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 1, 26, 30?"
+          },
+          "options": [
+            "22",
+            "17",
+            "19",
+            "21"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_085",
+          "category": "addition",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 28 + 42 = ?",
+            "en": "Calculate: 28 + 42 = ?"
+          },
+          "options": [
+            "75",
+            "60",
+            "69",
+            "70"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_medium_086",
+          "category": "subtraction",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 49 - 43 = ?",
+            "en": "Calculate: 49 - 43 = ?"
+          },
+          "options": [
+            "1",
+            "5",
+            "4",
+            "6"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_medium_087",
+          "category": "multiplication",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 10 × 12 = ?",
+            "en": "Calculate: 10 × 12 = ?"
+          },
+          "options": [
+            "114",
+            "120",
+            "118",
+            "126"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_medium_088",
+          "category": "division",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 90 ÷ 6 = ?",
+            "en": "Calculate: 90 ÷ 6 = ?"
+          },
+          "options": [
+            "17",
+            "16",
+            "12",
+            "15"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_medium_089",
+          "category": "percentage",
+          "level": "medium",
+          "question": {
+            "bn": "42 এর 40% কত?",
+            "en": "What is 40% of 42?"
+          },
+          "options": [
+            "22",
+            "14",
+            "20",
+            "17"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_medium_090",
+          "category": "square",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 10² = ?",
+            "en": "Calculate: 10² = ?"
+          },
+          "options": [
+            "104",
+            "106",
+            "96",
+            "100"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_medium_091",
+          "category": "average",
+          "level": "medium",
+          "question": {
+            "bn": "35, 14, 47 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 35, 14, 47?"
+          },
+          "options": [
+            "32",
+            "33",
+            "29",
+            "34"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_medium_092",
+          "category": "addition",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 62 + 68 = ?",
+            "en": "Calculate: 62 + 68 = ?"
+          },
+          "options": [
+            "135",
+            "129",
+            "130",
+            "128"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_093",
+          "category": "subtraction",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 27 - 9 = ?",
+            "en": "Calculate: 27 - 9 = ?"
+          },
+          "options": [
+            "19",
+            "18",
+            "23",
+            "8"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_medium_094",
+          "category": "multiplication",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 15 × 12 = ?",
+            "en": "Calculate: 15 × 12 = ?"
+          },
+          "options": [
+            "184",
+            "174",
+            "182",
+            "180"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_medium_095",
+          "category": "division",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 90 ÷ 10 = ?",
+            "en": "Calculate: 90 ÷ 10 = ?"
+          },
+          "options": [
+            "6",
+            "9",
+            "7",
+            "10"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_medium_096",
+          "category": "percentage",
+          "level": "medium",
+          "question": {
+            "bn": "130 এর 30% কত?",
+            "en": "What is 30% of 130?"
+          },
+          "options": [
+            "40",
+            "44",
+            "39",
+            "42"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_097",
+          "category": "square",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 20² = ?",
+            "en": "Calculate: 20² = ?"
+          },
+          "options": [
+            "400",
+            "406",
+            "396",
+            "398"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_medium_098",
+          "category": "average",
+          "level": "medium",
+          "question": {
+            "bn": "28, 44, 12 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 28, 44, 12?"
+          },
+          "options": [
+            "31",
+            "25",
+            "28",
+            "29"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_099",
+          "category": "addition",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 93 + 48 = ?",
+            "en": "Calculate: 93 + 48 = ?"
+          },
+          "options": [
+            "143",
+            "146",
+            "141",
+            "151"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_medium_100",
+          "category": "subtraction",
+          "level": "medium",
+          "question": {
+            "bn": "হিসাব করো: 39 - 20 = ?",
+            "en": "Calculate: 39 - 20 = ?"
+          },
+          "options": [
+            "14",
+            "9",
+            "24",
+            "19"
+          ],
+          "answer_index": 3
+        }
+      ]
+    },
+    "hard": {
+      "count": 100,
+      "questions": [
+        {
+          "id": "math_hard_001",
+          "category": "addition",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 748 + 696 = ?",
+            "en": "Calculate: 748 + 696 = ?"
+          },
+          "options": [
+            "1439",
+            "1434",
+            "1443",
+            "1444"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_002",
+          "category": "subtraction",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 692 - 147 = ?",
+            "en": "Calculate: 692 - 147 = ?"
+          },
+          "options": [
+            "545",
+            "543",
+            "544",
+            "555"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_hard_003",
+          "category": "multiplication",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 22 × 14 = ?",
+            "en": "Calculate: 22 × 14 = ?"
+          },
+          "options": [
+            "308",
+            "304",
+            "302",
+            "310"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_hard_004",
+          "category": "division",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 126 ÷ 18 = ?",
+            "en": "Calculate: 126 ÷ 18 = ?"
+          },
+          "options": [
+            "7",
+            "4",
+            "10",
+            "8"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_hard_005",
+          "category": "percentage",
+          "level": "hard",
+          "question": {
+            "bn": "171 এর 18% কত?",
+            "en": "What is 18% of 171?"
+          },
+          "options": [
+            "29",
+            "36",
+            "26",
+            "31"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_006",
+          "category": "square",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 20² = ?",
+            "en": "Calculate: 20² = ?"
+          },
+          "options": [
+            "400",
+            "404",
+            "406",
+            "394"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_hard_007",
+          "category": "average",
+          "level": "hard",
+          "question": {
+            "bn": "90, 73, 64, 89 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 90, 73, 64, 89?"
+          },
+          "options": [
+            "78",
+            "82",
+            "79",
+            "80"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_008",
+          "category": "addition",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 751 + 762 = ?",
+            "en": "Calculate: 751 + 762 = ?"
+          },
+          "options": [
+            "1508",
+            "1513",
+            "1515",
+            "1503"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_009",
+          "category": "subtraction",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 134 - 55 = ?",
+            "en": "Calculate: 134 - 55 = ?"
+          },
+          "options": [
+            "79",
+            "84",
+            "77",
+            "81"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_hard_010",
+          "category": "multiplication",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 20 × 9 = ?",
+            "en": "Calculate: 20 × 9 = ?"
+          },
+          "options": [
+            "186",
+            "182",
+            "178",
+            "180"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_011",
+          "category": "division",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 114 ÷ 19 = ?",
+            "en": "Calculate: 114 ÷ 19 = ?"
+          },
+          "options": [
+            "8",
+            "5",
+            "7",
+            "6"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_012",
+          "category": "percentage",
+          "level": "hard",
+          "question": {
+            "bn": "435 এর 18% কত?",
+            "en": "What is 18% of 435?"
+          },
+          "options": [
+            "80",
+            "83",
+            "78",
+            "75"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_013",
+          "category": "square",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 19² = ?",
+            "en": "Calculate: 19² = ?"
+          },
+          "options": [
+            "367",
+            "365",
+            "355",
+            "361"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_014",
+          "category": "average",
+          "level": "hard",
+          "question": {
+            "bn": "70, 74, 7, 53 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 70, 74, 7, 53?"
+          },
+          "options": [
+            "49",
+            "48",
+            "50",
+            "51"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_015",
+          "category": "addition",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 907 + 612 = ?",
+            "en": "Calculate: 907 + 612 = ?"
+          },
+          "options": [
+            "1517",
+            "1519",
+            "1514",
+            "1524"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_016",
+          "category": "subtraction",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 740 - 179 = ?",
+            "en": "Calculate: 740 - 179 = ?"
+          },
+          "options": [
+            "556",
+            "551",
+            "561",
+            "559"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_017",
+          "category": "multiplication",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 21 × 15 = ?",
+            "en": "Calculate: 21 × 15 = ?"
+          },
+          "options": [
+            "317",
+            "311",
+            "315",
+            "321"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_018",
+          "category": "division",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 345 ÷ 15 = ?",
+            "en": "Calculate: 345 ÷ 15 = ?"
+          },
+          "options": [
+            "26",
+            "25",
+            "20",
+            "23"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_019",
+          "category": "percentage",
+          "level": "hard",
+          "question": {
+            "bn": "496 এর 12% কত?",
+            "en": "What is 12% of 496?"
+          },
+          "options": [
+            "63",
+            "60",
+            "57",
+            "65"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_020",
+          "category": "square",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 34² = ?",
+            "en": "Calculate: 34² = ?"
+          },
+          "options": [
+            "1156",
+            "1160",
+            "1162",
+            "1152"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_hard_021",
+          "category": "average",
+          "level": "hard",
+          "question": {
+            "bn": "11, 83, 61, 29 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 11, 83, 61, 29?"
+          },
+          "options": [
+            "43",
+            "44",
+            "49",
+            "46"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_022",
+          "category": "addition",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 800 + 785 = ?",
+            "en": "Calculate: 800 + 785 = ?"
+          },
+          "options": [
+            "1580",
+            "1585",
+            "1584",
+            "1583"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_023",
+          "category": "subtraction",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 836 - 583 = ?",
+            "en": "Calculate: 836 - 583 = ?"
+          },
+          "options": [
+            "253",
+            "263",
+            "252",
+            "251"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_hard_024",
+          "category": "multiplication",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 12 × 6 = ?",
+            "en": "Calculate: 12 × 6 = ?"
+          },
+          "options": [
+            "81",
+            "74",
+            "63",
+            "72"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_025",
+          "category": "division",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 50 ÷ 2 = ?",
+            "en": "Calculate: 50 ÷ 2 = ?"
+          },
+          "options": [
+            "25",
+            "28",
+            "27",
+            "22"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_hard_026",
+          "category": "percentage",
+          "level": "hard",
+          "question": {
+            "bn": "407 এর 85% কত?",
+            "en": "What is 85% of 407?"
+          },
+          "options": [
+            "344",
+            "351",
+            "346",
+            "341"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_027",
+          "category": "square",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 30² = ?",
+            "en": "Calculate: 30² = ?"
+          },
+          "options": [
+            "906",
+            "896",
+            "894",
+            "900"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_028",
+          "category": "average",
+          "level": "hard",
+          "question": {
+            "bn": "81, 54, 62, 51 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 81, 54, 62, 51?"
+          },
+          "options": [
+            "64",
+            "63",
+            "61",
+            "62"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_029",
+          "category": "addition",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 162 + 736 = ?",
+            "en": "Calculate: 162 + 736 = ?"
+          },
+          "options": [
+            "888",
+            "898",
+            "896",
+            "900"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_030",
+          "category": "subtraction",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 352 - 193 = ?",
+            "en": "Calculate: 352 - 193 = ?"
+          },
+          "options": [
+            "164",
+            "169",
+            "159",
+            "158"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_031",
+          "category": "multiplication",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 20 × 6 = ?",
+            "en": "Calculate: 20 × 6 = ?"
+          },
+          "options": [
+            "116",
+            "126",
+            "122",
+            "120"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_032",
+          "category": "division",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 180 ÷ 20 = ?",
+            "en": "Calculate: 180 ÷ 20 = ?"
+          },
+          "options": [
+            "11",
+            "8",
+            "9",
+            "12"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_033",
+          "category": "percentage",
+          "level": "hard",
+          "question": {
+            "bn": "383 এর 65% কত?",
+            "en": "What is 65% of 383?"
+          },
+          "options": [
+            "252",
+            "248",
+            "254",
+            "249"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_034",
+          "category": "square",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 27² = ?",
+            "en": "Calculate: 27² = ?"
+          },
+          "options": [
+            "731",
+            "729",
+            "735",
+            "725"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_035",
+          "category": "average",
+          "level": "hard",
+          "question": {
+            "bn": "50, 59, 70, 13 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 50, 59, 70, 13?"
+          },
+          "options": [
+            "48",
+            "45",
+            "47",
+            "50"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_hard_036",
+          "category": "addition",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 953 + 634 = ?",
+            "en": "Calculate: 953 + 634 = ?"
+          },
+          "options": [
+            "1589",
+            "1587",
+            "1597",
+            "1586"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_037",
+          "category": "subtraction",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 194 - 47 = ?",
+            "en": "Calculate: 194 - 47 = ?"
+          },
+          "options": [
+            "149",
+            "148",
+            "152",
+            "147"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_038",
+          "category": "multiplication",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 25 × 7 = ?",
+            "en": "Calculate: 25 × 7 = ?"
+          },
+          "options": [
+            "179",
+            "169",
+            "175",
+            "184"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_039",
+          "category": "division",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 32 ÷ 2 = ?",
+            "en": "Calculate: 32 ÷ 2 = ?"
+          },
+          "options": [
+            "18",
+            "13",
+            "15",
+            "16"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_040",
+          "category": "percentage",
+          "level": "hard",
+          "question": {
+            "bn": "348 এর 65% কত?",
+            "en": "What is 65% of 348?"
+          },
+          "options": [
+            "227",
+            "229",
+            "226",
+            "225"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_041",
+          "category": "square",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 23² = ?",
+            "en": "Calculate: 23² = ?"
+          },
+          "options": [
+            "525",
+            "529",
+            "527",
+            "523"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_042",
+          "category": "average",
+          "level": "hard",
+          "question": {
+            "bn": "4, 7, 5, 72 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 4, 7, 5, 72?"
+          },
+          "options": [
+            "22",
+            "21",
+            "25",
+            "23"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_hard_043",
+          "category": "addition",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 222 + 823 = ?",
+            "en": "Calculate: 222 + 823 = ?"
+          },
+          "options": [
+            "1047",
+            "1040",
+            "1046",
+            "1045"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_044",
+          "category": "subtraction",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 785 - 519 = ?",
+            "en": "Calculate: 785 - 519 = ?"
+          },
+          "options": [
+            "276",
+            "264",
+            "271",
+            "266"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_045",
+          "category": "multiplication",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 17 × 4 = ?",
+            "en": "Calculate: 17 × 4 = ?"
+          },
+          "options": [
+            "59",
+            "70",
+            "68",
+            "72"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_046",
+          "category": "division",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 39 ÷ 3 = ?",
+            "en": "Calculate: 39 ÷ 3 = ?"
+          },
+          "options": [
+            "13",
+            "14",
+            "15",
+            "16"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_hard_047",
+          "category": "percentage",
+          "level": "hard",
+          "question": {
+            "bn": "486 এর 35% কত?",
+            "en": "What is 35% of 486?"
+          },
+          "options": [
+            "170",
+            "169",
+            "171",
+            "165"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_hard_048",
+          "category": "square",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 30² = ?",
+            "en": "Calculate: 30² = ?"
+          },
+          "options": [
+            "898",
+            "902",
+            "894",
+            "900"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_049",
+          "category": "average",
+          "level": "hard",
+          "question": {
+            "bn": "22, 57, 31, 22 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 22, 57, 31, 22?"
+          },
+          "options": [
+            "30",
+            "36",
+            "33",
+            "34"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_050",
+          "category": "addition",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 952 + 325 = ?",
+            "en": "Calculate: 952 + 325 = ?"
+          },
+          "options": [
+            "1277",
+            "1275",
+            "1272",
+            "1279"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_hard_051",
+          "category": "subtraction",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 962 - 23 = ?",
+            "en": "Calculate: 962 - 23 = ?"
+          },
+          "options": [
+            "941",
+            "949",
+            "939",
+            "934"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_052",
+          "category": "multiplication",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 13 × 12 = ?",
+            "en": "Calculate: 13 × 12 = ?"
+          },
+          "options": [
+            "156",
+            "154",
+            "152",
+            "160"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_hard_053",
+          "category": "division",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 171 ÷ 19 = ?",
+            "en": "Calculate: 171 ÷ 19 = ?"
+          },
+          "options": [
+            "10",
+            "8",
+            "9",
+            "7"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_054",
+          "category": "percentage",
+          "level": "hard",
+          "question": {
+            "bn": "113 এর 18% কত?",
+            "en": "What is 18% of 113?"
+          },
+          "options": [
+            "22",
+            "18",
+            "20",
+            "21"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_055",
+          "category": "square",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 25² = ?",
+            "en": "Calculate: 25² = ?"
+          },
+          "options": [
+            "625",
+            "621",
+            "627",
+            "619"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_hard_056",
+          "category": "average",
+          "level": "hard",
+          "question": {
+            "bn": "72, 62, 37, 17 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 72, 62, 37, 17?"
+          },
+          "options": [
+            "45",
+            "47",
+            "48",
+            "46"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_057",
+          "category": "addition",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 199 + 499 = ?",
+            "en": "Calculate: 199 + 499 = ?"
+          },
+          "options": [
+            "703",
+            "698",
+            "699",
+            "696"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_058",
+          "category": "subtraction",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 247 - 164 = ?",
+            "en": "Calculate: 247 - 164 = ?"
+          },
+          "options": [
+            "85",
+            "73",
+            "93",
+            "83"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_059",
+          "category": "multiplication",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 26 × 6 = ?",
+            "en": "Calculate: 26 × 6 = ?"
+          },
+          "options": [
+            "156",
+            "160",
+            "162",
+            "152"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_hard_060",
+          "category": "division",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 230 ÷ 10 = ?",
+            "en": "Calculate: 230 ÷ 10 = ?"
+          },
+          "options": [
+            "23",
+            "21",
+            "25",
+            "26"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_hard_061",
+          "category": "percentage",
+          "level": "hard",
+          "question": {
+            "bn": "411 এর 12% কত?",
+            "en": "What is 12% of 411?"
+          },
+          "options": [
+            "47",
+            "54",
+            "49",
+            "50"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_062",
+          "category": "square",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 33² = ?",
+            "en": "Calculate: 33² = ?"
+          },
+          "options": [
+            "1087",
+            "1083",
+            "1085",
+            "1089"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_063",
+          "category": "average",
+          "level": "hard",
+          "question": {
+            "bn": "93, 8, 67, 48 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 93, 8, 67, 48?"
+          },
+          "options": [
+            "54",
+            "53",
+            "55",
+            "57"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_hard_064",
+          "category": "addition",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 881 + 588 = ?",
+            "en": "Calculate: 881 + 588 = ?"
+          },
+          "options": [
+            "1467",
+            "1470",
+            "1469",
+            "1468"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_065",
+          "category": "subtraction",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 137 - 42 = ?",
+            "en": "Calculate: 137 - 42 = ?"
+          },
+          "options": [
+            "105",
+            "85",
+            "95",
+            "97"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_066",
+          "category": "multiplication",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 17 × 15 = ?",
+            "en": "Calculate: 17 × 15 = ?"
+          },
+          "options": [
+            "255",
+            "261",
+            "259",
+            "246"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_hard_067",
+          "category": "division",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 336 ÷ 16 = ?",
+            "en": "Calculate: 336 ÷ 16 = ?"
+          },
+          "options": [
+            "19",
+            "21",
+            "23",
+            "18"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_068",
+          "category": "percentage",
+          "level": "hard",
+          "question": {
+            "bn": "416 এর 18% কত?",
+            "en": "What is 18% of 416?"
+          },
+          "options": [
+            "73",
+            "72",
+            "76",
+            "75"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_069",
+          "category": "square",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 15² = ?",
+            "en": "Calculate: 15² = ?"
+          },
+          "options": [
+            "231",
+            "219",
+            "225",
+            "221"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_070",
+          "category": "average",
+          "level": "hard",
+          "question": {
+            "bn": "67, 31, 90, 60 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 67, 31, 90, 60?"
+          },
+          "options": [
+            "61",
+            "62",
+            "65",
+            "59"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_071",
+          "category": "addition",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 226 + 576 = ?",
+            "en": "Calculate: 226 + 576 = ?"
+          },
+          "options": [
+            "812",
+            "803",
+            "797",
+            "802"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_072",
+          "category": "subtraction",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 240 - 139 = ?",
+            "en": "Calculate: 240 - 139 = ?"
+          },
+          "options": [
+            "100",
+            "101",
+            "99",
+            "111"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_073",
+          "category": "multiplication",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 30 × 8 = ?",
+            "en": "Calculate: 30 × 8 = ?"
+          },
+          "options": [
+            "231",
+            "240",
+            "244",
+            "246"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_074",
+          "category": "division",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 324 ÷ 12 = ?",
+            "en": "Calculate: 324 ÷ 12 = ?"
+          },
+          "options": [
+            "27",
+            "26",
+            "28",
+            "29"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_hard_075",
+          "category": "percentage",
+          "level": "hard",
+          "question": {
+            "bn": "364 এর 35% কত?",
+            "en": "What is 35% of 364?"
+          },
+          "options": [
+            "125",
+            "129",
+            "126",
+            "127"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_076",
+          "category": "square",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 26² = ?",
+            "en": "Calculate: 26² = ?"
+          },
+          "options": [
+            "672",
+            "670",
+            "676",
+            "680"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_077",
+          "category": "average",
+          "level": "hard",
+          "question": {
+            "bn": "26, 65, 86, 3 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 26, 65, 86, 3?"
+          },
+          "options": [
+            "43",
+            "45",
+            "46",
+            "48"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_078",
+          "category": "addition",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 986 + 756 = ?",
+            "en": "Calculate: 986 + 756 = ?"
+          },
+          "options": [
+            "1732",
+            "1743",
+            "1737",
+            "1742"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_079",
+          "category": "subtraction",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 544 - 243 = ?",
+            "en": "Calculate: 544 - 243 = ?"
+          },
+          "options": [
+            "302",
+            "296",
+            "291",
+            "301"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_080",
+          "category": "multiplication",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 13 × 2 = ?",
+            "en": "Calculate: 13 × 2 = ?"
+          },
+          "options": [
+            "28",
+            "26",
+            "20",
+            "35"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_081",
+          "category": "division",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 162 ÷ 18 = ?",
+            "en": "Calculate: 162 ÷ 18 = ?"
+          },
+          "options": [
+            "11",
+            "8",
+            "9",
+            "10"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_082",
+          "category": "percentage",
+          "level": "hard",
+          "question": {
+            "bn": "144 এর 85% কত?",
+            "en": "What is 85% of 144?"
+          },
+          "options": [
+            "123",
+            "122",
+            "121",
+            "127"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_083",
+          "category": "square",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 29² = ?",
+            "en": "Calculate: 29² = ?"
+          },
+          "options": [
+            "845",
+            "841",
+            "843",
+            "839"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_084",
+          "category": "average",
+          "level": "hard",
+          "question": {
+            "bn": "32, 43, 29, 28 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 32, 43, 29, 28?"
+          },
+          "options": [
+            "34",
+            "30",
+            "33",
+            "35"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_085",
+          "category": "addition",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 431 + 670 = ?",
+            "en": "Calculate: 431 + 670 = ?"
+          },
+          "options": [
+            "1103",
+            "1101",
+            "1102",
+            "1111"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_086",
+          "category": "subtraction",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 158 - 6 = ?",
+            "en": "Calculate: 158 - 6 = ?"
+          },
+          "options": [
+            "154",
+            "152",
+            "147",
+            "150"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_087",
+          "category": "multiplication",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 26 × 8 = ?",
+            "en": "Calculate: 26 × 8 = ?"
+          },
+          "options": [
+            "212",
+            "208",
+            "202",
+            "217"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_088",
+          "category": "division",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 225 ÷ 15 = ?",
+            "en": "Calculate: 225 ÷ 15 = ?"
+          },
+          "options": [
+            "18",
+            "15",
+            "14",
+            "13"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_089",
+          "category": "percentage",
+          "level": "hard",
+          "question": {
+            "bn": "148 এর 65% কত?",
+            "en": "What is 65% of 148?"
+          },
+          "options": [
+            "97",
+            "101",
+            "96",
+            "94"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_090",
+          "category": "square",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 28² = ?",
+            "en": "Calculate: 28² = ?"
+          },
+          "options": [
+            "778",
+            "784",
+            "786",
+            "788"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_091",
+          "category": "average",
+          "level": "hard",
+          "question": {
+            "bn": "54, 36, 80, 78 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 54, 36, 80, 78?"
+          },
+          "options": [
+            "65",
+            "62",
+            "59",
+            "63"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_092",
+          "category": "addition",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 399 + 461 = ?",
+            "en": "Calculate: 399 + 461 = ?"
+          },
+          "options": [
+            "865",
+            "860",
+            "850",
+            "862"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_093",
+          "category": "subtraction",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 407 - 95 = ?",
+            "en": "Calculate: 407 - 95 = ?"
+          },
+          "options": [
+            "313",
+            "312",
+            "317",
+            "310"
+          ],
+          "answer_index": 1
+        },
+        {
+          "id": "math_hard_094",
+          "category": "multiplication",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 12 × 15 = ?",
+            "en": "Calculate: 12 × 15 = ?"
+          },
+          "options": [
+            "186",
+            "178",
+            "180",
+            "184"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_095",
+          "category": "division",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 230 ÷ 10 = ?",
+            "en": "Calculate: 230 ÷ 10 = ?"
+          },
+          "options": [
+            "24",
+            "25",
+            "23",
+            "22"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_096",
+          "category": "percentage",
+          "level": "hard",
+          "question": {
+            "bn": "364 এর 65% কত?",
+            "en": "What is 65% of 364?"
+          },
+          "options": [
+            "239",
+            "242",
+            "237",
+            "240"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_097",
+          "category": "square",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 29² = ?",
+            "en": "Calculate: 29² = ?"
+          },
+          "options": [
+            "845",
+            "847",
+            "841",
+            "835"
+          ],
+          "answer_index": 2
+        },
+        {
+          "id": "math_hard_098",
+          "category": "average",
+          "level": "hard",
+          "question": {
+            "bn": "48, 65, 52, 87 সংখ্যাগুলোর গড় কত?",
+            "en": "What is the average of 48, 65, 52, 87?"
+          },
+          "options": [
+            "64",
+            "61",
+            "65",
+            "63"
+          ],
+          "answer_index": 3
+        },
+        {
+          "id": "math_hard_099",
+          "category": "addition",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 885 + 739 = ?",
+            "en": "Calculate: 885 + 739 = ?"
+          },
+          "options": [
+            "1624",
+            "1622",
+            "1626",
+            "1619"
+          ],
+          "answer_index": 0
+        },
+        {
+          "id": "math_hard_100",
+          "category": "subtraction",
+          "level": "hard",
+          "question": {
+            "bn": "হিসাব করো: 176 - 80 = ?",
+            "en": "Calculate: 176 - 80 = ?"
+          },
+          "options": [
+            "96",
+            "97",
+            "94",
+            "91"
+          ],
+          "answer_index": 0
+        }
+      ]
+    }
+  }
+}

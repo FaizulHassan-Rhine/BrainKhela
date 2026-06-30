@@ -4,8 +4,10 @@ import { useState, useEffect, useRef, useCallback } from 'react';
 import AdBanner from '@/components/ui/AdBanner';
 import ScoreCard from '@/components/ui/ScoreCard';
 import Timer from '@/components/ui/Timer';
-import { calculateWPM, calculateCPM, calculateAccuracy, toBanglaNumber, shareText } from '@/lib/utils';
+import { calculateWPM, calculateCPM, calculateAccuracy, shareText } from '@/lib/utils';
+import Num from '@/components/ui/Num';
 import { Share2, RotateCcw } from 'lucide-react';
+import { useLanguage } from '@/components/providers/LanguageProvider';
 
 export default function TypingTest({
   texts,
@@ -23,6 +25,9 @@ export default function TypingTest({
   const [stats, setStats] = useState({ wpm: 0, accuracy: 0, cpm: 0, correct: 0, wrong: 0 });
   const inputRef = useRef(null);
   const startTimeRef = useRef(null);
+  const { t, lang } = useLanguage();
+
+  const diffLabels = { all: t('common.all'), easy: t('common.easy'), medium: t('common.medium'), hard: t('common.hard') };
 
   const pickText = useCallback(() => {
     let pool = texts;
@@ -92,7 +97,7 @@ export default function TypingTest({
       if (i < input.length) {
         className = input[i] === char ? 'text-success' : 'text-error bg-red-100';
       } else if (i === input.length) {
-        className = 'text-primary bg-blue-100';
+        className = 'text-primary bg-surface';
       }
       return (
         <span key={i} className={className}>
@@ -120,10 +125,10 @@ export default function TypingTest({
             key={d}
             onClick={() => { setDuration(d); setTimeLeft(d); }}
             className={`px-4 py-2 rounded-lg text-sm font-medium ${
-              duration === d ? 'bg-primary text-white' : 'bg-white border border-gray-200 text-gray-600'
+              duration === d ? 'bg-primary text-cream-light' : 'bg-cream-light border border-accent text-muted-foreground'
             }`}
           >
-            {toBanglaNumber(d)}s
+            <Num value={d} />s
           </button>
         ))}
         {showDifficulty && (
@@ -133,10 +138,10 @@ export default function TypingTest({
                 key={d}
                 onClick={() => setDifficulty(d)}
                 className={`px-4 py-2 rounded-lg text-sm font-medium capitalize ${
-                  difficulty === d ? 'bg-secondary text-white' : 'bg-white border border-gray-200 text-gray-600'
+                  difficulty === d ? 'bg-accent text-primary' : 'bg-cream-light border border-accent text-muted-foreground'
                 }`}
               >
-                {d === 'all' ? 'All' : d}
+                {diffLabels[d]}
               </button>
             ))}
           </>
@@ -162,7 +167,7 @@ export default function TypingTest({
                 onChange={handleInput}
                 disabled={finished}
                 className="w-full card text-xl p-4 border-2 border-gray-200 focus:border-primary focus:outline-none resize-none min-h-[100px]"
-                placeholder="এখানে টাইপ করো..."
+                placeholder={t('common.typeHere')}
                 autoComplete="off"
                 autoCorrect="off"
                 spellCheck={false}
@@ -170,24 +175,24 @@ export default function TypingTest({
             </>
           ) : (
             <div className="card text-center space-y-4">
-              <h2 className="text-2xl font-bold text-primary">ফলাফল</h2>
+              <h2 className="text-2xl font-bold text-primary">{t('common.result')}</h2>
               <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-                <ScoreCard label="WPM" value={toBanglaNumber(stats.wpm)} />
-                <ScoreCard label="Accuracy" value={`${toBanglaNumber(stats.accuracy)}%`} color="text-success" />
-                {showCPM && <ScoreCard label="CPM" value={toBanglaNumber(stats.cpm)} color="text-secondary" />}
-                <ScoreCard label="সঠিক" value={toBanglaNumber(stats.correct)} color="text-success" />
-                <ScoreCard label="ভুল" value={toBanglaNumber(stats.wrong)} color="text-error" />
+                <ScoreCard label="WPM" value={<Num value={stats.wpm} />} />
+                <ScoreCard label={t('common.accuracy')} value={<><Num value={stats.accuracy} />%</>} color="text-success" />
+                {showCPM && <ScoreCard label="CPM" value={<Num value={stats.cpm} />} color="text-secondary" />}
+                <ScoreCard label={t('common.correct')} value={<Num value={stats.correct} />} color="text-success" />
+                <ScoreCard label={t('common.wrong')} value={<Num value={stats.wrong} />} color="text-error" />
               </div>
               <AdBanner size="rectangle" />
               <div className="flex gap-3 justify-center">
                 <button onClick={reset} className="btn-primary flex items-center gap-2">
-                  <RotateCcw size={18} /> আবার চেষ্টা করো
+                  <RotateCcw size={18} /> {t('common.retry')}
                 </button>
                 <button
-                  onClick={() => shareText(`BrainKhela টাইপিং: WPM ${stats.wpm}, Accuracy ${stats.accuracy}%`)}
+                  onClick={() => shareText(`BrainKhela: WPM ${stats.wpm}, Accuracy ${stats.accuracy}%`, lang)}
                   className="btn-secondary flex items-center gap-2"
                 >
-                  <Share2 size={18} /> শেয়ার করো
+                  <Share2 size={18} /> {t('common.share')}
                 </button>
               </div>
             </div>
@@ -195,9 +200,9 @@ export default function TypingTest({
         </div>
 
         <div className="space-y-4">
-          <ScoreCard label="WPM" value={toBanglaNumber(liveWpm)} />
-          <ScoreCard label="Accuracy" value={`${toBanglaNumber(liveAccuracy)}%`} color="text-success" />
-          {showCPM && <ScoreCard label="CPM" value={toBanglaNumber(calculateCPM(input.length, duration - timeLeft || 1))} color="text-secondary" />}
+          <ScoreCard label="WPM" value={<Num value={liveWpm} />} />
+          <ScoreCard label={t('common.accuracy')} value={<><Num value={liveAccuracy} />%</>} color="text-success" />
+          {showCPM && <ScoreCard label="CPM" value={<Num value={calculateCPM(input.length, duration - timeLeft || 1)} />} color="text-secondary" />}
         </div>
       </div>
     </div>

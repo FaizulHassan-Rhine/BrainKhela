@@ -1,0 +1,59 @@
+{
+  "title": "English Typing Test",
+  "levels": {
+    "easy": [
+      {
+        "id": "en_easy_1",
+        "text": "The sun is bright today. I like to walk in the park. Birds sing in the trees. The sky is blue and clear. We play games after school."
+      },
+      {
+        "id": "en_easy_2",
+        "text": "My name is Alex. I live in a small town. I have a dog and a cat. We go for a walk every morning. I love reading books."
+      },
+      {
+        "id": "en_easy_3",
+        "text": "Today is a good day. The weather is nice and cool. I will meet my friends at noon. We plan to eat lunch together. Then we will watch a movie."
+      },
+      {
+        "id": "en_easy_4",
+        "text": "She likes to draw pictures. He plays football every weekend. They go to school by bus. We eat breakfast at seven. I drink tea every morning."
+      },
+      {
+        "id": "en_easy_5",
+        "text": "The cat sat on the mat. A dog ran across the yard. Children played in the park. Rain fell softly on the roof. The night was calm and quiet."
+      }
+    ],
+    "medium": [
+      {
+        "id": "en_medium_1",
+        "text": "Technology has transformed the way people communicate and work. With the rise of smartphones and the internet, information is now available at our fingertips. Many businesses have shifted to remote work, allowing employees to collaborate from different parts of the world. This shift has created both new opportunities and new challenges for organizations."
+      },
+      {
+        "id": "en_medium_2",
+        "text": "Reading regularly can improve vocabulary, comprehension, and critical thinking skills. Studies have shown that people who read often tend to have a better understanding of complex ideas and a greater ability to focus for long periods. Building a daily reading habit, even for just twenty minutes, can have lasting benefits over time."
+      },
+      {
+        "id": "en_medium_3",
+        "text": "Climate change is one of the most pressing issues facing the world today. Rising global temperatures are causing more frequent and severe weather events, including droughts, floods, and storms. Governments and individuals alike must take meaningful action to reduce carbon emissions and protect natural ecosystems for future generations."
+      },
+      {
+        "id": "en_medium_4",
+        "text": "Effective time management is essential for achieving personal and professional goals. By prioritizing tasks, setting clear deadlines, and avoiding unnecessary distractions, individuals can significantly increase their productivity. Many successful people credit their achievements to disciplined daily routines and the ability to focus on what truly matters."
+      }
+    ],
+    "hard": [
+      {
+        "id": "en_hard_1",
+        "text": "The exponential growth of artificial intelligence has sparked intense debate among scientists, policymakers, and ethicists regarding its long-term implications for society. While proponents argue that AI-driven automation could dramatically increase economic productivity and solve complex problems ranging from disease diagnosis to climate modeling, critics warn of potential job displacement, algorithmic bias, and the erosion of human oversight in critical decision-making processes. Striking a balance between innovation and responsible governance remains one of the defining challenges of the twenty-first century."
+      },
+      {
+        "id": "en_hard_2",
+        "text": "Globalization has fundamentally reshaped the economic, cultural, and political landscape of the modern world, fostering unprecedented interconnectedness while simultaneously exacerbating existing inequalities between developed and developing nations. The free flow of capital, goods, and information across borders has enabled multinational corporations to optimize supply chains and access new markets, yet it has also intensified competition for local industries that struggle to compete with cheaper imports, raising complex questions about sustainable and equitable development."
+      },
+      {
+        "id": "en_hard_3",
+        "text": "Quantum computing represents a paradigm shift in computational theory, leveraging the principles of superposition and entanglement to perform calculations that would be practically impossible for classical computers to execute within a reasonable timeframe. Although still in its nascent stages, researchers anticipate that quantum systems could eventually revolutionize fields such as cryptography, drug discovery, and materials science, provided that significant engineering challenges related to qubit stability and error correction can be overcome."
+      }
+    ]
+  }
+}

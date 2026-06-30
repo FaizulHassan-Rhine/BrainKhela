@@ -2,6 +2,7 @@
 
 import { useEffect } from 'react';
 import { ADSENSE_CLIENT } from '@/lib/constants';
+import { useLanguage } from '@/components/providers/LanguageProvider';
 
 const SIZES = {
   leaderboard: { width: 728, height: 90, label: '728 × 90' },
@@ -10,6 +11,7 @@ const SIZES = {
 };
 
 export default function AdBanner({ size = 'responsive' }) {
+  const { t } = useLanguage();
   const isDev = process.env.NODE_ENV === 'development';
   const dimensions = SIZES[size] || SIZES.responsive;
 
@@ -27,7 +29,7 @@ export default function AdBanner({ size = 'responsive' }) {
     return (
       <div className="flex justify-center my-4">
         <div
-          className="bg-gray-200 border-2 border-dashed border-gray-400 flex items-center justify-center text-gray-500 text-sm rounded-lg"
+          className="bg-accent/30 border-2 border-dashed border-accent flex items-center justify-center text-muted-foreground text-sm rounded-xl"
           style={{
             width: typeof dimensions.width === 'number' ? dimensions.width : '100%',
             maxWidth: '100%',
@@ -35,7 +37,7 @@ export default function AdBanner({ size = 'responsive' }) {
             minHeight: 90,
           }}
         >
-          <span>Ad Placeholder ({dimensions.label})</span>
+          <span>{t('common.adPlaceholder')} ({dimensions.label})</span>
         </div>
       </div>
     );
@@ -50,7 +52,6 @@ export default function AdBanner({ size = 'responsive' }) {
         data-ad-slot="XXXXXXXXXX"
         data-ad-format={size === 'responsive' ? 'auto' : undefined}
         data-full-width-responsive={size === 'responsive' ? 'true' : undefined}
-        data-ad-layout-key={size === 'leaderboard' ? '-fb+5w+4e-db+86' : undefined}
       />
     </div>
   );
