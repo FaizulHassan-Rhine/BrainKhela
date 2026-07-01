@@ -1,11 +1,11 @@
 import { Hind_Siliguri, Noto_Sans_Bengali } from 'next/font/google';
-import Script from 'next/script';
 import './globals.css';
 import AppProviders from '@/components/providers/AppProviders';
 import Navbar from '@/components/layout/Navbar';
 import Footer from '@/components/layout/Footer';
 import JsonLd from '@/components/seo/JsonLd';
-import { GA_MEASUREMENT_ID, ADSENSE_CLIENT } from '@/lib/constants';
+import { GA_MEASUREMENT_ID } from '@/lib/constants';
+import { getMetadataIcons } from '@/lib/brand';
 import { HOME_METADATA, GLOBAL_KEYWORDS, getOrganizationSchema, getWebsiteSchema } from '@/lib/seo';
 
 const hindSiliguri = Hind_Siliguri({
@@ -34,6 +34,7 @@ export const metadata = {
   applicationName: 'BrainKhela',
   category: 'education',
   formatDetection: { email: false, telephone: false },
+  icons: getMetadataIcons(),
 };
 
 export default function RootLayout({ children }) {
@@ -54,12 +55,6 @@ export default function RootLayout({ children }) {
       </head>
       <body className="min-h-screen flex flex-col font-bangla">
         <JsonLd data={[getOrganizationSchema(), getWebsiteSchema()]} />
-        <Script
-          async
-          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`}
-          crossOrigin="anonymous"
-          strategy="afterInteractive"
-        />
         <AppProviders>
           <Navbar />
           <main className="flex-1">{children}</main>

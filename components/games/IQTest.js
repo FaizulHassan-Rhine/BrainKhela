@@ -1,13 +1,13 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import AdBanner from '@/components/ui/AdBanner';
 import ProgressBar from '@/components/ui/ProgressBar';
 import { getIQScore, shareText } from '@/lib/utils';
 import Num from '@/components/ui/Num';
 import { Share2, RotateCcw } from 'lucide-react';
 import { useLanguage } from '@/components/providers/LanguageProvider';
 import { useLocalizedQuestions } from '@/hooks/useLocalizedQuestions';
+import LuxuryLoader from '@/components/ui/LuxuryLoader';
 
 function getIQLabel(iqHigh, t) {
   if (iqHigh >= 130) return t('iq.gifted');
@@ -59,9 +59,9 @@ export default function IQTest({ questions }) {
     setFinished(false);
   };
 
-  if (translating) return <div className="text-center py-12 text-primary">{t('common.translating')}</div>;
+  if (translating) return <LuxuryLoader variant="inline" label={t('common.translating')} />;
 
-  if (!current && !finished) return <div className="text-center py-12">{t('common.loading')}</div>;
+  if (!current && !finished) return <LuxuryLoader variant="inline" label={t('common.loading')} />;
 
   if (finished) {
     const iq = getIQScore(score, TOTAL);
@@ -79,7 +79,6 @@ export default function IQTest({ questions }) {
             {t('iq.correctOf')}: <Num value={score} />/<Num value={TOTAL} />
           </p>
         </div>
-        <AdBanner size="rectangle" />
         <div className="flex gap-3 justify-center">
           <button onClick={reset} className="btn-primary flex items-center gap-2">
             <RotateCcw size={18} /> {t('common.retry')}
@@ -98,8 +97,6 @@ export default function IQTest({ questions }) {
   return (
     <div className="max-w-3xl mx-auto space-y-6">
       <ProgressBar current={currentIndex + 1} total={sessionQuestions.length} label={t('common.progress')} />
-
-      {currentIndex === 7 && <AdBanner size="leaderboard" />}
 
       <div className="card space-y-4">
         <p className="text-sm text-gray-500">

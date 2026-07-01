@@ -2,7 +2,6 @@
 
 import { useState, useMemo } from 'react';
 import Link from 'next/link';
-import AdBanner from '@/components/ui/AdBanner';
 import BrainGameEngine from '@/components/brain-games/BrainGameEngine';
 import { useLanguage } from '@/components/providers/LanguageProvider';
 import { resolveGameText } from '@/lib/data/brainGamesDataset';
@@ -57,8 +56,6 @@ export default function BrainGamePlay({ game }) {
           <BrainGameEngine engine={config.engine} props={config.props} />
         </section>
       )}
-
-      <AdBanner size="rectangle" />
     </div>
   );
 }

@@ -2,7 +2,6 @@
 
 import { useState, useMemo } from 'react';
 import QuizEngine from '@/components/games/QuizEngine';
-import AdBanner from '@/components/ui/AdBanner';
 import { getMathQuestions } from '@/lib/data/mathQuestions';
 import { useLanguage } from '@/components/providers/LanguageProvider';
 import Num from '@/components/ui/Num';
@@ -82,7 +81,6 @@ export default function MathGame() {
           {t('math.startGame')}
         </button>
       </div>
-      <AdBanner size="rectangle" />
     </div>
   );
 }

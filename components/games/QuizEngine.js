@@ -1,7 +1,6 @@
 'use client';
 
 import { useState, useEffect, useCallback, useMemo, useRef } from 'react';
-import AdBanner from '@/components/ui/AdBanner';
 import ProgressBar from '@/components/ui/ProgressBar';
 import ScoreCard from '@/components/ui/ScoreCard';
 import Timer from '@/components/ui/Timer';
@@ -12,6 +11,7 @@ import { useLanguage } from '@/components/providers/LanguageProvider';
 import { translations } from '@/lib/translations';
 import { useLocalizedQuestions } from '@/hooks/useLocalizedQuestions';
 import { dedupeMcqItems } from '@/lib/data/bilingualMcq';
+import LuxuryLoader from '@/components/ui/LuxuryLoader';
 
 export default function QuizEngine({
   questions,
@@ -104,16 +104,11 @@ export default function QuizEngine({
   };
 
   if (translating) {
-    return (
-      <div className="flex flex-col items-center justify-center py-20 gap-3 text-primary">
-        <div className="w-10 h-10 border-4 border-primary border-t-transparent rounded-full animate-spin" />
-        <p>{t('common.translating')}</p>
-      </div>
-    );
+    return <LuxuryLoader variant="inline" label={t('common.translating')} />;
   }
 
   if (!current && !finished) {
-    return <div className="text-center py-12">{t('common.loading')}</div>;
+    return <LuxuryLoader variant="inline" label={t('common.loading')} />;
   }
 
   if (finished) {
@@ -131,7 +126,6 @@ export default function QuizEngine({
           <ScoreCard label={t('common.percent')} value={<><Num value={percentage} />%</>} color="text-primary-dark" />
           <ScoreCard label={t('common.grade')} value={grade} color="text-success" />
         </div>
-        <AdBanner size="rectangle" />
         <button
           onClick={() => {
             prevSourceKey.current = '';
@@ -162,8 +156,6 @@ export default function QuizEngine({
           <ProgressBar current={currentIndex + 1} total={sessionQuestions.length} />
         </div>
       </div>
-
-      {currentIndex === 5 && <AdBanner size="leaderboard" />}
 
       <div className="card space-y-4 sm:space-y-5 p-4 sm:p-6">
         <div className="flex flex-wrap gap-2">
@@ -203,11 +195,11 @@ export default function QuizEngine({
             if (answered) {
               if (isCorrect && isSelected) {
                 className = 'quiz-option quiz-option-correct min-h-[52px] sm:min-h-[56px] flex items-center';
-                labelClass = 'font-bold mr-3 shrink-0 w-6 text-primary-dark';
+                labelClass = 'font-bold mr-3 shrink-0 w-6 text-green-700';
                 Icon = CheckCircle2;
               } else if (isCorrect) {
                 className = 'quiz-option quiz-option-reveal-correct min-h-[52px] sm:min-h-[56px] flex items-center';
-                labelClass = 'font-bold mr-3 shrink-0 w-6 text-primary';
+                labelClass = 'font-bold mr-3 shrink-0 w-6 text-green-700';
                 Icon = CheckCircle2;
               } else if (isSelected) {
                 className = 'quiz-option quiz-option-wrong min-h-[52px] sm:min-h-[56px] flex items-center';
@@ -231,7 +223,7 @@ export default function QuizEngine({
                 {Icon && (
                   <Icon
                     size={22}
-                    className={`shrink-0 ml-2 ${isCorrect ? 'text-primary' : 'text-red-500'}`}
+                    className={`shrink-0 ml-2 ${isCorrect ? 'text-green-600' : 'text-red-500'}`}
                   />
                 )}
               </button>

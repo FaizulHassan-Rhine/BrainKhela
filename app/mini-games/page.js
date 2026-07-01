@@ -1,7 +1,6 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import AdBanner from '@/components/ui/AdBanner';
 import { miniGamesData } from '@/lib/data/brainGames';
 import Num from '@/components/ui/Num';
 import { RotateCcw, Eye } from 'lucide-react';
@@ -163,7 +162,6 @@ export default function MiniGamesPage() {
               <h2 className="text-xl font-bold text-primary mb-6 text-center">{t(game.titleKey)}</h2>
               <GameComponent />
             </section>
-            {i < games.length - 1 && <AdBanner size="leaderboard" />}
           </div>
         );
       })}

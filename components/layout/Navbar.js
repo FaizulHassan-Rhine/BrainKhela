@@ -7,6 +7,7 @@ import { Menu, X } from 'lucide-react';
 import { NAV_LINK_KEYS } from '@/lib/translations';
 import { useLanguage } from '@/components/providers/LanguageProvider';
 import LanguageToggle from '@/components/ui/LanguageToggle';
+import BrandLogo from '@/components/ui/BrandLogo';
 
 export default function Navbar() {
   const [open, setOpen] = useState(false);
@@ -21,10 +22,9 @@ export default function Navbar() {
   return (
     <nav className="sticky top-0 z-40 bg-cream-light/95 backdrop-blur-md border-b border-accent shadow-card">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between items-center h-16">
-          <Link href="/" className="flex items-center gap-2 font-bold text-xl text-primary">
-            <span className="text-2xl">🧠</span>
-            <span>BrainKhela</span>
+        <div className="flex justify-between items-center h-[4.5rem]">
+          <Link href="/" className="flex items-center" aria-label="BrainKhela home">
+            <BrandLogo size="nav" showName={false} priority />
           </Link>
 
           <div className="hidden md:flex items-center gap-2">

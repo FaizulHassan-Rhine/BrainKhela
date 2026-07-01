@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { useLanguage } from '@/components/providers/LanguageProvider';
+import BrandLogo from '@/components/ui/BrandLogo';
 
 export default function HeroSection() {
   const { t } = useLanguage();
@@ -9,6 +10,9 @@ export default function HeroSection() {
   return (
     <section className="bg-gradient-to-br from-accent via-secondary to-surface text-primary py-16 md:py-24 border-b border-accent">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <div className="flex justify-center mb-6">
+          <BrandLogo size="lg" showName={false} priority />
+        </div>
         <h1 className="text-4xl md:text-6xl font-bold mb-4 text-primary-dark">
           {t('tagline')}
         </h1>

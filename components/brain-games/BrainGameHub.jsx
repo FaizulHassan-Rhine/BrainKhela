@@ -2,19 +2,27 @@
 
 import { useState, useMemo } from 'react';
 import Link from 'next/link';
-import { Brain, Zap, Calculator, BookOpen, Target } from 'lucide-react';
 import { useLanguage } from '@/components/providers/LanguageProvider';
 import { getAllBrainGames, resolveGameText } from '@/lib/data/brainGamesDataset';
 import Num from '@/components/ui/Num';
+import BrainGamePreview from '@/components/brain-games/BrainGamePreview';
 
 const CATEGORY_META = [
-  { id: 'all', key: 'brain.allCategories', icon: Brain },
-  { id: 'memory', key: 'brain.catMemory', icon: Brain },
-  { id: 'logic', key: 'brain.catLogic', icon: Zap },
-  { id: 'math', key: 'brain.catMath', icon: Calculator },
-  { id: 'word', key: 'brain.catWord', icon: BookOpen },
-  { id: 'reaction', key: 'brain.catReaction', icon: Target },
+  { id: 'all', key: 'brain.allCategories' },
+  { id: 'memory', key: 'brain.catMemory' },
+  { id: 'logic', key: 'brain.catLogic' },
+  { id: 'math', key: 'brain.catMath' },
+  { id: 'word', key: 'brain.catWord' },
+  { id: 'reaction', key: 'brain.catReaction' },
 ];
+
+const CATEGORY_BADGE = {
+  memory: 'bg-violet-100 text-violet-800',
+  logic: 'bg-sky-100 text-sky-800',
+  math: 'bg-amber-100 text-amber-800',
+  word: 'bg-emerald-100 text-emerald-800',
+  reaction: 'bg-rose-100 text-rose-800',
+};
 
 export default function BrainGameHub() {
   const { t, lang } = useLanguage();
@@ -34,40 +42,42 @@ export default function BrainGameHub() {
       </div>
 
       <div className="flex gap-2 flex-wrap justify-center">
-        {CATEGORY_META.map(({ id, key, icon: Icon }) => (
+        {CATEGORY_META.map(({ id, key }) => (
           <button
             key={id}
             onClick={() => setCategory(id)}
-            className={`flex items-center gap-1.5 px-4 py-2 rounded-full text-sm transition-colors ${
+            className={`px-4 py-2 rounded-full text-sm transition-colors ${
               category === id ? 'bg-primary text-cream-light' : 'bg-cream-light border border-accent text-muted-foreground'
             }`}
           >
-            <Icon size={16} />
             {t(key)}
           </button>
         ))}
       </div>
 
-      <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
         {filtered.map((game) => (
           <Link
             key={game.id}
             href={`/brain-game/${game.id}`}
-            className="card hover:border-primary/40 transition-colors group"
+            className="group rounded-2xl border border-accent bg-cream-light shadow-card hover:shadow-soft hover:border-primary/30 transition-all overflow-hidden"
           >
-            <div className="flex items-start justify-between gap-2 mb-2">
-              <span className="text-xs font-mono text-muted-foreground uppercase">{game.category}</span>
-              <span className="text-xs text-muted-foreground">{game.id}</span>
+            <BrainGamePreview game={game} lang={lang} />
+
+            <div className="p-4 sm:p-5">
+              <span className={`inline-block text-[10px] font-semibold uppercase tracking-wider px-2 py-0.5 rounded-full mb-2 ${CATEGORY_BADGE[game.category] || 'bg-accent text-primary'}`}>
+                {game.category}
+              </span>
+              <h2 className="font-bold text-primary group-hover:text-primary-dark mb-1.5 leading-snug">
+                {resolveGameText(game.name, lang)}
+              </h2>
+              <p className="text-sm text-muted-foreground line-clamp-2 min-h-[2.5rem]">
+                {resolveGameText(game.description, lang)}
+              </p>
+              <span className="inline-block mt-4 text-sm font-semibold text-primary group-hover:gap-2 transition-all">
+                {t('brain.play')} →
+              </span>
             </div>
-            <h2 className="font-bold text-primary group-hover:text-primary-dark mb-2">
-              {resolveGameText(game.name, lang)}
-            </h2>
-            <p className="text-sm text-muted-foreground line-clamp-2">
-              {resolveGameText(game.description, lang)}
-            </p>
-            <span className="inline-block mt-4 text-sm font-medium text-primary">
-              {t('brain.play')} →
-            </span>
           </Link>
         ))}
       </div>

@@ -1,4 +1,5 @@
 import { SITE_NAME, SITE_URL } from '@/lib/constants';
+import { getManifestIcons } from '@/lib/brand';
 
 export default function manifest() {
   return {
@@ -12,9 +13,7 @@ export default function manifest() {
     lang: 'bn',
     dir: 'ltr',
     categories: ['education', 'games'],
-    icons: [
-      { src: '/og-image.svg', sizes: 'any', type: 'image/svg+xml', purpose: 'any' },
-    ],
+    icons: getManifestIcons(),
     related_applications: [],
     prefer_related_applications: false,
     scope: '/',

@@ -3,7 +3,7 @@ import JsonLd from '@/components/seo/JsonLd';
 
 const title = 'সাধারণ জ্ঞান কুইজ';
 const description =
-  'সাধারণ জ্ঞান (GK) কুইজ বাংলা ও ইংরেজি — ভূগোল, ইতিহাস, বিজ্ঞান, ক্রীড়া। Free general knowledge quiz for Bangladesh students on BrainKhela.';
+  'সাধারণ জ্ঞান (GK) কুইজ বাংলা ও ইংরেজি — বাংলাদেশ, আন্তর্জাতিক, ভূগোল, ইতিহাস, বিজ্ঞান, খেলাধুলা, সাহিত্য। ৫০০+ প্রশ্ন। Free general knowledge quiz for Bangladesh students on BrainKhela.';
 
 export const metadata = buildPageMetadata({
   title,

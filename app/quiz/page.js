@@ -1,21 +1,25 @@
 'use client';
 
 import Link from 'next/link';
-import { BookOpen, GraduationCap, Calculator, ArrowRight } from 'lucide-react';
-import AdBanner from '@/components/ui/AdBanner';
+import { ArrowRight, BookOpen, GraduationCap, Calculator } from 'lucide-react';
 import { useLanguage } from '@/components/providers/LanguageProvider';
 import Num from '@/components/ui/Num';
 
+const QUIZ_ICONS = {
+  '/quiz/gk': BookOpen,
+  '/quiz/ssc': GraduationCap,
+  '/quiz/hsc-accounting': Calculator,
+};
+
 export default function QuizHubPage() {
-  const { t, lang } = useLanguage();
+  const { t } = useLanguage();
 
   const categories = [
     {
       href: '/quiz/gk',
       titleKey: 'quiz.gkTitle',
       descKey: 'quiz.gkDesc',
-      icon: BookOpen,
-      count: 83,
+      count: 500,
       difficultyKey: 'quiz.medium',
       gradient: 'from-accent to-secondary',
     },
@@ -23,8 +27,7 @@ export default function QuizHubPage() {
       href: '/quiz/ssc',
       titleKey: 'quiz.sscTitle',
       descKey: 'quiz.sscDesc',
-      icon: GraduationCap,
-      count: 500,
+      count: 1000,
       difficultyKey: 'quiz.mediumHard',
       gradient: 'from-secondary to-cream-light',
     },
@@ -32,8 +35,7 @@ export default function QuizHubPage() {
       href: '/quiz/hsc-accounting',
       titleKey: 'quiz.hscTitle',
       descKey: 'quiz.hscDesc',
-      icon: Calculator,
-      count: 417,
+      count: 1000,
       difficultyKey: 'quiz.hard',
       gradient: 'from-cream-dark to-accent',
     },
@@ -46,11 +48,10 @@ export default function QuizHubPage() {
         <p className="text-gray-500 mt-2 text-sm sm:text-base">{t('quiz.hubSubtitle')}</p>
       </div>
 
-      <AdBanner size="leaderboard" />
-
       <div className="grid grid-cols-1 md:grid-cols-3 gap-5 my-8">
         {categories.map((cat) => {
-          const Icon = cat.icon;
+          const Icon = QUIZ_ICONS[cat.href];
+
           return (
             <Link
               key={cat.href}
@@ -59,8 +60,8 @@ export default function QuizHubPage() {
             >
               <div className={`h-2 bg-gradient-to-r ${cat.gradient}`} />
               <div className="p-5 sm:p-6">
-                <div className={`w-12 h-12 rounded-xl bg-gradient-to-br ${cat.gradient} text-primary flex items-center justify-center mb-4 group-hover:scale-110 transition-transform border border-accent/50`}>
-                  <Icon size={24} />
+                <div className={`w-14 h-14 rounded-xl bg-gradient-to-br ${cat.gradient} flex items-center justify-center mb-4 group-hover:scale-110 transition-transform border border-accent/50 text-primary`}>
+                  {Icon && <Icon size={28} strokeWidth={2} />}
                 </div>
                 <h2 className="font-bold text-lg mb-1">{t(cat.titleKey)}</h2>
                 <p className="text-sm text-gray-500 mb-4 line-clamp-2">{t(cat.descKey)}</p>
@@ -80,8 +81,6 @@ export default function QuizHubPage() {
           );
         })}
       </div>
-
-      <AdBanner size="rectangle" />
     </div>
   );
 }

@@ -1,7 +1,6 @@
 'use client';
 
 import { useState, useEffect, useRef, useCallback } from 'react';
-import AdBanner from '@/components/ui/AdBanner';
 import ScoreCard from '@/components/ui/ScoreCard';
 import Timer from '@/components/ui/Timer';
 import { calculateWPM, calculateCPM, calculateAccuracy, shareText } from '@/lib/utils';
@@ -154,8 +153,6 @@ export default function TypingTest({
             <Timer seconds={timeLeft} total={duration} />
           </div>
 
-          <AdBanner size="leaderboard" />
-
           {!finished ? (
             <>
               <div className="card text-2xl leading-loose min-h-[120px] select-none">
@@ -183,7 +180,6 @@ export default function TypingTest({
                 <ScoreCard label={t('common.correct')} value={<Num value={stats.correct} />} color="text-success" />
                 <ScoreCard label={t('common.wrong')} value={<Num value={stats.wrong} />} color="text-error" />
               </div>
-              <AdBanner size="rectangle" />
               <div className="flex gap-3 justify-center">
                 <button onClick={reset} className="btn-primary flex items-center gap-2">
                   <RotateCcw size={18} /> {t('common.retry')}
